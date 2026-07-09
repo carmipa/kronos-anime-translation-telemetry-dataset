@@ -1,7 +1,7 @@
 {
   "dataset" : "kronos-anime-translation-telemetry-dataset",
   "versaoFormato" : 1,
-  "geradoEm" : "2026-07-09T13:22:06.058782900Z",
+  "geradoEm" : "2026-07-09T13:29:05.194088900Z",
   "descricao" : "Métricas operacionais de tradução de legendas de anime com LLM 100% local (LM Studio). Sem textos de legenda e sem caminhos de máquina — apenas métricas.",
   "resumo" : {
     "totalEpisodiosTraduzidos" : 120,
