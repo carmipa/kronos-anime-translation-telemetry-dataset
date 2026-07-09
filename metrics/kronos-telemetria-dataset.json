@@ -1,7 +1,7 @@
 {
   "dataset" : "kronos-core-telemetry-dataset",
   "versaoFormato" : 1,
-  "geradoEm" : "2026-07-09T13:11:23.361607900Z",
+  "geradoEm" : "2026-07-09T13:16:49.277675600Z",
   "descricao" : "Métricas operacionais de tradução de legendas de anime com LLM 100% local (LM Studio). Sem textos de legenda e sem caminhos de máquina — apenas métricas.",
   "resumo" : {
     "totalEpisodiosTraduzidos" : 120,
@@ -10,7 +10,7 @@
     "totalFalasReaproveitadasDoCache" : 4842,
     "alucinacoesLlmPrevenidas" : 29287,
     "arquivosRenomeados" : 106,
-    "totalOperacoesRegistradas" : 415
+    "totalOperacoesRegistradas" : 425
   },
   "traducoesLlm" : [ {
     "episodio" : "[2ndfire]Mobile_Suit_Gundam_Narrative[BD][1080p][AV1][10bit][981A36A1]_Track3.ass",
@@ -4238,5 +4238,75 @@
     "itensDetectados" : 0,
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-07-09T13:08:47.872925300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 7,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-09T13:10:01.421142Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 952,
+    "arquivosProcessados" : 152,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-09T13:10:07.798297Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-09T13:10:08.255850200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-09T13:10:08.300182Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 1148,
+    "arquivosProcessados" : 152,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-09T13:10:08.971385500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 8,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-09T13:15:46.081037200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1044,
+    "arquivosProcessados" : 152,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-09T13:15:52.735945900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-09T13:15:53.118055Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-09T13:15:53.153571700Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 1179,
+    "arquivosProcessados" : 152,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-09T13:15:53.945645400Z"
   } ]
 }
