@@ -1,7 +1,7 @@
 {
   "dataset" : "kronos-anime-translation-telemetry-dataset",
   "versaoFormato" : 2,
-  "geradoEm" : "2026-07-14T09:45:18.2798752Z",
+  "geradoEm" : "2026-07-14T11:30:15.022139800Z",
   "descricao" : "Métricas operacionais de tradução de legendas de anime com LLM 100% local (LM Studio). Sem textos de legenda e sem caminhos de máquina — apenas métricas.",
   "ambienteExecucao" : {
     "fabricante" : "System manufacturer",
@@ -24,7 +24,7 @@
     "falhasTraducaoRecuperadas" : 0,
     "fallbacksTraducaoMantidos" : 0,
     "arquivosRenomeados" : 2,
-    "totalOperacoesRegistradas" : 305
+    "totalOperacoesRegistradas" : 390
   },
   "traducoesLlm" : [ {
     "episodio" : "Teste_Ep01_ENG.ass",
@@ -2195,5 +2195,600 @@
     "itensDetectados" : 13,
     "itensCorrigidos" : 13,
     "registradoEm" : "2026-07-13T23:56:39.067291800Z"
+  }, {
+    "tipo" : "Analise de Midia",
+    "tempoTotalMs" : null,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:25:01.209923200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 7,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:36.262438200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 380,
+    "arquivosProcessados" : 14,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:41.373360800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:42.155960400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:42.198611800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:42.273598300Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 2764,
+    "arquivosProcessados" : 10,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:44.172263300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 7,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:49.483022Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 314,
+    "arquivosProcessados" : 14,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:54.322489400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:55.014022800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:55.050996500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:55.073185300Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 2529,
+    "arquivosProcessados" : 9,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:39:56.876876400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:46:06.435317400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:46:11.198001800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:46:11.240653300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:46:11.268713500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:46:51.370811700Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:46:56.161435700Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:46:56.203719600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:46:56.232407900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:50:29.942368500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:50:30.107836500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:50:34.792180800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:50:34.815215200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:50:34.843236Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:50:34.881246800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:50:34.900255900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 7,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:51:34.729657200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:51:34.887992100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:51:39.542421Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:51:39.565942600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:51:39.591955600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:51:39.634969900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:51:39.659055900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:51:39.688086800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:53:24.658228600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:53:24.801959800Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 320,
+    "arquivosProcessados" : 14,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:53:29.623382300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:53:30.351052900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:53:30.368210200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:53:30.394219100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:53:30.428256Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:53:30.452269200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T09:53:30.480106500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 7,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:42:28.433028600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:42:28.594056600Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 314,
+    "arquivosProcessados" : 14,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:42:33.457014Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:42:34.162644200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:42:34.186244100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:42:34.212816100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:42:34.242932Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:42:34.263831200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:42:34.292862800Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 899,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:42:34.371358700Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 8,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:51:39.896190200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:51:40.018483300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 7,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:51:40.047105300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:51:40.080011300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:51:40.099143500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:51:40.124000600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:55:23.407976900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 7,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:55:23.579795500Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 306,
+    "arquivosProcessados" : 14,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:55:28.341448600Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 672,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T10:55:29.026689200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 10,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:02:49.874951200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:02:50.012279700Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:02:50.037869Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:02:50.060929400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:02:50.086476500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:02:50.113132900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:02:50.134165800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:02:50.171214500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 8,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:20.337698300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:20.478818200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 308,
+    "arquivosProcessados" : 14,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:25.433504800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:26.126370300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:26.145400300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:26.170451Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:26.193651300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:26.224419800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:26.251478300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:26.269927400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:26.294019100Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 2645,
+    "arquivosProcessados" : 10,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T11:04:28.094337500Z"
   } ]
 }
