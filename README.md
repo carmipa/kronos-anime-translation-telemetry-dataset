@@ -33,12 +33,11 @@ Safe execution-environment metadata for benchmark context.
 |-------|---------|
 | `fabricante` / `modeloMaquina` | Generic manufacturer and machine model reported by the OS |
 | `cpu` | Public CPU name |
-| `gpuPrincipal` | GPU name published for benchmark comparison |
-| `gpuDetectadaSistema` | GPU name reported by the OS/driver when it differs from the configured public name |
+| `gpuPrincipal` | Dedicated GPU selected automatically from the current machine |
+| `gpusDetectadas` | All GPUs reported by the current operating system/driver |
 | `ramTotalGb` | Rounded total physical RAM in GB |
 | `sistemaOperacional` / `arquitetura` | Runtime platform, without username, hostname, paths, IPs or device IDs |
 | `hardwareColetadoAutomaticamente` | Whether the values were collected automatically from the local system |
-| `gpuPublicaConfigurada` | Whether a public GPU override was configured |
 
 #### `resumo`
 
@@ -119,12 +118,11 @@ Metadados seguros do ambiente de execução para contextualizar benchmarks.
 |-------|-------------|
 | `fabricante` / `modeloMaquina` | Fabricante e modelo genérico reportados pelo sistema operacional |
 | `cpu` | Nome público do processador |
-| `gpuPrincipal` | GPU publicada para comparação de benchmark |
-| `gpuDetectadaSistema` | GPU detectada pelo sistema/driver quando difere do nome público configurado |
+| `gpuPrincipal` | GPU dedicada selecionada automaticamente na máquina atual |
+| `gpusDetectadas` | Todas as GPUs reportadas pelo sistema operacional/driver atual |
 | `ramTotalGb` | RAM física total arredondada em GB |
 | `sistemaOperacional` / `arquitetura` | Plataforma de execução, sem usuário, hostname, caminhos, IPs ou IDs de dispositivo |
 | `hardwareColetadoAutomaticamente` | Indica se os valores foram coletados automaticamente do sistema local |
-| `gpuPublicaConfigurada` | Indica se houve override público da GPU |
 
 #### `resumo`
 
