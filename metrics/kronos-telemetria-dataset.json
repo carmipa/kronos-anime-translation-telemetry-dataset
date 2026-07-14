@@ -1,19 +1,18 @@
 {
   "dataset" : "kronos-anime-translation-telemetry-dataset",
-  "versaoFormato" : 1,
-  "geradoEm" : "2026-07-14T09:23:49.882464Z",
+  "versaoFormato" : 2,
+  "geradoEm" : "2026-07-14T09:45:18.2798752Z",
   "descricao" : "Métricas operacionais de tradução de legendas de anime com LLM 100% local (LM Studio). Sem textos de legenda e sem caminhos de máquina — apenas métricas.",
   "ambienteExecucao" : {
     "fabricante" : "System manufacturer",
     "modeloMaquina" : "System Product Name",
     "cpu" : "AMD Ryzen 7 5800X3D 8-Core Processor",
-    "gpuPrincipal" : "NVIDIA RTX 5600",
-    "gpuDetectadaSistema" : "AMD Radeon RX 7800 XT",
+    "gpuPrincipal" : "AMD Radeon RX 7800 XT",
+    "gpusDetectadas" : [ "AMD Radeon RX 7800 XT" ],
     "ramTotalGb" : 64,
     "sistemaOperacional" : "Windows 11",
     "arquitetura" : "amd64",
-    "hardwareColetadoAutomaticamente" : true,
-    "gpuPublicaConfigurada" : true
+    "hardwareColetadoAutomaticamente" : true
   },
   "resumo" : {
     "totalEpisodiosTraduzidos" : 3,
