@@ -1,7 +1,7 @@
 {
   "dataset" : "kronos-anime-translation-telemetry-dataset",
   "versaoFormato" : 2,
-  "geradoEm" : "2026-07-14T23:45:44.129083800Z",
+  "geradoEm" : "2026-07-15T01:06:28.822235400Z",
   "descricao" : "Métricas operacionais de tradução de legendas de anime com LLM 100% local (LM Studio). Sem textos de legenda e sem caminhos de máquina — apenas métricas.",
   "ambienteExecucao" : {
     "fabricante" : "Avell",
@@ -19,12 +19,12 @@
     "totalLinhasTraduzidas" : 5669,
     "tempoMedioPorLinhaMs" : 349,
     "totalFalasReaproveitadasDoCache" : 0,
-    "alucinacoesLlmPrevenidas" : 6106,
+    "alucinacoesLlmPrevenidas" : 6123,
     "respostasTraducaoRejeitadas" : 283,
     "falhasTraducaoRecuperadas" : 104,
     "fallbacksTraducaoMantidos" : 5558,
     "arquivosRenomeados" : 2,
-    "totalOperacoesRegistradas" : 463
+    "totalOperacoesRegistradas" : 483
   },
   "traducoesLlm" : [ {
     "episodio" : "Teste_Ep01_ENG.ass",
@@ -3444,5 +3444,145 @@
     "itensDetectados" : 33,
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-07-14T23:45:16.698367500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 8997,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 33,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:55:33.338161100Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 9550,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 33,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:55:46.473886900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 397428,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 351,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-15T00:02:44.693298400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 351501,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 434,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-07-15T00:29:52.631595500Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "tempoTotalMs" : 3223,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1700,
+    "itensCorrigidos" : 409,
+    "registradoEm" : "2026-07-15T00:35:01.053040500Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1829,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 41,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:35:22.698660300Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 7520,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-15T00:35:40.767722400Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 26069,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 41,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-07-15T00:36:13.019552600Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1784,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:36:24.391035500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 10581,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:39:40.249779500Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 9091,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:40:01.444579Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1617,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:51:22.402870400Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 6922,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:51:31.473921600Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 33338,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 25,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-07-15T00:53:20.953705800Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 12328,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 14,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-07-15T00:54:57.165493300Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 8073,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:55:14.244690100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 517,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:55:36.510348200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "tempoTotalMs" : 69247,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 91,
+    "itensCorrigidos" : 74,
+    "registradoEm" : "2026-07-15T00:57:26.145364500Z"
+  }, {
+    "tipo" : "Correcao de Legendas (.ass original->traduzida)",
+    "tempoTotalMs" : 244,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:57:54.221417700Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "tempoTotalMs" : 1166,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T01:04:50.239996600Z"
   } ]
 }
