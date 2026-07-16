@@ -4,27 +4,27 @@
   "geradoEm" : "2026-07-16T22:58:25.359410700Z",
   "descricao" : "Métricas operacionais de tradução de legendas de anime com LLM 100% local (LM Studio). Sem textos de legenda e sem caminhos de máquina — apenas métricas.",
   "ambienteExecucao" : {
-    "fabricante" : "System manufacturer",
-    "modeloMaquina" : "System Product Name",
-    "cpu" : "AMD Ryzen 7 5800X3D 8-Core Processor",
-    "gpuPrincipal" : "AMD Radeon RX 7800 XT",
-    "gpusDetectadas" : [ "AMD Radeon RX 7800 XT" ],
-    "ramTotalGb" : 64,
+    "fabricante" : "Avell",
+    "modeloMaquina" : "560",
+    "cpu" : "Intel(R) Core(TM) i9-14900HX",
+    "gpuPrincipal" : "NVIDIA GeForce RTX 5060 Laptop GPU",
+    "gpusDetectadas" : [ "Intel(R) UHD Graphics", "NVIDIA GeForce RTX 5060 Laptop GPU" ],
+    "ramTotalGb" : 40,
     "sistemaOperacional" : "Windows 11",
     "arquitetura" : "amd64",
     "hardwareColetadoAutomaticamente" : true
   },
   "resumo" : {
-    "totalEpisodiosTraduzidos" : 16,
-    "totalLinhasTraduzidas" : 5669,
-    "tempoMedioPorLinhaMs" : 349,
-    "totalFalasReaproveitadasDoCache" : 0,
-    "alucinacoesLlmPrevenidas" : 6138,
-    "respostasTraducaoRejeitadas" : 283,
-    "falhasTraducaoRecuperadas" : 104,
-    "fallbacksTraducaoMantidos" : 5558,
-    "arquivosRenomeados" : 44,
-    "totalOperacoesRegistradas" : 493
+    "totalEpisodiosTraduzidos" : 61,
+    "totalLinhasTraduzidas" : 18993,
+    "tempoMedioPorLinhaMs" : 263,
+    "totalFalasReaproveitadasDoCache" : 7697,
+    "alucinacoesLlmPrevenidas" : 15476,
+    "respostasTraducaoRejeitadas" : 2495,
+    "falhasTraducaoRecuperadas" : 911,
+    "fallbacksTraducaoMantidos" : 16864,
+    "arquivosRenomeados" : 102,
+    "totalOperacoesRegistradas" : 500
   },
   "traducoesLlm" : [ {
     "episodio" : "Teste_Ep01_ENG.ass",
@@ -202,505 +202,503 @@
     "tempoTotalMs" : 90047,
     "quantidadeAvisos" : 123,
     "registradoEm" : "2026-07-14T22:49:16.042577800Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S00E02_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 24,
+    "falasTraduzidas" : 0,
+    "falasDoCache" : 17,
+    "tempoTotalMs" : 6257,
+    "quantidadeAvisos" : 7,
+    "registradoEm" : "2026-07-15T21:58:39.442316900Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S00E03_Track2.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 93,
+    "falasTraduzidas" : 5,
+    "falasDoCache" : 71,
+    "tempoTotalMs" : 28499,
+    "quantidadeAvisos" : 24,
+    "registradoEm" : "2026-07-15T21:59:08.085136500Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E01_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 346,
+    "falasTraduzidas" : 5,
+    "falasDoCache" : 291,
+    "tempoTotalMs" : 46171,
+    "quantidadeAvisos" : 72,
+    "registradoEm" : "2026-07-15T21:59:54.381149300Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E02_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 358,
+    "falasTraduzidas" : 10,
+    "falasDoCache" : 278,
+    "tempoTotalMs" : 83686,
+    "quantidadeAvisos" : 116,
+    "registradoEm" : "2026-07-15T22:01:18.242952Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E03_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 329,
+    "falasTraduzidas" : 6,
+    "falasDoCache" : 259,
+    "tempoTotalMs" : 66869,
+    "quantidadeAvisos" : 96,
+    "registradoEm" : "2026-07-15T22:02:25.272206600Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E04_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 370,
+    "falasTraduzidas" : 14,
+    "falasDoCache" : 283,
+    "tempoTotalMs" : 85363,
+    "quantidadeAvisos" : 113,
+    "registradoEm" : "2026-07-15T22:03:50.814540100Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E05_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 390,
+    "falasTraduzidas" : 12,
+    "falasDoCache" : 302,
+    "tempoTotalMs" : 92183,
+    "quantidadeAvisos" : 118,
+    "registradoEm" : "2026-07-15T22:05:23.148606400Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E06_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 303,
+    "falasTraduzidas" : 10,
+    "falasDoCache" : 244,
+    "tempoTotalMs" : 66320,
+    "quantidadeAvisos" : 96,
+    "registradoEm" : "2026-07-15T22:06:29.642161900Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E07_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 352,
+    "falasTraduzidas" : 6,
+    "falasDoCache" : 276,
+    "tempoTotalMs" : 80095,
+    "quantidadeAvisos" : 117,
+    "registradoEm" : "2026-07-15T22:07:49.885620800Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E08_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 411,
+    "falasTraduzidas" : 16,
+    "falasDoCache" : 303,
+    "tempoTotalMs" : 106533,
+    "quantidadeAvisos" : 156,
+    "registradoEm" : "2026-07-15T22:09:36.585818900Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E09_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 324,
+    "falasTraduzidas" : 11,
+    "falasDoCache" : 239,
+    "tempoTotalMs" : 93269,
+    "quantidadeAvisos" : 137,
+    "registradoEm" : "2026-07-15T22:11:10.004506800Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E10_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 285,
+    "falasTraduzidas" : 8,
+    "falasDoCache" : 204,
+    "tempoTotalMs" : 87386,
+    "quantidadeAvisos" : 129,
+    "registradoEm" : "2026-07-15T22:12:37.546281400Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E11_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 345,
+    "falasTraduzidas" : 16,
+    "falasDoCache" : 273,
+    "tempoTotalMs" : 72614,
+    "quantidadeAvisos" : 99,
+    "registradoEm" : "2026-07-15T22:13:50.327787200Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E12_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 273,
+    "falasTraduzidas" : 11,
+    "falasDoCache" : 203,
+    "tempoTotalMs" : 68209,
+    "quantidadeAvisos" : 105,
+    "registradoEm" : "2026-07-15T22:14:58.697073700Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E13_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 238,
+    "falasTraduzidas" : 11,
+    "falasDoCache" : 166,
+    "tempoTotalMs" : 67005,
+    "quantidadeAvisos" : 86,
+    "registradoEm" : "2026-07-15T22:16:05.861350500Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E01.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 346,
+    "falasTraduzidas" : 143,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 138854,
+    "quantidadeAvisos" : 296,
+    "registradoEm" : "2026-07-16T00:36:49.004899100Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E02 - Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 358,
+    "falasTraduzidas" : 117,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 147915,
+    "quantidadeAvisos" : 403,
+    "registradoEm" : "2026-07-16T00:39:16.982259800Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E02.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 24,
+    "falasTraduzidas" : 10,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 10872,
+    "quantidadeAvisos" : 24,
+    "registradoEm" : "2026-07-16T00:39:27.901315400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E03 - Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 329,
+    "falasTraduzidas" : 111,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 139937,
+    "quantidadeAvisos" : 334,
+    "registradoEm" : "2026-07-16T00:41:47.878375600Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E03.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 93,
+    "falasTraduzidas" : 32,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 51953,
+    "quantidadeAvisos" : 109,
+    "registradoEm" : "2026-07-16T00:42:39.893093500Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E04.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 370,
+    "falasTraduzidas" : 120,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 166143,
+    "quantidadeAvisos" : 399,
+    "registradoEm" : "2026-07-16T00:45:26.088817600Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E05.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 390,
+    "falasTraduzidas" : 121,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 168832,
+    "quantidadeAvisos" : 429,
+    "registradoEm" : "2026-07-16T00:48:14.992877900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E06.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 303,
+    "falasTraduzidas" : 99,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 128365,
+    "quantidadeAvisos" : 316,
+    "registradoEm" : "2026-07-16T00:50:23.425188500Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E07.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 352,
+    "falasTraduzidas" : 124,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 148186,
+    "quantidadeAvisos" : 375,
+    "registradoEm" : "2026-07-16T00:52:51.659470200Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E08.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 411,
+    "falasTraduzidas" : 146,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 163460,
+    "quantidadeAvisos" : 433,
+    "registradoEm" : "2026-07-16T00:55:35.179278100Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E09.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 324,
+    "falasTraduzidas" : 88,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 140747,
+    "quantidadeAvisos" : 420,
+    "registradoEm" : "2026-07-16T00:57:55.973722Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E10.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 285,
+    "falasTraduzidas" : 90,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 129027,
+    "quantidadeAvisos" : 341,
+    "registradoEm" : "2026-07-16T01:00:05.042541900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E11.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 345,
+    "falasTraduzidas" : 109,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 160555,
+    "quantidadeAvisos" : 389,
+    "registradoEm" : "2026-07-16T01:02:45.650578300Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E12.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 273,
+    "falasTraduzidas" : 74,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 107082,
+    "quantidadeAvisos" : 328,
+    "registradoEm" : "2026-07-16T01:04:32.789401400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E13.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 238,
+    "falasTraduzidas" : 71,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 94245,
+    "quantidadeAvisos" : 260,
+    "registradoEm" : "2026-07-16T01:06:07.078742100Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E01_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 346,
+    "falasTraduzidas" : 2,
+    "falasDoCache" : 331,
+    "tempoTotalMs" : 7640,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-16T03:10:07.190205100Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E02_5_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 24,
+    "falasTraduzidas" : 0,
+    "falasDoCache" : 19,
+    "tempoTotalMs" : 3948,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-16T03:10:11.206390700Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E02_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 358,
+    "falasTraduzidas" : 0,
+    "falasDoCache" : 346,
+    "tempoTotalMs" : 1831,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-16T03:10:13.119216500Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E03-5_Track2.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 93,
+    "falasTraduzidas" : 2,
+    "falasDoCache" : 90,
+    "tempoTotalMs" : 4025,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-16T03:10:17.227047800Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E03_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 329,
+    "falasTraduzidas" : 1,
+    "falasDoCache" : 315,
+    "tempoTotalMs" : 5168,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-16T03:10:22.468117100Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E04_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 370,
+    "falasTraduzidas" : 2,
+    "falasDoCache" : 348,
+    "tempoTotalMs" : 13694,
+    "quantidadeAvisos" : 14,
+    "registradoEm" : "2026-07-16T03:10:36.211949Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E05_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 390,
+    "falasTraduzidas" : 2,
+    "falasDoCache" : 378,
+    "tempoTotalMs" : 6762,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-16T03:10:43.057901400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E06_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 303,
+    "falasTraduzidas" : 2,
+    "falasDoCache" : 295,
+    "tempoTotalMs" : 7812,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-16T03:10:50.939434500Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E07_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 352,
+    "falasTraduzidas" : 1,
+    "falasDoCache" : 341,
+    "tempoTotalMs" : 4858,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-16T03:10:55.862027Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E08_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 411,
+    "falasTraduzidas" : 2,
+    "falasDoCache" : 395,
+    "tempoTotalMs" : 11769,
+    "quantidadeAvisos" : 12,
+    "registradoEm" : "2026-07-16T03:11:07.685514700Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E09_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 324,
+    "falasTraduzidas" : 0,
+    "falasDoCache" : 316,
+    "tempoTotalMs" : 5324,
+    "quantidadeAvisos" : 8,
+    "registradoEm" : "2026-07-16T03:11:13.078938600Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E10_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 286,
+    "falasTraduzidas" : 0,
+    "falasDoCache" : 282,
+    "tempoTotalMs" : 65,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-16T03:11:13.207034900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E11_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 345,
+    "falasTraduzidas" : 0,
+    "falasDoCache" : 339,
+    "tempoTotalMs" : 3421,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-16T03:11:16.664993200Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E12_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 273,
+    "falasTraduzidas" : 0,
+    "falasDoCache" : 271,
+    "tempoTotalMs" : 71,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-16T03:11:16.800243300Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E13_Track3.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 238,
+    "falasTraduzidas" : 1,
+    "falasDoCache" : 222,
+    "tempoTotalMs" : 7948,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-16T03:11:24.797881800Z"
   } ],
   "operacoes" : [ {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "tempoTotalMs" : 230937,
-    "arquivosProcessados" : 210,
-    "itensDetectados" : 192,
-    "itensCorrigidos" : 190,
-    "registradoEm" : "2026-07-13T12:06:31.117462600Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 7,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:18:33.000258700Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:18:37.493141200Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:18:37.520811600Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:18:38.585105900Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:18:38.605330300Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 6,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:25:40.532781900Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:25:44.821993400Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:25:44.843201100Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:25:45.787934500Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:25:45.809625500Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:34:04.965923300Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 2,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:34:09.124682600Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 2,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:34:09.144954400Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:34:09.931320300Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:34:09.949017300Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 6,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:38:58.638785200Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:39:02.951735500Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:39:02.972786300Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:39:03.895918600Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:39:03.919508100Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:40:58.291293100Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:41:02.408408300Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 2,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:41:02.423551300Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:41:03.159632Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 2,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:41:03.175786200Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:45:23.443851Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:45:28.313055500Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:45:28.338621200Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:45:29.665871700Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:45:29.691954400Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 6,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:47:19.237654300Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:47:23.800525800Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:47:23.822668200Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 6,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:47:25.012823800Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 6,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T14:47:25.043409800Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 6,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T15:02:46.996986400Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T15:02:51.525598800Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T15:02:51.554693100Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T15:02:52.583464900Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T15:02:52.605075500Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 6,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T15:57:43.618961200Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T15:57:48.050160300Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T15:57:48.074103Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T15:57:49.018664600Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 2,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T15:57:49.037198800Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:08:38.401104200Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:08:42.586263200Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 2,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:08:42.603871900Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:08:43.412332400Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:08:43.433310200Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 6,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:17:04.595158700Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:17:08.936642800Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:17:08.960188Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:17:09.838812200Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:17:09.860363600Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:18:33.288464500Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:18:37.667759200Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:18:37.690322200Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:18:38.603026100Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:18:38.623816300Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:41:49.150082100Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:41:53.335369200Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:41:53.351414100Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:41:54.102297100Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T16:41:54.120322600Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 6,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T17:10:26.601196800Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T17:10:31.060290Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 3,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T17:10:31.086880400Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 4,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T17:10:32.106937200Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T17:10:32.134003200Z"
-  }, {
     "tipo" : "Auditoria de Conteudo (.ass)",
     "tempoTotalMs" : 8,
     "arquivosProcessados" : 1,
@@ -3654,5 +3652,551 @@
     "itensDetectados" : 13,
     "itensCorrigidos" : 13,
     "registradoEm" : "2026-07-15T02:18:48.519833300Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 9023,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 15,
+    "itensCorrigidos" : 15,
+    "registradoEm" : "2026-07-15T12:00:01.503499200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 774,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1756,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T12:44:23.227457100Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 2344,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T12:44:28.545485300Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 1675141,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1756,
+    "itensCorrigidos" : 1743,
+    "registradoEm" : "2026-07-15T13:12:44.583413400Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 322,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 14,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-15T14:28:09.995177600Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 2472,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T14:28:14.251307400Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 787,
+    "arquivosProcessados" : 29,
+    "itensDetectados" : 23,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T14:28:25.766774500Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 13372,
+    "arquivosProcessados" : 29,
+    "itensDetectados" : 23,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-15T14:28:42.339586Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 8032,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1743,
+    "itensCorrigidos" : 5,
+    "registradoEm" : "2026-07-15T14:29:55.452921200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 739,
+    "arquivosProcessados" : 29,
+    "itensDetectados" : 23,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-15T14:30:27.248679700Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 7364,
+    "arquivosProcessados" : 29,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-15T14:30:37.262314200Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 13351,
+    "arquivosProcessados" : 29,
+    "itensDetectados" : 23,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-15T14:30:53.192049500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 13240,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1738,
+    "itensCorrigidos" : 5,
+    "registradoEm" : "2026-07-15T14:31:16.390908100Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 2881,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1733,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T14:33:44.743922Z"
+  }, {
+    "tipo" : "Troca de Fontes ASS",
+    "tempoTotalMs" : 124,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 14,
+    "itensCorrigidos" : 14,
+    "registradoEm" : "2026-07-15T14:34:50.192313300Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 764,
+    "arquivosProcessados" : 29,
+    "itensDetectados" : 23,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-15T14:35:11.145816200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 893,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1622,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T15:53:04.560404100Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 2658,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T15:53:15.596083900Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 950438,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1622,
+    "itensCorrigidos" : 1613,
+    "registradoEm" : "2026-07-15T16:09:15.110419200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 441,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 4,
+    "registradoEm" : "2026-07-15T16:14:22.370839800Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 4755,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T16:14:28.543731500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 14260,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1606,
+    "itensCorrigidos" : 8,
+    "registradoEm" : "2026-07-15T16:29:24.790919900Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 2790,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1598,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T16:29:48.904500900Z"
+  }, {
+    "tipo" : "Troca de Fontes ASS",
+    "tempoTotalMs" : 170,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 14,
+    "itensCorrigidos" : 14,
+    "registradoEm" : "2026-07-15T16:47:00.872624800Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "tempoTotalMs" : 499,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1172,
+    "itensCorrigidos" : 369,
+    "registradoEm" : "2026-07-15T16:47:48.490045200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "tempoTotalMs" : 260144,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 327,
+    "itensCorrigidos" : 319,
+    "registradoEm" : "2026-07-15T16:52:22.287617200Z"
+  }, {
+    "tipo" : "Correcao de Legendas (.ass original->traduzida)",
+    "tempoTotalMs" : 4535900,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 2792,
+    "itensCorrigidos" : 2792,
+    "registradoEm" : "2026-07-15T18:12:31.826278800Z"
+  }, {
+    "tipo" : "Renomear Arquivos",
+    "tempoTotalMs" : 162,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 15,
+    "itensCorrigidos" : 15,
+    "registradoEm" : "2026-07-15T18:26:06.327415700Z"
+  }, {
+    "tipo" : "Renomear Arquivos",
+    "tempoTotalMs" : 115,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 13,
+    "registradoEm" : "2026-07-15T18:26:14.893781600Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "tempoTotalMs" : 14065,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 13,
+    "registradoEm" : "2026-07-15T18:26:49.605272600Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "tempoTotalMs" : 105,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T18:27:02.875116Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "tempoTotalMs" : 11824,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 13,
+    "registradoEm" : "2026-07-15T18:27:37.193428100Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 6090,
+    "arquivosProcessados" : 29,
+    "itensDetectados" : 2163,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T20:01:00.307636900Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 1708744,
+    "arquivosProcessados" : 29,
+    "itensDetectados" : 2163,
+    "itensCorrigidos" : 1248,
+    "registradoEm" : "2026-07-15T20:29:34.295267200Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 21793,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 2152,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-15T21:55:17.651573900Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 16941,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 2151,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-15T21:56:18.732021100Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "tempoTotalMs" : 16537,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 13,
+    "registradoEm" : "2026-07-15T22:20:14.689490200Z"
+  }, {
+    "tipo" : "Renomear Arquivos",
+    "tempoTotalMs" : 135,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 15,
+    "itensCorrigidos" : 15,
+    "registradoEm" : "2026-07-16T00:30:37.255783200Z"
+  }, {
+    "tipo" : "Renomear Arquivos",
+    "tempoTotalMs" : 97,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 15,
+    "itensCorrigidos" : 15,
+    "registradoEm" : "2026-07-16T00:30:52.058433200Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 5130,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 15,
+    "itensCorrigidos" : 15,
+    "registradoEm" : "2026-07-16T01:15:00.115428600Z"
+  }, {
+    "tipo" : "Troca de Fontes ASS",
+    "tempoTotalMs" : 118,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 14,
+    "itensCorrigidos" : 14,
+    "registradoEm" : "2026-07-16T01:16:05.921419500Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 2182,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 5779,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T01:46:41.152322500Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1753,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 5779,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T01:47:19.979758100Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 4359,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-16T01:47:27.619417300Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 3243201,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 5780,
+    "itensCorrigidos" : 3549,
+    "registradoEm" : "2026-07-16T02:41:39.969999Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 24782,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 717,
+    "itensCorrigidos" : 7,
+    "registradoEm" : "2026-07-16T02:55:58.042274100Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 14587,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 710,
+    "itensCorrigidos" : 26,
+    "registradoEm" : "2026-07-16T02:58:12.239521200Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 3181,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 684,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T03:06:40.586961600Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 2365,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 2905,
+    "itensCorrigidos" : 675,
+    "registradoEm" : "2026-07-16T03:08:12.710869900Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 11191,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-07-16T03:08:27.638803700Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 8738,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 684,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-16T03:09:09.687171100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 3553879,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 4058,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-07-16T04:11:17.637619200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1615,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 2928,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T13:42:36.807424300Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 7235,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T13:42:48.232516100Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 6182614,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 2928,
+    "itensCorrigidos" : 707,
+    "registradoEm" : "2026-07-16T15:26:00.356748500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 83855,
+    "arquivosProcessados" : 27,
+    "itensDetectados" : 618,
+    "itensCorrigidos" : 12,
+    "registradoEm" : "2026-07-16T16:09:18.688322500Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 16453,
+    "arquivosProcessados" : 27,
+    "itensDetectados" : 604,
+    "itensCorrigidos" : 22,
+    "registradoEm" : "2026-07-16T16:09:41.828091300Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 705298,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1247,
+    "itensCorrigidos" : 10,
+    "registradoEm" : "2026-07-16T16:23:53.139347300Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "tempoTotalMs" : 259089,
+    "arquivosProcessados" : 27,
+    "itensDetectados" : 259,
+    "itensCorrigidos" : 115,
+    "registradoEm" : "2026-07-16T16:29:06.674068200Z"
+  }, {
+    "tipo" : "Correcao de Legendas (.ass original->traduzida)",
+    "tempoTotalMs" : 189,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 159,
+    "itensCorrigidos" : 159,
+    "registradoEm" : "2026-07-16T16:30:57.782135900Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "tempoTotalMs" : 20532,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 15,
+    "itensCorrigidos" : 15,
+    "registradoEm" : "2026-07-16T16:35:51.622102700Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1604,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 2895,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T16:47:29.625683800Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 7231,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T16:47:41.533750700Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 6115670,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 2895,
+    "itensCorrigidos" : 674,
+    "registradoEm" : "2026-07-16T18:29:55.045436600Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 40160,
+    "arquivosProcessados" : 27,
+    "itensDetectados" : 101,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T19:57:36.494379700Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 4442,
+    "arquivosProcessados" : 27,
+    "itensDetectados" : 16,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T20:04:13.476461600Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1535,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 2895,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T20:06:50.454853800Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 7066,
+    "arquivosProcessados" : 45,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T20:07:22.395592600Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 6519,
+    "arquivosProcessados" : 27,
+    "itensDetectados" : 8,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T20:08:25.909411200Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 20385,
+    "arquivosProcessados" : 27,
+    "itensDetectados" : 10,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-16T20:08:51.411004900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 19061,
+    "arquivosProcessados" : 27,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T20:09:15.176741700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 837658,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 886,
+    "itensCorrigidos" : 7,
+    "registradoEm" : "2026-07-16T20:23:32.046439500Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "tempoTotalMs" : 29309,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 15,
+    "itensCorrigidos" : 15,
+    "registradoEm" : "2026-07-16T20:25:01.111169600Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "tempoTotalMs" : 668,
+    "arquivosProcessados" : 27,
+    "itensDetectados" : 2137,
+    "itensCorrigidos" : 678,
+    "registradoEm" : "2026-07-16T20:27:23.761714200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "tempoTotalMs" : 282449,
+    "arquivosProcessados" : 27,
+    "itensDetectados" : 425,
+    "itensCorrigidos" : 423,
+    "registradoEm" : "2026-07-16T20:32:19.833868Z"
+  }, {
+    "tipo" : "Correcao de Legendas (.ass original->traduzida)",
+    "tempoTotalMs" : 53,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-16T20:33:37.007419700Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "tempoTotalMs" : 23861,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 15,
+    "itensCorrigidos" : 15,
+    "registradoEm" : "2026-07-16T20:34:26.616858800Z"
+  }, {
+    "tipo" : "Correcao de Legendas (.ass original->traduzida)",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-16T20:38:50.166592600Z"
   } ]
 }
