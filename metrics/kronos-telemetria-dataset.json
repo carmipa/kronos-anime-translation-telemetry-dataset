@@ -1,29 +1,29 @@
 {
   "dataset" : "kronos-anime-translation-telemetry-dataset",
   "versaoFormato" : 2,
-  "geradoEm" : "2026-07-16T22:58:25.359410700Z",
+  "geradoEm" : "2026-07-20T15:07:04.181730400Z",
   "descricao" : "Métricas operacionais de tradução de legendas de anime com LLM 100% local (LM Studio). Sem textos de legenda e sem caminhos de máquina — apenas métricas.",
   "ambienteExecucao" : {
-    "fabricante" : "Avell",
-    "modeloMaquina" : "560",
-    "cpu" : "Intel(R) Core(TM) i9-14900HX",
-    "gpuPrincipal" : "NVIDIA GeForce RTX 5060 Laptop GPU",
-    "gpusDetectadas" : [ "Intel(R) UHD Graphics", "NVIDIA GeForce RTX 5060 Laptop GPU" ],
-    "ramTotalGb" : 40,
+    "fabricante" : "System manufacturer",
+    "modeloMaquina" : "System Product Name",
+    "cpu" : "AMD Ryzen 7 5800X3D 8-Core Processor",
+    "gpuPrincipal" : "AMD Radeon RX 7800 XT",
+    "gpusDetectadas" : [ "AMD Radeon RX 7800 XT" ],
+    "ramTotalGb" : 64,
     "sistemaOperacional" : "Windows 11",
     "arquitetura" : "amd64",
     "hardwareColetadoAutomaticamente" : true
   },
   "resumo" : {
-    "totalEpisodiosTraduzidos" : 61,
-    "totalLinhasTraduzidas" : 18993,
-    "tempoMedioPorLinhaMs" : 263,
-    "totalFalasReaproveitadasDoCache" : 7697,
-    "alucinacoesLlmPrevenidas" : 15476,
-    "respostasTraducaoRejeitadas" : 2495,
-    "falhasTraducaoRecuperadas" : 911,
-    "fallbacksTraducaoMantidos" : 16864,
-    "arquivosRenomeados" : 102,
+    "totalEpisodiosTraduzidos" : 136,
+    "totalLinhasTraduzidas" : 52218,
+    "tempoMedioPorLinhaMs" : 293,
+    "totalFalasReaproveitadasDoCache" : 0,
+    "alucinacoesLlmPrevenidas" : 12996,
+    "respostasTraducaoRejeitadas" : 20118,
+    "falhasTraducaoRecuperadas" : 6567,
+    "fallbacksTraducaoMantidos" : 15339,
+    "arquivosRenomeados" : 238,
     "totalOperacoesRegistradas" : 500
   },
   "traducoesLlm" : [ {
@@ -65,640 +65,1857 @@
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 92,
-    "falasTraduzidas" : 49,
+    "falasTraduzidas" : 82,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 30270,
-    "quantidadeAvisos" : 80,
-    "registradoEm" : "2026-07-14T22:24:27.410030700Z"
+    "tempoTotalMs" : 38212,
+    "quantidadeAvisos" : 7,
+    "registradoEm" : "2026-07-20T12:38:45.058365100Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E01_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 356,
-    "falasTraduzidas" : 208,
+    "falasTraduzidas" : 319,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 116584,
-    "quantidadeAvisos" : 268,
-    "registradoEm" : "2026-07-14T22:26:24.045391600Z"
+    "tempoTotalMs" : 121147,
+    "quantidadeAvisos" : 23,
+    "registradoEm" : "2026-07-20T12:40:46.212047600Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E02_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 337,
-    "falasTraduzidas" : 184,
+    "falasTraduzidas" : 307,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 118529,
-    "quantidadeAvisos" : 278,
-    "registradoEm" : "2026-07-14T22:28:22.645129600Z"
+    "tempoTotalMs" : 109890,
+    "quantidadeAvisos" : 17,
+    "registradoEm" : "2026-07-20T12:42:36.108064400Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E03_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 412,
-    "falasTraduzidas" : 253,
+    "falasTraduzidas" : 374,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 136934,
-    "quantidadeAvisos" : 282,
-    "registradoEm" : "2026-07-14T22:30:39.644195600Z"
+    "tempoTotalMs" : 130252,
+    "quantidadeAvisos" : 20,
+    "registradoEm" : "2026-07-20T12:44:46.367294500Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E04_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 411,
-    "falasTraduzidas" : 218,
+    "falasTraduzidas" : 376,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 177912,
-    "quantidadeAvisos" : 357,
-    "registradoEm" : "2026-07-14T22:33:37.609617Z"
+    "tempoTotalMs" : 145183,
+    "quantidadeAvisos" : 17,
+    "registradoEm" : "2026-07-20T12:47:11.557316300Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E05_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 480,
-    "falasTraduzidas" : 292,
+    "falasTraduzidas" : 428,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 157052,
-    "quantidadeAvisos" : 320,
-    "registradoEm" : "2026-07-14T22:36:14.719818500Z"
+    "tempoTotalMs" : 142876,
+    "quantidadeAvisos" : 25,
+    "registradoEm" : "2026-07-20T12:49:34.440954900Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E06_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 392,
-    "falasTraduzidas" : 211,
+    "falasTraduzidas" : 351,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 131177,
-    "quantidadeAvisos" : 329,
-    "registradoEm" : "2026-07-14T22:38:25.955881700Z"
+    "tempoTotalMs" : 124242,
+    "quantidadeAvisos" : 21,
+    "registradoEm" : "2026-07-20T12:51:38.688008800Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E07_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 279,
-    "falasTraduzidas" : 155,
+    "falasTraduzidas" : 246,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 92065,
-    "quantidadeAvisos" : 214,
-    "registradoEm" : "2026-07-14T22:39:58.072331700Z"
+    "tempoTotalMs" : 82495,
+    "quantidadeAvisos" : 16,
+    "registradoEm" : "2026-07-20T12:53:01.189976500Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E08_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 371,
-    "falasTraduzidas" : 196,
+    "falasTraduzidas" : 349,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 126545,
-    "quantidadeAvisos" : 326,
-    "registradoEm" : "2026-07-14T22:42:04.684684900Z"
+    "tempoTotalMs" : 136399,
+    "quantidadeAvisos" : 10,
+    "registradoEm" : "2026-07-20T12:55:17.596207200Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E09_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 394,
-    "falasTraduzidas" : 218,
+    "falasTraduzidas" : 362,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 133802,
-    "quantidadeAvisos" : 326,
-    "registradoEm" : "2026-07-14T22:44:18.549503400Z"
+    "tempoTotalMs" : 132956,
+    "quantidadeAvisos" : 16,
+    "registradoEm" : "2026-07-20T12:57:30.562748300Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E10_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 332,
-    "falasTraduzidas" : 163,
+    "falasTraduzidas" : 302,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 117609,
-    "quantidadeAvisos" : 322,
-    "registradoEm" : "2026-07-14T22:46:16.214900200Z"
+    "tempoTotalMs" : 125732,
+    "quantidadeAvisos" : 18,
+    "registradoEm" : "2026-07-20T12:59:36.300317800Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E11_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 279,
-    "falasTraduzidas" : 172,
+    "falasTraduzidas" : 258,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 89671,
-    "quantidadeAvisos" : 186,
-    "registradoEm" : "2026-07-14T22:47:45.924025400Z"
+    "tempoTotalMs" : 92782,
+    "quantidadeAvisos" : 9,
+    "registradoEm" : "2026-07-20T13:01:09.087865500Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E12_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 303,
-    "falasTraduzidas" : 231,
+    "falasTraduzidas" : 293,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 90047,
-    "quantidadeAvisos" : 123,
-    "registradoEm" : "2026-07-14T22:49:16.042577800Z"
+    "tempoTotalMs" : 90223,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-20T13:02:39.315592900Z"
   }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S00E02_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "episodio" : "[DB]86_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 1",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
-    "totalLinhas" : 24,
-    "falasTraduzidas" : 0,
-    "falasDoCache" : 17,
-    "tempoTotalMs" : 6257,
+    "totalLinhas" : 689,
+    "falasTraduzidas" : 558,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 141705,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-18T19:16:08.598386400Z"
+  }, {
+    "episodio" : "[DB]86_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 1",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 566,
+    "falasTraduzidas" : 443,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 108156,
     "quantidadeAvisos" : 7,
-    "registradoEm" : "2026-07-15T21:58:39.442316900Z"
+    "registradoEm" : "2026-07-18T19:24:19.827140700Z"
   }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S00E03_Track2.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "episodio" : "[DB]86_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 1",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
-    "totalLinhas" : 93,
-    "falasTraduzidas" : 5,
-    "falasDoCache" : 71,
-    "tempoTotalMs" : 28499,
-    "quantidadeAvisos" : 24,
-    "registradoEm" : "2026-07-15T21:59:08.085136500Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E01_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 346,
-    "falasTraduzidas" : 5,
-    "falasDoCache" : 291,
-    "tempoTotalMs" : 46171,
-    "quantidadeAvisos" : 72,
-    "registradoEm" : "2026-07-15T21:59:54.381149300Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E02_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 358,
-    "falasTraduzidas" : 10,
-    "falasDoCache" : 278,
-    "tempoTotalMs" : 83686,
-    "quantidadeAvisos" : 116,
-    "registradoEm" : "2026-07-15T22:01:18.242952Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E03_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 329,
-    "falasTraduzidas" : 6,
-    "falasDoCache" : 259,
-    "tempoTotalMs" : 66869,
-    "quantidadeAvisos" : 96,
-    "registradoEm" : "2026-07-15T22:02:25.272206600Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E04_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 370,
-    "falasTraduzidas" : 14,
-    "falasDoCache" : 283,
-    "tempoTotalMs" : 85363,
-    "quantidadeAvisos" : 113,
-    "registradoEm" : "2026-07-15T22:03:50.814540100Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E05_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 390,
-    "falasTraduzidas" : 12,
-    "falasDoCache" : 302,
-    "tempoTotalMs" : 92183,
-    "quantidadeAvisos" : 118,
-    "registradoEm" : "2026-07-15T22:05:23.148606400Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E06_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 303,
-    "falasTraduzidas" : 10,
-    "falasDoCache" : 244,
-    "tempoTotalMs" : 66320,
-    "quantidadeAvisos" : 96,
-    "registradoEm" : "2026-07-15T22:06:29.642161900Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E07_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 352,
-    "falasTraduzidas" : 6,
-    "falasDoCache" : 276,
-    "tempoTotalMs" : 80095,
-    "quantidadeAvisos" : 117,
-    "registradoEm" : "2026-07-15T22:07:49.885620800Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E08_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 411,
-    "falasTraduzidas" : 16,
-    "falasDoCache" : 303,
-    "tempoTotalMs" : 106533,
-    "quantidadeAvisos" : 156,
-    "registradoEm" : "2026-07-15T22:09:36.585818900Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E09_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 324,
-    "falasTraduzidas" : 11,
-    "falasDoCache" : 239,
-    "tempoTotalMs" : 93269,
-    "quantidadeAvisos" : 137,
-    "registradoEm" : "2026-07-15T22:11:10.004506800Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E10_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 285,
-    "falasTraduzidas" : 8,
-    "falasDoCache" : 204,
-    "tempoTotalMs" : 87386,
-    "quantidadeAvisos" : 129,
-    "registradoEm" : "2026-07-15T22:12:37.546281400Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E11_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 345,
-    "falasTraduzidas" : 16,
-    "falasDoCache" : 273,
-    "tempoTotalMs" : 72614,
-    "quantidadeAvisos" : 99,
-    "registradoEm" : "2026-07-15T22:13:50.327787200Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E12_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 273,
-    "falasTraduzidas" : 11,
-    "falasDoCache" : 203,
-    "tempoTotalMs" : 68209,
-    "quantidadeAvisos" : 105,
-    "registradoEm" : "2026-07-15T22:14:58.697073700Z"
-  }, {
-    "episodio" : "Mobile.Suit.Gundam.0083.Stardust.Memory.S01E13_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 238,
-    "falasTraduzidas" : 11,
-    "falasDoCache" : 166,
-    "tempoTotalMs" : 67005,
-    "quantidadeAvisos" : 86,
-    "registradoEm" : "2026-07-15T22:16:05.861350500Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E01.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 346,
-    "falasTraduzidas" : 143,
+    "totalLinhas" : 532,
+    "falasTraduzidas" : 409,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 138854,
-    "quantidadeAvisos" : 296,
-    "registradoEm" : "2026-07-16T00:36:49.004899100Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E02 - Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 358,
-    "falasTraduzidas" : 117,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 147915,
-    "quantidadeAvisos" : 403,
-    "registradoEm" : "2026-07-16T00:39:16.982259800Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E02.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 24,
-    "falasTraduzidas" : 10,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 10872,
-    "quantidadeAvisos" : 24,
-    "registradoEm" : "2026-07-16T00:39:27.901315400Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E03 - Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 329,
-    "falasTraduzidas" : 111,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 139937,
-    "quantidadeAvisos" : 334,
-    "registradoEm" : "2026-07-16T00:41:47.878375600Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E03.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 93,
-    "falasTraduzidas" : 32,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 51953,
-    "quantidadeAvisos" : 109,
-    "registradoEm" : "2026-07-16T00:42:39.893093500Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E04.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 370,
-    "falasTraduzidas" : 120,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 166143,
-    "quantidadeAvisos" : 399,
-    "registradoEm" : "2026-07-16T00:45:26.088817600Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E05.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 390,
-    "falasTraduzidas" : 121,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 168832,
-    "quantidadeAvisos" : 429,
-    "registradoEm" : "2026-07-16T00:48:14.992877900Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E06.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 303,
-    "falasTraduzidas" : 99,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 128365,
-    "quantidadeAvisos" : 316,
-    "registradoEm" : "2026-07-16T00:50:23.425188500Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E07.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 352,
-    "falasTraduzidas" : 124,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 148186,
-    "quantidadeAvisos" : 375,
-    "registradoEm" : "2026-07-16T00:52:51.659470200Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E08.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 411,
-    "falasTraduzidas" : 146,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 163460,
-    "quantidadeAvisos" : 433,
-    "registradoEm" : "2026-07-16T00:55:35.179278100Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E09.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 324,
-    "falasTraduzidas" : 88,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 140747,
-    "quantidadeAvisos" : 420,
-    "registradoEm" : "2026-07-16T00:57:55.973722Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E10.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 285,
-    "falasTraduzidas" : 90,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 129027,
-    "quantidadeAvisos" : 341,
-    "registradoEm" : "2026-07-16T01:00:05.042541900Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E11.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 345,
-    "falasTraduzidas" : 109,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 160555,
-    "quantidadeAvisos" : 389,
-    "registradoEm" : "2026-07-16T01:02:45.650578300Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E12.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 273,
-    "falasTraduzidas" : 74,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 107082,
-    "quantidadeAvisos" : 328,
-    "registradoEm" : "2026-07-16T01:04:32.789401400Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E13.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 238,
-    "falasTraduzidas" : 71,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 94245,
-    "quantidadeAvisos" : 260,
-    "registradoEm" : "2026-07-16T01:06:07.078742100Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E01_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 346,
-    "falasTraduzidas" : 2,
-    "falasDoCache" : 331,
-    "tempoTotalMs" : 7640,
+    "tempoTotalMs" : 95940,
     "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-16T03:10:07.190205100Z"
+    "registradoEm" : "2026-07-18T19:29:20.198569400Z"
   }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E02_5_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "episodio" : "[DB]86_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 1",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
-    "totalLinhas" : 24,
-    "falasTraduzidas" : 0,
-    "falasDoCache" : 19,
-    "tempoTotalMs" : 3948,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-16T03:10:11.206390700Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E02_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 358,
-    "falasTraduzidas" : 0,
-    "falasDoCache" : 346,
-    "tempoTotalMs" : 1831,
-    "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-16T03:10:13.119216500Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E03-5_Track2.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 93,
-    "falasTraduzidas" : 2,
-    "falasDoCache" : 90,
-    "tempoTotalMs" : 4025,
-    "quantidadeAvisos" : 0,
-    "registradoEm" : "2026-07-16T03:10:17.227047800Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E03_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 329,
-    "falasTraduzidas" : 1,
-    "falasDoCache" : 315,
-    "tempoTotalMs" : 5168,
-    "quantidadeAvisos" : 6,
-    "registradoEm" : "2026-07-16T03:10:22.468117100Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E04_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 370,
-    "falasTraduzidas" : 2,
-    "falasDoCache" : 348,
-    "tempoTotalMs" : 13694,
-    "quantidadeAvisos" : 14,
-    "registradoEm" : "2026-07-16T03:10:36.211949Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E05_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 390,
-    "falasTraduzidas" : 2,
-    "falasDoCache" : 378,
-    "tempoTotalMs" : 6762,
-    "quantidadeAvisos" : 5,
-    "registradoEm" : "2026-07-16T03:10:43.057901400Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E06_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 303,
-    "falasTraduzidas" : 2,
-    "falasDoCache" : 295,
-    "tempoTotalMs" : 7812,
-    "quantidadeAvisos" : 6,
-    "registradoEm" : "2026-07-16T03:10:50.939434500Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E07_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 352,
-    "falasTraduzidas" : 1,
-    "falasDoCache" : 341,
-    "tempoTotalMs" : 4858,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-16T03:10:55.862027Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E08_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 411,
-    "falasTraduzidas" : 2,
-    "falasDoCache" : 395,
-    "tempoTotalMs" : 11769,
-    "quantidadeAvisos" : 12,
-    "registradoEm" : "2026-07-16T03:11:07.685514700Z"
-  }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E09_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 324,
-    "falasTraduzidas" : 0,
-    "falasDoCache" : 316,
-    "tempoTotalMs" : 5324,
+    "totalLinhas" : 561,
+    "falasTraduzidas" : 438,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 108453,
     "quantidadeAvisos" : 8,
-    "registradoEm" : "2026-07-16T03:11:13.078938600Z"
+    "registradoEm" : "2026-07-18T19:11:46.580347900Z"
   }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E10_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "episodio" : "[DB]86_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 1",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
-    "totalLinhas" : 286,
-    "falasTraduzidas" : 0,
-    "falasDoCache" : 282,
-    "tempoTotalMs" : 65,
-    "quantidadeAvisos" : 0,
-    "registradoEm" : "2026-07-16T03:11:13.207034900Z"
+    "totalLinhas" : 589,
+    "falasTraduzidas" : 465,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 120301,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-18T19:13:46.888392200Z"
   }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E11_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "episodio" : "[DB]86_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 1",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 650,
+    "falasTraduzidas" : 517,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 137773,
+    "quantidadeAvisos" : 17,
+    "registradoEm" : "2026-07-18T19:18:26.381326800Z"
+  }, {
+    "episodio" : "[DB]86_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 1",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 604,
+    "falasTraduzidas" : 470,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 115400,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-18T19:20:21.788517300Z"
+  }, {
+    "episodio" : "[DB]86_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 1",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 650,
+    "falasTraduzidas" : 513,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 129869,
+    "quantidadeAvisos" : 18,
+    "registradoEm" : "2026-07-18T19:22:31.664406Z"
+  }, {
+    "episodio" : "[DB]86_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 1",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 616,
+    "falasTraduzidas" : 474,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 123132,
+    "quantidadeAvisos" : 21,
+    "registradoEm" : "2026-07-18T19:26:22.966410600Z"
+  }, {
+    "episodio" : "[DB]86_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 1",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 536,
+    "falasTraduzidas" : 411,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 81277,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-18T19:27:44.250277700Z"
+  }, {
+    "episodio" : "[DB]86_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 1",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 519,
+    "falasTraduzidas" : 389,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 86403,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-18T19:30:46.608277400Z"
+  }, {
+    "episodio" : "[DB]86 Part 2_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 303,
+    "falasTraduzidas" : 298,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 96832,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-18T19:43:47.780566600Z"
+  }, {
+    "episodio" : "[DB]86 Part 2_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 374,
+    "falasTraduzidas" : 358,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 119860,
+    "quantidadeAvisos" : 11,
+    "registradoEm" : "2026-07-18T19:45:47.647129300Z"
+  }, {
+    "episodio" : "[DB]86 Part 2_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 375,
+    "falasTraduzidas" : 344,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 111955,
+    "quantidadeAvisos" : 17,
+    "registradoEm" : "2026-07-18T19:47:39.608193300Z"
+  }, {
+    "episodio" : "[DB]86 Part 2_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 380,
+    "falasTraduzidas" : 360,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 129423,
+    "quantidadeAvisos" : 16,
+    "registradoEm" : "2026-07-18T19:49:49.038415200Z"
+  }, {
+    "episodio" : "[DB]86 Part 2_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 284,
+    "falasTraduzidas" : 265,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 111323,
+    "quantidadeAvisos" : 14,
+    "registradoEm" : "2026-07-18T19:51:40.367341900Z"
+  }, {
+    "episodio" : "[DB]86 Part 2_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
     "totalLinhas" : 345,
-    "falasTraduzidas" : 0,
-    "falasDoCache" : 339,
-    "tempoTotalMs" : 3421,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-16T03:11:16.664993200Z"
+    "falasTraduzidas" : 323,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 110011,
+    "quantidadeAvisos" : 16,
+    "registradoEm" : "2026-07-18T19:53:30.385467800Z"
   }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E12_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "episodio" : "[DB]86 Part 2_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
-    "totalLinhas" : 273,
-    "falasTraduzidas" : 0,
-    "falasDoCache" : 271,
-    "tempoTotalMs" : 71,
-    "quantidadeAvisos" : 0,
-    "registradoEm" : "2026-07-16T03:11:16.800243300Z"
+    "totalLinhas" : 345,
+    "falasTraduzidas" : 322,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 112368,
+    "quantidadeAvisos" : 11,
+    "registradoEm" : "2026-07-18T19:55:22.762509600Z"
   }, {
-    "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E13_Track3.ass",
-    "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
+    "episodio" : "[DB]86 Part 2_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
     "temporada" : "Temporada Única",
     "modeloLlm" : "current",
-    "totalLinhas" : 238,
-    "falasTraduzidas" : 1,
-    "falasDoCache" : 222,
-    "tempoTotalMs" : 7948,
+    "totalLinhas" : 334,
+    "falasTraduzidas" : 302,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 106834,
+    "quantidadeAvisos" : 14,
+    "registradoEm" : "2026-07-18T19:57:09.602531800Z"
+  }, {
+    "episodio" : "[DB]86 Part 2_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 326,
+    "falasTraduzidas" : 322,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 110312,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-18T19:58:59.920492700Z"
+  }, {
+    "episodio" : "[DB]86 Part 2_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 280,
+    "falasTraduzidas" : 243,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 76968,
+    "quantidadeAvisos" : 9,
+    "registradoEm" : "2026-07-18T20:00:16.893173500Z"
+  }, {
+    "episodio" : "[DB]86 Part 2_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 313,
+    "falasTraduzidas" : 272,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 84793,
+    "quantidadeAvisos" : 12,
+    "registradoEm" : "2026-07-18T20:01:41.691152500Z"
+  }, {
+    "episodio" : "[DB]86 Part 2_-_12_(Dual Audio_10bit_BD1080p_x265)_Track6.ass",
+    "anime" : "86 Part 2",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 297,
+    "falasTraduzidas" : 273,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 97774,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-18T20:03:19.471242700Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E01.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 231,
+    "falasTraduzidas" : 210,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 60816,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-19T12:44:48.832700Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E02.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 325,
+    "falasTraduzidas" : 312,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 106082,
     "quantidadeAvisos" : 6,
-    "registradoEm" : "2026-07-16T03:11:24.797881800Z"
+    "registradoEm" : "2026-07-19T12:46:34.921020700Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E03.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 380,
+    "falasTraduzidas" : 369,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 111053,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T12:48:25.980837100Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E04.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 342,
+    "falasTraduzidas" : 326,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 116235,
+    "quantidadeAvisos" : 9,
+    "registradoEm" : "2026-07-19T12:50:22.222501Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E05.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 333,
+    "falasTraduzidas" : 317,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 104849,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T12:52:07.078830Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E06.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 368,
+    "falasTraduzidas" : 351,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 114022,
+    "quantidadeAvisos" : 8,
+    "registradoEm" : "2026-07-19T12:54:01.105972900Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E07.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 327,
+    "falasTraduzidas" : 317,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 110889,
+    "quantidadeAvisos" : 7,
+    "registradoEm" : "2026-07-19T12:55:52.000730500Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E08.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 318,
+    "falasTraduzidas" : 311,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 112152,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T12:57:44.158935200Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E09.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 373,
+    "falasTraduzidas" : 360,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 112171,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-19T12:59:36.334840600Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E10.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 332,
+    "falasTraduzidas" : 311,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 105355,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T13:01:21.695789600Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E11.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 388,
+    "falasTraduzidas" : 371,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 117174,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T13:03:18.877738100Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E12.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 327,
+    "falasTraduzidas" : 314,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 93791,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T13:04:52.673133500Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E13.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 377,
+    "falasTraduzidas" : 359,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 111266,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T13:06:43.945658400Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E14.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 302,
+    "falasTraduzidas" : 291,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 91286,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T13:08:15.236620100Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E15.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 380,
+    "falasTraduzidas" : 363,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 109195,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T13:10:04.436716100Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E16.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 406,
+    "falasTraduzidas" : 386,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 114252,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T13:11:58.693947300Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E17.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 357,
+    "falasTraduzidas" : 341,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 92484,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-19T13:13:31.183228200Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E18.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 410,
+    "falasTraduzidas" : 385,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 127161,
+    "quantidadeAvisos" : 7,
+    "registradoEm" : "2026-07-19T13:15:38.350617100Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E19.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 345,
+    "falasTraduzidas" : 326,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 93228,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T13:17:11.583016Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E20.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 380,
+    "falasTraduzidas" : 355,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 112666,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T13:19:04.255099300Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E21.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 376,
+    "falasTraduzidas" : 365,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 114006,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T13:20:58.266485300Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E22.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 401,
+    "falasTraduzidas" : 383,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 123504,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T13:23:01.775925300Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E23.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 406,
+    "falasTraduzidas" : 381,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 140270,
+    "quantidadeAvisos" : 9,
+    "registradoEm" : "2026-07-19T13:25:22.051213700Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E24.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 371,
+    "falasTraduzidas" : 343,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 107316,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T13:27:09.372976200Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E25.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 387,
+    "falasTraduzidas" : 369,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 125943,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T13:29:15.321208800Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E26.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 379,
+    "falasTraduzidas" : 356,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 105905,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T13:31:01.232919100Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E27.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 398,
+    "falasTraduzidas" : 372,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 136743,
+    "quantidadeAvisos" : 8,
+    "registradoEm" : "2026-07-19T13:33:17.981807100Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E28.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 392,
+    "falasTraduzidas" : 372,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 115622,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T13:35:13.608854200Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E29.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 413,
+    "falasTraduzidas" : 391,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 126504,
+    "quantidadeAvisos" : 7,
+    "registradoEm" : "2026-07-19T13:37:20.117723400Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E30.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 315,
+    "falasTraduzidas" : 301,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 91630,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-19T13:38:51.752262800Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E31.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 362,
+    "falasTraduzidas" : 344,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 107420,
+    "quantidadeAvisos" : 7,
+    "registradoEm" : "2026-07-19T13:40:39.178999400Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E32.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 367,
+    "falasTraduzidas" : 347,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 96479,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T13:42:15.663910400Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E33.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 356,
+    "falasTraduzidas" : 334,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 105867,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T13:44:01.536150300Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E34.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 372,
+    "falasTraduzidas" : 354,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 101944,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T13:45:43.486743200Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E35.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 355,
+    "falasTraduzidas" : 341,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 99298,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-19T13:47:22.790814300Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E36.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 334,
+    "falasTraduzidas" : 307,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 88800,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-19T13:48:51.596563800Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E37.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 396,
+    "falasTraduzidas" : 384,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 119068,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T13:50:50.669505300Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E38.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 401,
+    "falasTraduzidas" : 378,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 112841,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T13:52:43.515999Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E39.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 411,
+    "falasTraduzidas" : 389,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 103441,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T13:54:26.962860200Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E40.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 398,
+    "falasTraduzidas" : 374,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 108629,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-19T13:56:15.597814600Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E41.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 427,
+    "falasTraduzidas" : 415,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 118424,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-19T13:58:14.027980700Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E42.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 331,
+    "falasTraduzidas" : 308,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 98010,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T13:59:52.043539700Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E43.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 340,
+    "falasTraduzidas" : 318,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 87003,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-19T14:01:19.051218900Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E44.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 393,
+    "falasTraduzidas" : 360,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 99300,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T14:02:58.356952600Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E45.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 326,
+    "falasTraduzidas" : 311,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 93837,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-19T14:04:32.199880700Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E46.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 371,
+    "falasTraduzidas" : 342,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 101427,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T14:06:13.632800800Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E47.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 370,
+    "falasTraduzidas" : 354,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 108123,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T14:08:01.761058100Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E48.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 328,
+    "falasTraduzidas" : 301,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 87087,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T14:09:28.853617700Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E49.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 306,
+    "falasTraduzidas" : 280,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 82431,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T14:10:51.290908300Z"
+  }, {
+    "episodio" : "Mobile Suit Zeta Gundam - S01E50.ass",
+    "anime" : "[Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 349,
+    "falasTraduzidas" : 332,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 89331,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-19T14:12:20.627389200Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E01.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 375,
+    "falasTraduzidas" : 331,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 192845,
+    "quantidadeAvisos" : 12,
+    "registradoEm" : "2026-07-19T16:58:17.594700400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E02.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 314,
+    "falasTraduzidas" : 305,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 86983,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T16:59:44.589641500Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E03.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 360,
+    "falasTraduzidas" : 345,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 107149,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T17:01:31.750419400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E04.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 384,
+    "falasTraduzidas" : 370,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 119050,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T17:03:30.810755400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E05.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 404,
+    "falasTraduzidas" : 378,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 122390,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-19T17:05:33.214041400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E06.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 365,
+    "falasTraduzidas" : 344,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 109280,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T17:07:22.516050600Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E07.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 355,
+    "falasTraduzidas" : 338,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 106229,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T17:09:08.771670Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E08.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 388,
+    "falasTraduzidas" : 367,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 117866,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-19T17:11:06.660777Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E09.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 414,
+    "falasTraduzidas" : 389,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 163190,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-19T17:13:49.872040700Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E10.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 403,
+    "falasTraduzidas" : 392,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 130348,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-19T17:16:00.241826500Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E11.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 398,
+    "falasTraduzidas" : 386,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 116259,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T17:17:56.522083700Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E12.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 399,
+    "falasTraduzidas" : 381,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 122082,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T17:19:58.625924100Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E13.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 424,
+    "falasTraduzidas" : 395,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 120557,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-19T17:21:59.206876400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E14.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 433,
+    "falasTraduzidas" : 410,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 140367,
+    "quantidadeAvisos" : 9,
+    "registradoEm" : "2026-07-19T17:24:19.595673500Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E15.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 406,
+    "falasTraduzidas" : 382,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 122979,
+    "quantidadeAvisos" : 8,
+    "registradoEm" : "2026-07-19T17:26:22.597433900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E16.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 428,
+    "falasTraduzidas" : 402,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 119884,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T17:28:22.505182700Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E17.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 396,
+    "falasTraduzidas" : 377,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 108234,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T17:30:10.761739400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E18.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 381,
+    "falasTraduzidas" : 361,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 105912,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T17:31:56.698615400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E19.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 394,
+    "falasTraduzidas" : 372,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 115252,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T17:33:51.974121900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E20.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 521,
+    "falasTraduzidas" : 492,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 144223,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T17:36:16.220905200Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E21.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 416,
+    "falasTraduzidas" : 390,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 141571,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T17:38:37.813424Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E22.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 410,
+    "falasTraduzidas" : 385,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 118372,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T17:40:36.216937900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E23.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 386,
+    "falasTraduzidas" : 365,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 122459,
+    "quantidadeAvisos" : 7,
+    "registradoEm" : "2026-07-19T17:42:38.706759900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E24.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 406,
+    "falasTraduzidas" : 384,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 123880,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T17:44:42.621763100Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E25.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 336,
+    "falasTraduzidas" : 306,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 88844,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T17:46:11.497494800Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E26.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 392,
+    "falasTraduzidas" : 365,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 118814,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T17:48:10.343933600Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E27.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 318,
+    "falasTraduzidas" : 293,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 96519,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-19T17:49:46.894815900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E28.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 351,
+    "falasTraduzidas" : 322,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 96651,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T17:51:23.575103800Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E29.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 366,
+    "falasTraduzidas" : 349,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 125517,
+    "quantidadeAvisos" : 7,
+    "registradoEm" : "2026-07-19T17:53:29.120999400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E30.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 405,
+    "falasTraduzidas" : 385,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 115742,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T17:55:24.893802200Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E31.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 341,
+    "falasTraduzidas" : 330,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 113774,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-19T17:57:18.702510200Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E32.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 334,
+    "falasTraduzidas" : 318,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 113271,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T17:59:12.005210200Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E33.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 431,
+    "falasTraduzidas" : 407,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 128562,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T18:01:20.592974Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E34.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 396,
+    "falasTraduzidas" : 379,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 122786,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T18:03:23.404598600Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E35.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 325,
+    "falasTraduzidas" : 310,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 98515,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T18:05:01.999304600Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E36.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 308,
+    "falasTraduzidas" : 300,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 96377,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T18:06:38.401959400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E37.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 399,
+    "falasTraduzidas" : 383,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 120297,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T18:08:38.772612900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E38.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 407,
+    "falasTraduzidas" : 387,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 131409,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T18:10:50.206606200Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E39.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 357,
+    "falasTraduzidas" : 350,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 113862,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-19T18:12:44.093151Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E40.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 437,
+    "falasTraduzidas" : 418,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 124030,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-19T18:14:48.147070100Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E41.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 332,
+    "falasTraduzidas" : 310,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 99685,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T18:16:27.857499400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E42.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 440,
+    "falasTraduzidas" : 407,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 128577,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-19T18:18:36.460786400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E43.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 404,
+    "falasTraduzidas" : 384,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 130741,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-19T18:20:47.226894Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E44.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 355,
+    "falasTraduzidas" : 344,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 116537,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-19T18:22:43.789704700Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E45.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 319,
+    "falasTraduzidas" : 305,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 116196,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-19T18:24:40.011571500Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E46.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 357,
+    "falasTraduzidas" : 343,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 122810,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T18:26:42.845487700Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam ZZ - S01E47.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "current",
+    "totalLinhas" : 279,
+    "falasTraduzidas" : 260,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 78174,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-19T18:28:01.044156500Z"
   } ],
   "operacoes" : [ {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:34:09.949017300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:38:58.638785200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:39:02.951735500Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:39:02.972786300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:39:03.895918600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:39:03.919508100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:40:58.291293100Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:41:02.408408300Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:41:02.423551300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:41:03.159632Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:41:03.175786200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:45:23.443851Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:45:28.313055500Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:45:28.338621200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:45:29.665871700Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:45:29.691954400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:47:19.237654300Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:47:23.800525800Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:47:23.822668200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:47:25.012823800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T14:47:25.043409800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T15:02:46.996986400Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T15:02:51.525598800Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T15:02:51.554693100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T15:02:52.583464900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T15:02:52.605075500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T15:57:43.618961200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T15:57:48.050160300Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T15:57:48.074103Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T15:57:49.018664600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T15:57:49.037198800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:08:38.401104200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:08:42.586263200Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:08:42.603871900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:08:43.412332400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:08:43.433310200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:17:04.595158700Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:17:08.936642800Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:17:08.960188Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:17:09.838812200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:17:09.860363600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:18:33.288464500Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:18:37.667759200Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:18:37.690322200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:18:38.603026100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:18:38.623816300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:41:49.150082100Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:41:53.335369200Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:41:53.351414100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:41:54.102297100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T16:41:54.120322600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T17:10:26.601196800Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T17:10:31.060290Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T17:10:31.086880400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T17:10:32.106937200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T17:10:32.134003200Z"
+  }, {
     "tipo" : "Auditoria de Conteudo (.ass)",
     "tempoTotalMs" : 8,
     "arquivosProcessados" : 1,
@@ -3654,549 +4871,157 @@
     "registradoEm" : "2026-07-15T02:18:48.519833300Z"
   }, {
     "tipo" : "Extracao de Legendas (ASS)",
-    "tempoTotalMs" : 9023,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 15,
-    "itensCorrigidos" : 15,
-    "registradoEm" : "2026-07-15T12:00:01.503499200Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 774,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1756,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-15T12:44:23.227457100Z"
-  }, {
-    "tipo" : "Revisão Gramatical (cache LLM)",
-    "tempoTotalMs" : 2344,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-15T12:44:28.545485300Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 1675141,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1756,
-    "itensCorrigidos" : 1743,
-    "registradoEm" : "2026-07-15T13:12:44.583413400Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 322,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 14,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-15T14:28:09.995177600Z"
-  }, {
-    "tipo" : "Revisão Gramatical (cache LLM)",
-    "tempoTotalMs" : 2472,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-15T14:28:14.251307400Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 787,
-    "arquivosProcessados" : 29,
-    "itensDetectados" : 23,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-15T14:28:25.766774500Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 13372,
-    "arquivosProcessados" : 29,
-    "itensDetectados" : 23,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-15T14:28:42.339586Z"
-  }, {
-    "tipo" : "Revisão Concordância (.ass LLM)",
-    "tempoTotalMs" : 8032,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1743,
-    "itensCorrigidos" : 5,
-    "registradoEm" : "2026-07-15T14:29:55.452921200Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 739,
-    "arquivosProcessados" : 29,
-    "itensDetectados" : 23,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-15T14:30:27.248679700Z"
-  }, {
-    "tipo" : "Revisão Gramatical (cache LLM)",
-    "tempoTotalMs" : 7364,
-    "arquivosProcessados" : 29,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-15T14:30:37.262314200Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 13351,
-    "arquivosProcessados" : 29,
-    "itensDetectados" : 23,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-15T14:30:53.192049500Z"
-  }, {
-    "tipo" : "Revisão Concordância (.ass LLM)",
-    "tempoTotalMs" : 13240,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1738,
-    "itensCorrigidos" : 5,
-    "registradoEm" : "2026-07-15T14:31:16.390908100Z"
-  }, {
-    "tipo" : "Revisão Legendas (.ass Google)",
-    "tempoTotalMs" : 2881,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1733,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-15T14:33:44.743922Z"
-  }, {
-    "tipo" : "Troca de Fontes ASS",
-    "tempoTotalMs" : 124,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 14,
-    "itensCorrigidos" : 14,
-    "registradoEm" : "2026-07-15T14:34:50.192313300Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 764,
-    "arquivosProcessados" : 29,
-    "itensDetectados" : 23,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-15T14:35:11.145816200Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 893,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1622,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-15T15:53:04.560404100Z"
-  }, {
-    "tipo" : "Revisão Gramatical (cache LLM)",
-    "tempoTotalMs" : 2658,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-15T15:53:15.596083900Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 950438,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1622,
-    "itensCorrigidos" : 1613,
-    "registradoEm" : "2026-07-15T16:09:15.110419200Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 441,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 13,
-    "itensCorrigidos" : 4,
-    "registradoEm" : "2026-07-15T16:14:22.370839800Z"
-  }, {
-    "tipo" : "Revisão Gramatical (cache LLM)",
-    "tempoTotalMs" : 4755,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 3,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-15T16:14:28.543731500Z"
-  }, {
-    "tipo" : "Revisão Concordância (.ass LLM)",
-    "tempoTotalMs" : 14260,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1606,
-    "itensCorrigidos" : 8,
-    "registradoEm" : "2026-07-15T16:29:24.790919900Z"
-  }, {
-    "tipo" : "Revisão Legendas (.ass Google)",
-    "tempoTotalMs" : 2790,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1598,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-15T16:29:48.904500900Z"
-  }, {
-    "tipo" : "Troca de Fontes ASS",
-    "tempoTotalMs" : 170,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 14,
-    "itensCorrigidos" : 14,
-    "registradoEm" : "2026-07-15T16:47:00.872624800Z"
-  }, {
-    "tipo" : "NOVO_KARAOKE",
-    "tempoTotalMs" : 499,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1172,
-    "itensCorrigidos" : 369,
-    "registradoEm" : "2026-07-15T16:47:48.490045200Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "tempoTotalMs" : 260144,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 327,
-    "itensCorrigidos" : 319,
-    "registradoEm" : "2026-07-15T16:52:22.287617200Z"
-  }, {
-    "tipo" : "Correcao de Legendas (.ass original->traduzida)",
-    "tempoTotalMs" : 4535900,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 2792,
-    "itensCorrigidos" : 2792,
-    "registradoEm" : "2026-07-15T18:12:31.826278800Z"
-  }, {
-    "tipo" : "Renomear Arquivos",
-    "tempoTotalMs" : 162,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 15,
-    "itensCorrigidos" : 15,
-    "registradoEm" : "2026-07-15T18:26:06.327415700Z"
-  }, {
-    "tipo" : "Renomear Arquivos",
-    "tempoTotalMs" : 115,
-    "arquivosProcessados" : 15,
+    "tempoTotalMs" : 5101,
+    "arquivosProcessados" : 13,
     "itensDetectados" : 13,
     "itensCorrigidos" : 13,
-    "registradoEm" : "2026-07-15T18:26:14.893781600Z"
-  }, {
-    "tipo" : "Remux (mkvmerge)",
-    "tempoTotalMs" : 14065,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 13,
-    "itensCorrigidos" : 13,
-    "registradoEm" : "2026-07-15T18:26:49.605272600Z"
-  }, {
-    "tipo" : "Remux (mkvmerge)",
-    "tempoTotalMs" : 105,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 13,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-15T18:27:02.875116Z"
-  }, {
-    "tipo" : "Remux (mkvmerge)",
-    "tempoTotalMs" : 11824,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 13,
-    "itensCorrigidos" : 13,
-    "registradoEm" : "2026-07-15T18:27:37.193428100Z"
+    "registradoEm" : "2026-07-17T18:41:17.919505200Z"
   }, {
     "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 6090,
-    "arquivosProcessados" : 29,
-    "itensDetectados" : 2163,
+    "tempoTotalMs" : 1127,
+    "arquivosProcessados" : 14,
+    "itensDetectados" : 1408,
     "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-15T20:01:00.307636900Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 1708744,
-    "arquivosProcessados" : 29,
-    "itensDetectados" : 2163,
-    "itensCorrigidos" : 1248,
-    "registradoEm" : "2026-07-15T20:29:34.295267200Z"
-  }, {
-    "tipo" : "Revisão Concordância (.ass LLM)",
-    "tempoTotalMs" : 21793,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 2152,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-15T21:55:17.651573900Z"
-  }, {
-    "tipo" : "Revisão Legendas (.ass Google)",
-    "tempoTotalMs" : 16941,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 2151,
-    "itensCorrigidos" : 3,
-    "registradoEm" : "2026-07-15T21:56:18.732021100Z"
-  }, {
-    "tipo" : "Remux (mkvmerge)",
-    "tempoTotalMs" : 16537,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 13,
-    "itensCorrigidos" : 13,
-    "registradoEm" : "2026-07-15T22:20:14.689490200Z"
-  }, {
-    "tipo" : "Renomear Arquivos",
-    "tempoTotalMs" : 135,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 15,
-    "itensCorrigidos" : 15,
-    "registradoEm" : "2026-07-16T00:30:37.255783200Z"
-  }, {
-    "tipo" : "Renomear Arquivos",
-    "tempoTotalMs" : 97,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 15,
-    "itensCorrigidos" : 15,
-    "registradoEm" : "2026-07-16T00:30:52.058433200Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "tempoTotalMs" : 5130,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 15,
-    "itensCorrigidos" : 15,
-    "registradoEm" : "2026-07-16T01:15:00.115428600Z"
-  }, {
-    "tipo" : "Troca de Fontes ASS",
-    "tempoTotalMs" : 118,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 14,
-    "itensCorrigidos" : 14,
-    "registradoEm" : "2026-07-16T01:16:05.921419500Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 2182,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 5779,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T01:46:41.152322500Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 1753,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 5779,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T01:47:19.979758100Z"
+    "registradoEm" : "2026-07-18T01:12:02.758133200Z"
   }, {
     "tipo" : "Revisão Gramatical (cache LLM)",
-    "tempoTotalMs" : 4359,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 4,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-16T01:47:27.619417300Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 3243201,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 5780,
-    "itensCorrigidos" : 3549,
-    "registradoEm" : "2026-07-16T02:41:39.969999Z"
-  }, {
-    "tipo" : "Revisão Concordância (.ass LLM)",
-    "tempoTotalMs" : 24782,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 717,
-    "itensCorrigidos" : 7,
-    "registradoEm" : "2026-07-16T02:55:58.042274100Z"
-  }, {
-    "tipo" : "Revisão Legendas (.ass Google)",
-    "tempoTotalMs" : 14587,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 710,
-    "itensCorrigidos" : 26,
-    "registradoEm" : "2026-07-16T02:58:12.239521200Z"
-  }, {
-    "tipo" : "Revisão Legendas (.ass Google)",
-    "tempoTotalMs" : 3181,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 684,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T03:06:40.586961600Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 2365,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 2905,
-    "itensCorrigidos" : 675,
-    "registradoEm" : "2026-07-16T03:08:12.710869900Z"
-  }, {
-    "tipo" : "Revisão Gramatical (cache LLM)",
-    "tempoTotalMs" : 11191,
-    "arquivosProcessados" : 45,
+    "tempoTotalMs" : 3330,
+    "arquivosProcessados" : 14,
     "itensDetectados" : 4,
     "itensCorrigidos" : 2,
-    "registradoEm" : "2026-07-16T03:08:27.638803700Z"
+    "registradoEm" : "2026-07-18T01:12:15.537997100Z"
   }, {
-    "tipo" : "Revisão Concordância (.ass LLM)",
-    "tempoTotalMs" : 8738,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 684,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-16T03:09:09.687171100Z"
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 1027720,
+    "arquivosProcessados" : 14,
+    "itensDetectados" : 1408,
+    "itensCorrigidos" : 1401,
+    "registradoEm" : "2026-07-18T01:38:00.202452Z"
   }, {
-    "tipo" : "Revisao de Lore (.ass LLM)",
-    "tempoTotalMs" : 3553879,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 4058,
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 7291,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 47,
     "itensCorrigidos" : 11,
-    "registradoEm" : "2026-07-16T04:11:17.637619200Z"
+    "registradoEm" : "2026-07-18T01:39:31.790756800Z"
   }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 1615,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 2928,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T13:42:36.807424300Z"
-  }, {
-    "tipo" : "Revisão Gramatical (cache LLM)",
-    "tempoTotalMs" : 7235,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T13:42:48.232516100Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 6182614,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 2928,
-    "itensCorrigidos" : 707,
-    "registradoEm" : "2026-07-16T15:26:00.356748500Z"
-  }, {
-    "tipo" : "Revisão Concordância (.ass LLM)",
-    "tempoTotalMs" : 83855,
-    "arquivosProcessados" : 27,
-    "itensDetectados" : 618,
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 6324,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 50,
     "itensCorrigidos" : 12,
-    "registradoEm" : "2026-07-16T16:09:18.688322500Z"
+    "registradoEm" : "2026-07-18T01:40:15.178473200Z"
   }, {
-    "tipo" : "Revisão Legendas (.ass Google)",
-    "tempoTotalMs" : 16453,
-    "arquivosProcessados" : 27,
-    "itensDetectados" : 604,
-    "itensCorrigidos" : 22,
-    "registradoEm" : "2026-07-16T16:09:41.828091300Z"
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 6061,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 47,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-07-18T01:40:44.731027900Z"
   }, {
-    "tipo" : "Revisao de Lore (.ass LLM)",
-    "tempoTotalMs" : 705298,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1247,
-    "itensCorrigidos" : 10,
-    "registradoEm" : "2026-07-16T16:23:53.139347300Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "tempoTotalMs" : 259089,
-    "arquivosProcessados" : 27,
-    "itensDetectados" : 259,
-    "itensCorrigidos" : 115,
-    "registradoEm" : "2026-07-16T16:29:06.674068200Z"
-  }, {
-    "tipo" : "Correcao de Legendas (.ass original->traduzida)",
-    "tempoTotalMs" : 189,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 159,
-    "itensCorrigidos" : 159,
-    "registradoEm" : "2026-07-16T16:30:57.782135900Z"
-  }, {
-    "tipo" : "Remux (mkvmerge)",
-    "tempoTotalMs" : 20532,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 15,
-    "itensCorrigidos" : 15,
-    "registradoEm" : "2026-07-16T16:35:51.622102700Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 1604,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 2895,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T16:47:29.625683800Z"
-  }, {
-    "tipo" : "Revisão Gramatical (cache LLM)",
-    "tempoTotalMs" : 7231,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T16:47:41.533750700Z"
-  }, {
-    "tipo" : "Correção Google (cache)",
-    "tempoTotalMs" : 6115670,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 2895,
-    "itensCorrigidos" : 674,
-    "registradoEm" : "2026-07-16T18:29:55.045436600Z"
-  }, {
-    "tipo" : "Revisão Legendas (.ass Google)",
-    "tempoTotalMs" : 40160,
-    "arquivosProcessados" : 27,
-    "itensDetectados" : 101,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T19:57:36.494379700Z"
-  }, {
-    "tipo" : "Revisão Legendas (.ass Google)",
-    "tempoTotalMs" : 4442,
-    "arquivosProcessados" : 27,
-    "itensDetectados" : 16,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T20:04:13.476461600Z"
-  }, {
-    "tipo" : "Limpeza de Cache",
-    "tempoTotalMs" : 1535,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 2895,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T20:06:50.454853800Z"
-  }, {
-    "tipo" : "Revisão Gramatical (cache LLM)",
-    "tempoTotalMs" : 7066,
-    "arquivosProcessados" : 45,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T20:07:22.395592600Z"
-  }, {
-    "tipo" : "Revisão Legendas (.ass Google)",
-    "tempoTotalMs" : 6519,
-    "arquivosProcessados" : 27,
-    "itensDetectados" : 8,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T20:08:25.909411200Z"
-  }, {
-    "tipo" : "Revisão Concordância (.ass LLM)",
-    "tempoTotalMs" : 20385,
-    "arquivosProcessados" : 27,
-    "itensDetectados" : 10,
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 1862,
+    "arquivosProcessados" : 3,
+    "itensDetectados" : 14,
     "itensCorrigidos" : 3,
-    "registradoEm" : "2026-07-16T20:08:51.411004900Z"
+    "registradoEm" : "2026-07-18T02:04:26.188266500Z"
   }, {
-    "tipo" : "Revisão Concordância (.ass LLM)",
-    "tempoTotalMs" : 19061,
-    "arquivosProcessados" : 27,
-    "itensDetectados" : 7,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T20:09:15.176741700Z"
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 21812,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-07-19T11:24:48.734963200Z"
   }, {
-    "tipo" : "Revisao de Lore (.ass LLM)",
-    "tempoTotalMs" : 837658,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 886,
-    "itensCorrigidos" : 7,
-    "registradoEm" : "2026-07-16T20:23:32.046439500Z"
+    "tipo" : "Renomear Arquivos",
+    "tempoTotalMs" : 185,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-07-19T11:30:19.074305900Z"
   }, {
-    "tipo" : "Remux (mkvmerge)",
-    "tempoTotalMs" : 29309,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 15,
-    "itensCorrigidos" : 15,
-    "registradoEm" : "2026-07-16T20:25:01.111169600Z"
+    "tipo" : "Renomear Arquivos",
+    "tempoTotalMs" : 159,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-07-19T11:30:26.622879200Z"
   }, {
     "tipo" : "NOVO_KARAOKE",
-    "tempoTotalMs" : 668,
-    "arquivosProcessados" : 27,
-    "itensDetectados" : 2137,
-    "itensCorrigidos" : 678,
-    "registradoEm" : "2026-07-16T20:27:23.761714200Z"
+    "tempoTotalMs" : 2084,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 4088,
+    "itensCorrigidos" : 1119,
+    "registradoEm" : "2026-07-19T11:31:31.492953400Z"
   }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "tempoTotalMs" : 282449,
-    "arquivosProcessados" : 27,
-    "itensDetectados" : 425,
-    "itensCorrigidos" : 423,
-    "registradoEm" : "2026-07-16T20:32:19.833868Z"
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 21846,
+    "arquivosProcessados" : 49,
+    "itensDetectados" : 47,
+    "itensCorrigidos" : 47,
+    "registradoEm" : "2026-07-19T16:51:56.313445Z"
   }, {
-    "tipo" : "Correcao de Legendas (.ass original->traduzida)",
-    "tempoTotalMs" : 53,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-16T20:33:37.007419700Z"
+    "tipo" : "Renomear Arquivos",
+    "tempoTotalMs" : 141,
+    "arquivosProcessados" : 49,
+    "itensDetectados" : 47,
+    "itensCorrigidos" : 47,
+    "registradoEm" : "2026-07-19T16:52:10.796963400Z"
   }, {
-    "tipo" : "Remux (mkvmerge)",
-    "tempoTotalMs" : 23861,
-    "arquivosProcessados" : 15,
-    "itensDetectados" : 15,
-    "itensCorrigidos" : 15,
-    "registradoEm" : "2026-07-16T20:34:26.616858800Z"
+    "tipo" : "Renomear Arquivos",
+    "tempoTotalMs" : 125,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 47,
+    "itensCorrigidos" : 47,
+    "registradoEm" : "2026-07-19T16:52:21.155163200Z"
   }, {
-    "tipo" : "Correcao de Legendas (.ass original->traduzida)",
-    "tempoTotalMs" : 5,
-    "arquivosProcessados" : 0,
-    "itensDetectados" : 0,
+    "tipo" : "NOVO_KARAOKE",
+    "tempoTotalMs" : 1290,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 3312,
+    "itensCorrigidos" : 707,
+    "registradoEm" : "2026-07-19T16:52:58.358855200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 650,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 217,
     "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-16T20:38:50.166592600Z"
+    "registradoEm" : "2026-07-20T14:33:39.087528Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 3687,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-20T14:33:53.273245100Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 121916,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 217,
+    "itensCorrigidos" : 213,
+    "registradoEm" : "2026-07-20T14:36:12.823513200Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 79275,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 209,
+    "itensCorrigidos" : 172,
+    "registradoEm" : "2026-07-20T14:47:41.298433200Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 18108,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 37,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-07-20T14:48:43.789786200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 152934,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 466,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-20T14:51:56.918158Z"
   } ]
 }
