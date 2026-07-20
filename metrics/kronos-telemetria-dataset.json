@@ -27,39 +27,6 @@
     "totalOperacoesRegistradas" : 500
   },
   "traducoesLlm" : [ {
-    "episodio" : "Teste_Ep01_ENG.ass",
-    "anime" : "teste_traducao",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : null,
-    "totalLinhas" : 0,
-    "falasTraduzidas" : 0,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 0,
-    "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-13T18:15:28.989457600Z"
-  }, {
-    "episodio" : "Teste_Ep02_ENG.srt",
-    "anime" : "teste_traducao",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : null,
-    "totalLinhas" : 0,
-    "falasTraduzidas" : 0,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 0,
-    "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-13T18:15:29.374581600Z"
-  }, {
-    "episodio" : "[2ndfire]Mobile_Suit_Gundam_Narrative[BD][1080p][AV1][10bit][981A36A1]_Track3.ass",
-    "anime" : "Gundam Narrative NT",
-    "temporada" : "Temporada Única",
-    "modeloLlm" : "current",
-    "totalLinhas" : 1231,
-    "falasTraduzidas" : 1186,
-    "falasDoCache" : 0,
-    "tempoTotalMs" : 461756,
-    "quantidadeAvisos" : 553,
-    "registradoEm" : "2026-07-13T20:08:50.561540600Z"
-  }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S00E02_Track2.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
