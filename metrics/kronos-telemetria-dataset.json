@@ -1,7 +1,7 @@
 {
   "dataset" : "kronos-anime-translation-telemetry-dataset",
   "versaoFormato" : 2,
-  "geradoEm" : "2026-07-28T16:29:00.017523200Z",
+  "geradoEm" : "2026-08-03T18:56:52.805157900Z",
   "descricao" : "Métricas operacionais de tradução de legendas de anime com LLM 100% local (LM Studio). Sem textos de legenda e sem caminhos de máquina — apenas métricas.",
   "ambienteExecucao" : {
     "fabricante" : "Avell",
@@ -15,171 +15,171 @@
     "hardwareColetadoAutomaticamente" : true
   },
   "resumo" : {
-    "totalEpisodiosTraduzidos" : 148,
-    "totalLinhasTraduzidas" : 48517,
-    "tempoMedioPorLinhaMs" : 837,
+    "totalEpisodiosTraduzidos" : 182,
+    "totalLinhasTraduzidas" : 60668,
+    "tempoMedioPorLinhaMs" : 968,
     "totalFalasReaproveitadasDoCache" : 0,
-    "alucinacoesLlmPrevenidas" : 1795,
-    "respostasTraducaoRejeitadas" : 12044,
-    "falhasTraducaoRecuperadas" : 4245,
-    "fallbacksTraducaoMantidos" : 2363,
+    "alucinacoesLlmPrevenidas" : 2496,
+    "respostasTraducaoRejeitadas" : 15859,
+    "falhasTraducaoRecuperadas" : 6474,
+    "fallbacksTraducaoMantidos" : 2588,
     "arquivosRenomeados" : 0,
-    "totalOperacoesRegistradas" : 5
+    "totalOperacoesRegistradas" : 77
   },
   "traducoesLlm" : [ {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S00E02_Track2.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 92,
-    "falasTraduzidas" : 89,
+    "totalLinhas" : 73,
+    "falasTraduzidas" : 70,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 74562,
+    "tempoTotalMs" : 72719,
     "quantidadeAvisos" : 0,
-    "registradoEm" : "2026-07-24T00:02:41.844410600Z"
+    "registradoEm" : "2026-07-31T11:50:41.032636700Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E01_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 356,
-    "falasTraduzidas" : 342,
+    "totalLinhas" : 286,
+    "falasTraduzidas" : 282,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 274022,
-    "quantidadeAvisos" : 3,
-    "registradoEm" : "2026-07-24T00:07:15.872395100Z"
+    "tempoTotalMs" : 324533,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-31T11:56:05.577890600Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E02_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 337,
-    "falasTraduzidas" : 324,
+    "totalLinhas" : 267,
+    "falasTraduzidas" : 264,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 270833,
-    "quantidadeAvisos" : 0,
-    "registradoEm" : "2026-07-24T00:11:46.710328Z"
+    "tempoTotalMs" : 306319,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-31T12:01:11.904013500Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E03_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 412,
-    "falasTraduzidas" : 392,
+    "totalLinhas" : 342,
+    "falasTraduzidas" : 334,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 333276,
+    "tempoTotalMs" : 378327,
     "quantidadeAvisos" : 5,
-    "registradoEm" : "2026-07-24T00:17:19.990192500Z"
+    "registradoEm" : "2026-07-31T12:07:30.237689500Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E04_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 411,
-    "falasTraduzidas" : 393,
+    "totalLinhas" : 334,
+    "falasTraduzidas" : 328,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 344154,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-24T00:23:04.148436600Z"
+    "tempoTotalMs" : 401607,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-31T12:14:11.855214400Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E05_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 480,
-    "falasTraduzidas" : 453,
+    "totalLinhas" : 378,
+    "falasTraduzidas" : 363,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 347195,
+    "tempoTotalMs" : 365146,
     "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-24T00:28:51.350850100Z"
+    "registradoEm" : "2026-07-31T12:20:17.012420700Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E06_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 392,
-    "falasTraduzidas" : 372,
+    "totalLinhas" : 304,
+    "falasTraduzidas" : 292,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 296328,
-    "quantidadeAvisos" : 5,
-    "registradoEm" : "2026-07-24T00:33:47.683226900Z"
+    "tempoTotalMs" : 332739,
+    "quantidadeAvisos" : 8,
+    "registradoEm" : "2026-07-31T12:25:49.758883800Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E07_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 279,
-    "falasTraduzidas" : 262,
+    "totalLinhas" : 208,
+    "falasTraduzidas" : 203,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 217615,
+    "tempoTotalMs" : 234888,
     "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-24T00:37:25.302372300Z"
+    "registradoEm" : "2026-07-31T12:29:44.654973100Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E08_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 371,
-    "falasTraduzidas" : 359,
+    "totalLinhas" : 301,
+    "falasTraduzidas" : 301,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 309114,
+    "tempoTotalMs" : 370079,
     "quantidadeAvisos" : 0,
-    "registradoEm" : "2026-07-24T00:42:34.419004Z"
+    "registradoEm" : "2026-07-31T12:35:54.744373800Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E09_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 394,
-    "falasTraduzidas" : 377,
+    "totalLinhas" : 321,
+    "falasTraduzidas" : 314,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 333848,
+    "tempoTotalMs" : 374507,
     "quantidadeAvisos" : 7,
-    "registradoEm" : "2026-07-24T00:48:08.270208700Z"
+    "registradoEm" : "2026-07-31T12:42:09.260295500Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E10_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 332,
-    "falasTraduzidas" : 319,
+    "totalLinhas" : 262,
+    "falasTraduzidas" : 256,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 277373,
-    "quantidadeAvisos" : 7,
-    "registradoEm" : "2026-07-24T00:52:45.706918300Z"
+    "tempoTotalMs" : 307575,
+    "quantidadeAvisos" : 13,
+    "registradoEm" : "2026-07-31T12:47:16.852930500Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E11_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 279,
-    "falasTraduzidas" : 264,
+    "totalLinhas" : 245,
+    "falasTraduzidas" : 241,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 233244,
+    "tempoTotalMs" : 262871,
     "quantidadeAvisos" : 5,
-    "registradoEm" : "2026-07-24T00:56:38.955952800Z"
+    "registradoEm" : "2026-07-31T12:51:39.731592400Z"
   }, {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S01E12_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 303,
-    "falasTraduzidas" : 294,
+    "totalLinhas" : 287,
+    "falasTraduzidas" : 281,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 238865,
-    "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-24T01:00:37.825428800Z"
+    "tempoTotalMs" : 263729,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-31T12:56:03.466432400Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E01_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 346,
-    "falasTraduzidas" : 335,
+    "falasTraduzidas" : 334,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 329228,
-    "quantidadeAvisos" : 3,
-    "registradoEm" : "2026-07-25T12:18:47.424436800Z"
+    "tempoTotalMs" : 419816,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-29T02:17:19.107160900Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E02_5_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
@@ -188,152 +188,152 @@
     "totalLinhas" : 24,
     "falasTraduzidas" : 21,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 22725,
+    "tempoTotalMs" : 26385,
     "quantidadeAvisos" : 0,
-    "registradoEm" : "2026-07-25T12:19:10.170129800Z"
+    "registradoEm" : "2026-07-29T02:17:45.505701400Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E02_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 358,
-    "falasTraduzidas" : 347,
+    "totalLinhas" : 340,
+    "falasTraduzidas" : 328,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 324710,
-    "quantidadeAvisos" : 3,
-    "registradoEm" : "2026-07-25T12:24:34.886715100Z"
+    "tempoTotalMs" : 408047,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-29T02:24:33.564608300Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E03-5_Track2.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 93,
-    "falasTraduzidas" : 91,
+    "totalLinhas" : 78,
+    "falasTraduzidas" : 78,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 110373,
-    "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-25T12:26:25.275594900Z"
+    "tempoTotalMs" : 140163,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-29T02:26:53.733203300Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E03_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 329,
-    "falasTraduzidas" : 318,
+    "totalLinhas" : 311,
+    "falasTraduzidas" : 300,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 286248,
-    "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-25T12:31:11.535244200Z"
+    "tempoTotalMs" : 363269,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-29T02:32:57.009770600Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E04_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 370,
-    "falasTraduzidas" : 356,
+    "totalLinhas" : 352,
+    "falasTraduzidas" : 338,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 343758,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-25T12:36:55.303333900Z"
+    "tempoTotalMs" : 428030,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-29T02:40:05.050345900Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E05_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 390,
-    "falasTraduzidas" : 382,
+    "totalLinhas" : 372,
+    "falasTraduzidas" : 363,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 362352,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-25T12:42:57.669464500Z"
+    "tempoTotalMs" : 439874,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-29T02:47:24.932275800Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E06_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 303,
-    "falasTraduzidas" : 299,
+    "totalLinhas" : 285,
+    "falasTraduzidas" : 280,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 263290,
-    "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-25T12:47:20.967029300Z"
+    "tempoTotalMs" : 329872,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-29T02:52:54.811205300Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E07_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 352,
-    "falasTraduzidas" : 343,
+    "totalLinhas" : 334,
+    "falasTraduzidas" : 321,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 312633,
-    "quantidadeAvisos" : 6,
-    "registradoEm" : "2026-07-25T12:52:33.615614100Z"
+    "tempoTotalMs" : 392205,
+    "quantidadeAvisos" : 11,
+    "registradoEm" : "2026-07-29T02:59:27.023311700Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E08_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 411,
-    "falasTraduzidas" : 403,
+    "totalLinhas" : 367,
+    "falasTraduzidas" : 358,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 327935,
-    "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-25T12:58:01.569395100Z"
+    "tempoTotalMs" : 395086,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-29T03:06:02.116229Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E09_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 324,
-    "falasTraduzidas" : 320,
+    "totalLinhas" : 280,
+    "falasTraduzidas" : 276,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 295872,
-    "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-25T13:02:57.459335Z"
+    "tempoTotalMs" : 372473,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-29T03:12:14.597325Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E10_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 286,
-    "falasTraduzidas" : 282,
+    "totalLinhas" : 242,
+    "falasTraduzidas" : 238,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 233244,
-    "quantidadeAvisos" : 0,
-    "registradoEm" : "2026-07-25T13:06:50.720690900Z"
+    "tempoTotalMs" : 288740,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-29T03:17:03.344731900Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E11_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 345,
-    "falasTraduzidas" : 341,
+    "totalLinhas" : 301,
+    "falasTraduzidas" : 296,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 304633,
-    "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-25T13:11:55.363215300Z"
+    "tempoTotalMs" : 357938,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-29T03:23:01.291656100Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E12_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 273,
-    "falasTraduzidas" : 271,
+    "totalLinhas" : 229,
+    "falasTraduzidas" : 227,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 236885,
-    "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-25T13:15:52.255470600Z"
+    "tempoTotalMs" : 276817,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-29T03:27:38.115281700Z"
   }, {
     "episodio" : "Mobile Suit Gundam 0083 - Stardust Memory - S01E13_Track3.ass",
     "anime" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
-    "totalLinhas" : 238,
-    "falasTraduzidas" : 225,
+    "totalLinhas" : 218,
+    "falasTraduzidas" : 209,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 188185,
-    "quantidadeAvisos" : 5,
-    "registradoEm" : "2026-07-25T13:19:00.450327900Z"
+    "tempoTotalMs" : 236623,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-29T03:31:34.745247Z"
   }, {
     "episodio" : "Guilty Crown - 01_Track4.ass",
     "anime" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]",
@@ -1112,9 +1112,9 @@
     "totalLinhas" : 207,
     "falasTraduzidas" : 188,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 155834,
+    "tempoTotalMs" : 170721,
     "quantidadeAvisos" : 0,
-    "registradoEm" : "2026-07-26T12:25:24.359272700Z"
+    "registradoEm" : "2026-07-31T02:38:51.618564100Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E02_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1123,9 +1123,9 @@
     "totalLinhas" : 301,
     "falasTraduzidas" : 294,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 259431,
-    "quantidadeAvisos" : 8,
-    "registradoEm" : "2026-07-26T12:29:43.799069800Z"
+    "tempoTotalMs" : 325135,
+    "quantidadeAvisos" : 7,
+    "registradoEm" : "2026-07-31T02:44:16.759571600Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E03_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1134,9 +1134,9 @@
     "totalLinhas" : 356,
     "falasTraduzidas" : 350,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 323270,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-26T12:35:07.075297300Z"
+    "tempoTotalMs" : 379236,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-31T02:50:36.001330900Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E04_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1145,9 +1145,9 @@
     "totalLinhas" : 318,
     "falasTraduzidas" : 312,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 296465,
-    "quantidadeAvisos" : 13,
-    "registradoEm" : "2026-07-26T12:40:03.548590Z"
+    "tempoTotalMs" : 344339,
+    "quantidadeAvisos" : 10,
+    "registradoEm" : "2026-07-31T02:56:20.347516400Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E05_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1156,9 +1156,9 @@
     "totalLinhas" : 309,
     "falasTraduzidas" : 298,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 256677,
-    "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-26T12:44:20.230084800Z"
+    "tempoTotalMs" : 324221,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-31T03:01:44.574927500Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E06_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1167,9 +1167,9 @@
     "totalLinhas" : 344,
     "falasTraduzidas" : 331,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 305170,
-    "quantidadeAvisos" : 13,
-    "registradoEm" : "2026-07-26T12:49:25.411658900Z"
+    "tempoTotalMs" : 396839,
+    "quantidadeAvisos" : 12,
+    "registradoEm" : "2026-07-31T03:08:21.418867600Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E07_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1178,20 +1178,20 @@
     "totalLinhas" : 303,
     "falasTraduzidas" : 300,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 275184,
-    "quantidadeAvisos" : 5,
-    "registradoEm" : "2026-07-26T12:54:00.600262200Z"
+    "tempoTotalMs" : 335969,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-31T03:13:57.392905400Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E08_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 294,
-    "falasTraduzidas" : 288,
+    "falasTraduzidas" : 289,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 285898,
-    "quantidadeAvisos" : 11,
-    "registradoEm" : "2026-07-26T12:58:46.503244300Z"
+    "tempoTotalMs" : 343824,
+    "quantidadeAvisos" : 9,
+    "registradoEm" : "2026-07-31T03:19:41.222032Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E09_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1200,9 +1200,9 @@
     "totalLinhas" : 349,
     "falasTraduzidas" : 343,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 302087,
-    "quantidadeAvisos" : 8,
-    "registradoEm" : "2026-07-26T13:03:48.599769100Z"
+    "tempoTotalMs" : 382694,
+    "quantidadeAvisos" : 7,
+    "registradoEm" : "2026-07-31T03:26:03.922129700Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E10_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1211,9 +1211,9 @@
     "totalLinhas" : 308,
     "falasTraduzidas" : 293,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 278160,
-    "quantidadeAvisos" : 12,
-    "registradoEm" : "2026-07-26T13:08:26.765981700Z"
+    "tempoTotalMs" : 342511,
+    "quantidadeAvisos" : 9,
+    "registradoEm" : "2026-07-31T03:31:46.440323300Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E11_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1222,9 +1222,9 @@
     "totalLinhas" : 364,
     "falasTraduzidas" : 352,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 307252,
-    "quantidadeAvisos" : 9,
-    "registradoEm" : "2026-07-26T13:13:34.024500900Z"
+    "tempoTotalMs" : 378596,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-31T03:38:05.041424300Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E12_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1233,9 +1233,9 @@
     "totalLinhas" : 303,
     "falasTraduzidas" : 295,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 247791,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-26T13:17:41.823869100Z"
+    "tempoTotalMs" : 309176,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-31T03:43:14.222088800Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E13_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1244,9 +1244,9 @@
     "totalLinhas" : 349,
     "falasTraduzidas" : 335,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 311339,
-    "quantidadeAvisos" : 7,
-    "registradoEm" : "2026-07-26T13:22:53.185084500Z"
+    "tempoTotalMs" : 393236,
+    "quantidadeAvisos" : 8,
+    "registradoEm" : "2026-07-31T03:49:47.463493500Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E14_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1255,9 +1255,9 @@
     "totalLinhas" : 278,
     "falasTraduzidas" : 271,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 231158,
-    "quantidadeAvisos" : 8,
-    "registradoEm" : "2026-07-26T13:26:44.348275300Z"
+    "tempoTotalMs" : 282513,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-31T03:54:29.982196500Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E15_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1266,31 +1266,31 @@
     "totalLinhas" : 356,
     "falasTraduzidas" : 344,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 293855,
-    "quantidadeAvisos" : 9,
-    "registradoEm" : "2026-07-26T13:31:38.211012800Z"
+    "tempoTotalMs" : 372384,
+    "quantidadeAvisos" : 12,
+    "registradoEm" : "2026-07-31T04:00:42.373636700Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E16_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 382,
-    "falasTraduzidas" : 365,
+    "falasTraduzidas" : 366,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 302369,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-26T13:36:40.587994700Z"
+    "tempoTotalMs" : 370280,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-31T04:06:52.659275200Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E17_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 333,
-    "falasTraduzidas" : 317,
+    "falasTraduzidas" : 318,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 251706,
-    "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-26T13:40:52.298618500Z"
+    "tempoTotalMs" : 335643,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-31T04:12:28.307030500Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E18_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1299,9 +1299,9 @@
     "totalLinhas" : 386,
     "falasTraduzidas" : 367,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 340848,
+    "tempoTotalMs" : 421031,
     "quantidadeAvisos" : 21,
-    "registradoEm" : "2026-07-26T13:46:33.151669200Z"
+    "registradoEm" : "2026-07-31T04:19:29.343204400Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E19_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1310,9 +1310,9 @@
     "totalLinhas" : 321,
     "falasTraduzidas" : 305,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 227193,
-    "quantidadeAvisos" : 3,
-    "registradoEm" : "2026-07-26T13:50:20.349679100Z"
+    "tempoTotalMs" : 287832,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-31T04:24:17.181004600Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E20_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1321,20 +1321,20 @@
     "totalLinhas" : 356,
     "falasTraduzidas" : 334,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 292048,
-    "quantidadeAvisos" : 5,
-    "registradoEm" : "2026-07-26T13:55:12.405364600Z"
+    "tempoTotalMs" : 347672,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-31T04:30:04.858981300Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E21_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 352,
-    "falasTraduzidas" : 342,
+    "falasTraduzidas" : 344,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 294285,
-    "quantidadeAvisos" : 8,
-    "registradoEm" : "2026-07-26T14:00:06.696178300Z"
+    "tempoTotalMs" : 352793,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-31T04:35:57.659880500Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E22_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1343,9 +1343,9 @@
     "totalLinhas" : 377,
     "falasTraduzidas" : 362,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 320312,
-    "quantidadeAvisos" : 7,
-    "registradoEm" : "2026-07-26T14:05:27.016118500Z"
+    "tempoTotalMs" : 378979,
+    "quantidadeAvisos" : 9,
+    "registradoEm" : "2026-07-31T04:42:16.645911700Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E23_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1354,9 +1354,9 @@
     "totalLinhas" : 382,
     "falasTraduzidas" : 367,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 334662,
-    "quantidadeAvisos" : 7,
-    "registradoEm" : "2026-07-26T14:11:01.689988600Z"
+    "tempoTotalMs" : 409430,
+    "quantidadeAvisos" : 10,
+    "registradoEm" : "2026-07-31T04:49:06.081414900Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E24_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1365,31 +1365,31 @@
     "totalLinhas" : 351,
     "falasTraduzidas" : 328,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 260253,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-26T14:15:21.953611800Z"
+    "tempoTotalMs" : 320339,
+    "quantidadeAvisos" : 5,
+    "registradoEm" : "2026-07-31T04:54:26.425474500Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E25_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 367,
-    "falasTraduzidas" : 352,
+    "falasTraduzidas" : 354,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 327818,
-    "quantidadeAvisos" : 10,
-    "registradoEm" : "2026-07-26T14:20:49.777005600Z"
+    "tempoTotalMs" : 403480,
+    "quantidadeAvisos" : 7,
+    "registradoEm" : "2026-07-31T05:01:09.910058100Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E26_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 359,
-    "falasTraduzidas" : 338,
+    "falasTraduzidas" : 337,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 274659,
-    "quantidadeAvisos" : 7,
-    "registradoEm" : "2026-07-26T14:25:24.444048800Z"
+    "tempoTotalMs" : 327212,
+    "quantidadeAvisos" : 6,
+    "registradoEm" : "2026-07-31T05:06:37.127626300Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E27_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1398,9 +1398,9 @@
     "totalLinhas" : 378,
     "falasTraduzidas" : 360,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 327071,
-    "quantidadeAvisos" : 8,
-    "registradoEm" : "2026-07-26T14:30:51.525188Z"
+    "tempoTotalMs" : 406566,
+    "quantidadeAvisos" : 10,
+    "registradoEm" : "2026-07-31T05:13:23.700436300Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E28_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1409,9 +1409,9 @@
     "totalLinhas" : 372,
     "falasTraduzidas" : 356,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 300784,
+    "tempoTotalMs" : 359707,
     "quantidadeAvisos" : 5,
-    "registradoEm" : "2026-07-26T14:35:52.318956800Z"
+    "registradoEm" : "2026-07-31T05:19:23.412173600Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E29_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1420,9 +1420,9 @@
     "totalLinhas" : 393,
     "falasTraduzidas" : 376,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 326615,
-    "quantidadeAvisos" : 8,
-    "registradoEm" : "2026-07-26T14:41:18.941992600Z"
+    "tempoTotalMs" : 419766,
+    "quantidadeAvisos" : 11,
+    "registradoEm" : "2026-07-31T05:26:23.185028500Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E30_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1431,9 +1431,9 @@
     "totalLinhas" : 295,
     "falasTraduzidas" : 282,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 220983,
-    "quantidadeAvisos" : 6,
-    "registradoEm" : "2026-07-26T14:44:59.930931900Z"
+    "tempoTotalMs" : 275662,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-31T05:30:58.852953700Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E31_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1442,9 +1442,9 @@
     "totalLinhas" : 342,
     "falasTraduzidas" : 330,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 253468,
+    "tempoTotalMs" : 311635,
     "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-26T14:49:13.407051600Z"
+    "registradoEm" : "2026-07-31T05:36:10.492544500Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E32_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1453,20 +1453,20 @@
     "totalLinhas" : 347,
     "falasTraduzidas" : 329,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 245957,
+    "tempoTotalMs" : 318858,
     "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-26T14:53:19.376996600Z"
+    "registradoEm" : "2026-07-31T05:41:29.355549400Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E33_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 336,
-    "falasTraduzidas" : 316,
+    "falasTraduzidas" : 317,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 247178,
-    "quantidadeAvisos" : 3,
-    "registradoEm" : "2026-07-26T14:57:26.560063600Z"
+    "tempoTotalMs" : 300876,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-31T05:46:30.236290700Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E34_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1475,53 +1475,53 @@
     "totalLinhas" : 352,
     "falasTraduzidas" : 336,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 273613,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-26T15:02:00.180582300Z"
+    "tempoTotalMs" : 320083,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-31T05:51:50.326286Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E35_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 335,
-    "falasTraduzidas" : 320,
+    "falasTraduzidas" : 321,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 256228,
-    "quantidadeAvisos" : 5,
-    "registradoEm" : "2026-07-26T15:06:16.414656800Z"
+    "tempoTotalMs" : 318696,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-31T05:57:09.027783800Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E36_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 314,
-    "falasTraduzidas" : 287,
+    "falasTraduzidas" : 288,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 214494,
-    "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-26T15:09:50.915571700Z"
+    "tempoTotalMs" : 266507,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-31T06:01:35.540697100Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E37_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 376,
-    "falasTraduzidas" : 369,
+    "falasTraduzidas" : 368,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 306181,
+    "tempoTotalMs" : 393021,
     "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-26T15:14:57.104628300Z"
+    "registradoEm" : "2026-07-31T06:08:08.566634300Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E38_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 381,
-    "falasTraduzidas" : 359,
+    "falasTraduzidas" : 358,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 288781,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-26T15:19:45.894396200Z"
+    "tempoTotalMs" : 372469,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-31T06:14:21.040448300Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E39_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1530,20 +1530,20 @@
     "totalLinhas" : 391,
     "falasTraduzidas" : 370,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 271931,
+    "tempoTotalMs" : 339409,
     "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-26T15:24:17.832023200Z"
+    "registradoEm" : "2026-07-31T06:20:00.455930200Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E40_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 378,
-    "falasTraduzidas" : 354,
+    "falasTraduzidas" : 355,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 271529,
+    "tempoTotalMs" : 346669,
     "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-26T15:28:49.372379400Z"
+    "registradoEm" : "2026-07-31T06:25:47.130061900Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E41_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1552,9 +1552,9 @@
     "totalLinhas" : 407,
     "falasTraduzidas" : 395,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 289331,
+    "tempoTotalMs" : 369873,
     "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-26T15:33:38.710103500Z"
+    "registradoEm" : "2026-07-31T06:31:57.009864300Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E42_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1563,31 +1563,31 @@
     "totalLinhas" : 311,
     "falasTraduzidas" : 292,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 233632,
+    "tempoTotalMs" : 291365,
     "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-26T15:37:32.353571800Z"
+    "registradoEm" : "2026-07-31T06:36:48.380236200Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E43_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 320,
-    "falasTraduzidas" : 296,
+    "falasTraduzidas" : 298,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 248876,
-    "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-26T15:41:41.233842300Z"
+    "tempoTotalMs" : 304939,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-31T06:41:53.325135600Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E44_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 373,
-    "falasTraduzidas" : 344,
+    "falasTraduzidas" : 343,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 255688,
+    "tempoTotalMs" : 317060,
     "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-26T15:45:56.931624400Z"
+    "registradoEm" : "2026-07-31T06:47:10.390664800Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E45_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1596,20 +1596,20 @@
     "totalLinhas" : 306,
     "falasTraduzidas" : 292,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 229057,
-    "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-26T15:49:45.993909400Z"
+    "tempoTotalMs" : 292132,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-31T06:52:02.528570400Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E46_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 351,
-    "falasTraduzidas" : 323,
+    "falasTraduzidas" : 324,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 250269,
+    "tempoTotalMs" : 304712,
     "quantidadeAvisos" : 3,
-    "registradoEm" : "2026-07-26T15:53:56.269994900Z"
+    "registradoEm" : "2026-07-31T06:57:07.245847600Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E47_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1618,9 +1618,9 @@
     "totalLinhas" : 350,
     "falasTraduzidas" : 335,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 254228,
-    "quantidadeAvisos" : 3,
-    "registradoEm" : "2026-07-26T15:58:10.505199200Z"
+    "tempoTotalMs" : 313961,
+    "quantidadeAvisos" : 4,
+    "registradoEm" : "2026-07-31T07:02:21.212561200Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E48_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
@@ -1629,31 +1629,405 @@
     "totalLinhas" : 308,
     "falasTraduzidas" : 283,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 208433,
-    "quantidadeAvisos" : 1,
-    "registradoEm" : "2026-07-26T16:01:38.945035500Z"
+    "tempoTotalMs" : 273612,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-31T07:06:54.829289500Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E49_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 286,
-    "falasTraduzidas" : 264,
+    "falasTraduzidas" : 265,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 186163,
-    "quantidadeAvisos" : 2,
-    "registradoEm" : "2026-07-26T16:04:45.118132900Z"
+    "tempoTotalMs" : 226084,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-31T07:10:40.918528100Z"
   }, {
     "episodio" : "Mobile Suit Zeta Gundam - S01E50_Track2.ass",
     "anime" : "Mobile Suit Zeta Gundam",
     "temporada" : "Temporada Única",
     "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
     "totalLinhas" : 329,
-    "falasTraduzidas" : 311,
+    "falasTraduzidas" : 313,
     "falasDoCache" : 0,
-    "tempoTotalMs" : 234762,
+    "tempoTotalMs" : 282941,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-31T07:15:23.864492900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E01 - Departure 0096_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 219,
+    "falasTraduzidas" : 215,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 236574,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-29T23:10:35.132889200Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E02 - First Blood_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 308,
+    "falasTraduzidas" : 307,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 345074,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-29T23:16:20.213873100Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E03 - They Called It Gundam_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 192,
+    "falasTraduzidas" : 187,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 182444,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-29T23:19:22.664463100Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E04 - Full Frontal's Pursuit_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 373,
+    "falasTraduzidas" : 370,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 390794,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-29T23:25:53.464356800Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E05 - Clash with the Red Comet_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 269,
+    "falasTraduzidas" : 266,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 285501,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-29T23:30:38.972629300Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E06 - Under the Mask_Track3.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 293,
+    "falasTraduzidas" : 291,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 325187,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-29T23:36:04.166532200Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E07 - The Battle of Palau_Track3.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 245,
+    "falasTraduzidas" : 242,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 266616,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-29T23:40:30.787865800Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E08 - Laplace, Where It All Began_Track3.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 350,
+    "falasTraduzidas" : 347,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 426388,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-29T23:47:37.180258400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E09 - Retribution_Track3.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 273,
+    "falasTraduzidas" : 271,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 325918,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-29T23:53:03.104182500Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E10 - From the Scorching Earth_Track3.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 249,
+    "falasTraduzidas" : 248,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 301357,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-29T23:58:04.466012800Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E11 - Battle at Torrington_Track3.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 269,
+    "falasTraduzidas" : 267,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 325407,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-30T00:03:29.879139400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E12 - A Private War_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 235,
+    "falasTraduzidas" : 233,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 261400,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-30T00:07:51.285852300Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E13 - Banagher Links, Soldier_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 253,
+    "falasTraduzidas" : 252,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 293823,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-30T00:12:45.114550500Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E14 - Clash of the Two Unicorns_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 232,
+    "falasTraduzidas" : 226,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 259905,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-30T00:17:05.024784600Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E15 - Waiting in Space_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 198,
+    "falasTraduzidas" : 194,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 212736,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-30T00:20:37.766602900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E16 - The Side Co-Prosperity Sphere_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 293,
+    "falasTraduzidas" : 293,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 351504,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-30T00:26:29.280080900Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E17 - Nahel Argama Recaptured_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 290,
+    "falasTraduzidas" : 279,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 307578,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-30T00:31:36.863065300Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E18 - Fateful Battle_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 201,
+    "falasTraduzidas" : 200,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 230538,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-30T00:35:27.407921400Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E19 - Another Cosmic Glow_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 182,
+    "falasTraduzidas" : 180,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 185264,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-30T00:38:32.676596300Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E20 - Laplace's Box_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 270,
+    "falasTraduzidas" : 269,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 304450,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-07-30T00:43:37.131241600Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E21 - To the World's End_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 184,
+    "falasTraduzidas" : 177,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 206408,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-30T00:47:03.545276600Z"
+  }, {
+    "episodio" : "Mobile Suit Gundam Unicorn Re0096 (2016) - S01E22 - Return_Track4.ass",
+    "anime" : "Season 1",
+    "temporada" : "Temporada 1",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 265,
+    "falasTraduzidas" : 261,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 293433,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-30T00:51:56.983464300Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.CCA_Track2.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam Char's Counterattack (1988)(BD AV1 Opus)[Eng Sub]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 1886,
+    "falasTraduzidas" : 1752,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 1482005,
+    "quantidadeAvisos" : 12,
+    "registradoEm" : "2026-07-30T14:49:34.218571800Z"
+  }, {
+    "episodio" : "Mobile.Suit.Gundam.F91_Track2.ass",
+    "anime" : "[Joseki] Mobile Suit Gundam F91 (1991)(BD AV1 1080p Opus)[Eng Sub]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 2069,
+    "falasTraduzidas" : 1889,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 1951601,
+    "quantidadeAvisos" : 8,
+    "registradoEm" : "2026-07-30T22:50:41.741067400Z"
+  }, {
+    "episodio" : "[P9] Mobile Police Patlabor - Early Days - 01 (BD 1080p HEVC FLAC) [1B38296D]_Track3.ass",
+    "anime" : "[P9] Mobile Police Patlabor - Early Days (BD 1080p HEVC FLAC) [Dual-Audio]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 390,
+    "falasTraduzidas" : 372,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 463175,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-31T16:35:04.475696700Z"
+  }, {
+    "episodio" : "[P9] Mobile Police Patlabor - Early Days - 02 (BD 1080p HEVC FLAC) [FC70EA07]_Track3.ass",
+    "anime" : "[P9] Mobile Police Patlabor - Early Days (BD 1080p HEVC FLAC) [Dual-Audio]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 408,
+    "falasTraduzidas" : 403,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 460294,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-31T16:42:44.779727100Z"
+  }, {
+    "episodio" : "[P9] Mobile Police Patlabor - Early Days - 03 (BD 1080p HEVC FLAC) [328C5CF5]_Track3.ass",
+    "anime" : "[P9] Mobile Police Patlabor - Early Days (BD 1080p HEVC FLAC) [Dual-Audio]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 452,
+    "falasTraduzidas" : 446,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 395312,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-31T16:49:20.098598600Z"
+  }, {
+    "episodio" : "[P9] Mobile Police Patlabor - Early Days - 04 (BD 1080p HEVC FLAC) [774BCC33]_Track3.ass",
+    "anime" : "[P9] Mobile Police Patlabor - Early Days (BD 1080p HEVC FLAC) [Dual-Audio]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 394,
+    "falasTraduzidas" : 385,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 433672,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-07-31T16:56:33.777392400Z"
+  }, {
+    "episodio" : "[P9] Mobile Police Patlabor - Early Days - 05 (BD 1080p HEVC FLAC) [F3846830]_Track3.ass",
+    "anime" : "[P9] Mobile Police Patlabor - Early Days (BD 1080p HEVC FLAC) [Dual-Audio]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 342,
+    "falasTraduzidas" : 338,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 392465,
+    "quantidadeAvisos" : 3,
+    "registradoEm" : "2026-07-31T17:03:06.249019500Z"
+  }, {
+    "episodio" : "[P9] Mobile Police Patlabor - Early Days - 06 (BD 1080p HEVC FLAC) [7435FC5E]_Track3.ass",
+    "anime" : "[P9] Mobile Police Patlabor - Early Days (BD 1080p HEVC FLAC) [Dual-Audio]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 411,
+    "falasTraduzidas" : 404,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 480766,
     "quantidadeAvisos" : 4,
-    "registradoEm" : "2026-07-26T16:08:39.885788800Z"
+    "registradoEm" : "2026-07-31T17:11:07.025525300Z"
+  }, {
+    "episodio" : "[P9] Mobile Police Patlabor - Early Days - 07 (BD 1080p HEVC FLAC) [5D187EE1]_Track3.ass",
+    "anime" : "[P9] Mobile Police Patlabor - Early Days (BD 1080p HEVC FLAC) [Dual-Audio]",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 255,
+    "falasTraduzidas" : 248,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 287137,
+    "quantidadeAvisos" : 2,
+    "registradoEm" : "2026-07-31T17:15:54.170080100Z"
+  }, {
+    "episodio" : "[Sav1or] Memories - S01E01 - Magnetic Rose [BD][1080p][AV1][OPUS][Multi Dual Audio]_Track4.ass",
+    "anime" : "Memories (1995)",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 492,
+    "falasTraduzidas" : 471,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 380452,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-08-03T00:28:35.958660Z"
+  }, {
+    "episodio" : "[Sav1or] Memories - S01E02 - Stink Bomb [BD][1080p][AV1][OPUS][Multi Dual Audio]_Track4.ass",
+    "anime" : "Memories (1995)",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 415,
+    "falasTraduzidas" : 402,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 359712,
+    "quantidadeAvisos" : 1,
+    "registradoEm" : "2026-08-03T00:34:35.680752900Z"
+  }, {
+    "episodio" : "[Sav1or] Memories - S01E03 - Cannon Fodder [BD][1080p][AV1][OPUS][Dual Audio]_Track4.ass",
+    "anime" : "Memories (1995)",
+    "temporada" : "Temporada Única",
+    "modeloLlm" : "mistralai/mistral-nemo-instruct-2407",
+    "totalLinhas" : 187,
+    "falasTraduzidas" : 170,
+    "falasDoCache" : 0,
+    "tempoTotalMs" : 148547,
+    "quantidadeAvisos" : 0,
+    "registradoEm" : "2026-08-03T00:37:04.236580Z"
   } ],
   "operacoes" : [ {
     "tipo" : "Extracao de Legendas (ASS)",
@@ -1690,5 +2064,509 @@
     "itensDetectados" : 4,
     "itensCorrigidos" : 4,
     "registradoEm" : "2026-07-28T00:24:09.165700800Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 886,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T16:37:42.356250100Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 470,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 26,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-28T16:41:53.207588200Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 23085,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 26,
+    "itensCorrigidos" : 14,
+    "registradoEm" : "2026-07-28T16:42:42.569350500Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 11386,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 6,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-28T16:43:18.839971800Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 878,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T16:44:15.747026900Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 510,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-28T16:45:19.000227200Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1472,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 52,
+    "itensCorrigidos" : 8,
+    "registradoEm" : "2026-07-28T17:02:03.881454500Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 5149,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T17:02:24.553673900Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 1,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T17:03:07.858042300Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1345,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 52,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T17:03:22.504781100Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 46602,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 52,
+    "itensCorrigidos" : 39,
+    "registradoEm" : "2026-07-28T17:04:12.903597900Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 5221,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T17:05:39.599105100Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 286146,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 1853,
+    "itensCorrigidos" : 1024,
+    "registradoEm" : "2026-07-28T17:11:34.216962300Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 1265,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T21:34:51.998675700Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 1,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T21:35:01.163083600Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1338,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 20,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T21:35:07.022417700Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 15782,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 20,
+    "itensCorrigidos" : 12,
+    "registradoEm" : "2026-07-28T21:35:28.836364900Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 6302,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-07-28T21:36:16.121755700Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 1238,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T21:36:54.292601600Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 0,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T21:36:57.700925300Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 31565,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 758,
+    "itensCorrigidos" : 38,
+    "registradoEm" : "2026-07-28T21:38:20.550621800Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 7950,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 720,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T21:38:37.453847300Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 11033,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-29T12:29:52.814446100Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 10178,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 44,
+    "itensCorrigidos" : 22,
+    "registradoEm" : "2026-07-29T12:46:57.748717800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 30,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:01.657824500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 22,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:01.800826100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 17,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:01.891184600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 24,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:02.003587800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 30,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:02.106262300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 20,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:02.235498800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 19,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:02.340686300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 22,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:02.438688100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 17,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:02.528885400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 18,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:02.622412600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 18,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:02.712779800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 28,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:02.828306600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 22,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:02.972093600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 24,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:03.068688100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 14,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:03.162248300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 21,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:03.256246800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 21,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:03.356246600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 12,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:03.438544300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 14,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:03.524511200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 20,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:03.659657700Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 14,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:03.755657200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 15,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:03.839178500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 17,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-29T15:11:50.848398Z"
+  }, {
+    "tipo" : "Achatar Estilos Decorativos",
+    "tempoTotalMs" : 49,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 174,
+    "registradoEm" : "2026-07-29T15:21:44.493766900Z"
+  }, {
+    "tipo" : "Achatar Estilos Decorativos",
+    "tempoTotalMs" : 30,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 174,
+    "registradoEm" : "2026-07-29T16:00:53.127550900Z"
+  }, {
+    "tipo" : "Achatar Estilos Decorativos",
+    "tempoTotalMs" : 31,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 36,
+    "registradoEm" : "2026-07-29T16:04:20.001983700Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 2300,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-30T12:19:24.585227800Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 1041,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-30T14:54:11.811110800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "tempoTotalMs" : 59,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 41,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-30T14:54:46.423790600Z"
+  }, {
+    "tipo" : "Analise de Midia",
+    "tempoTotalMs" : null,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-30T14:55:07.561476400Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 16944,
+    "arquivosProcessados" : 172,
+    "itensDetectados" : 186,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T00:03:21.647252700Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 15321,
+    "arquivosProcessados" : 172,
+    "itensDetectados" : 244,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-07-31T00:04:52.585545300Z"
+  }, {
+    "tipo" : "Limpeza de Cache",
+    "tempoTotalMs" : 1318,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 17,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T00:20:17.997710400Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
+    "tempoTotalMs" : 14422,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 17,
+    "itensCorrigidos" : 5,
+    "registradoEm" : "2026-07-31T00:20:37.630173200Z"
+  }, {
+    "tipo" : "Revisão Gramatical (cache LLM)",
+    "tempoTotalMs" : 8183,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T00:20:58.816945600Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 828,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T00:21:02.071804500Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 745,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T00:21:59.347293100Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "tempoTotalMs" : 944,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T00:30:39.541650700Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "tempoTotalMs" : 9089,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 590,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T00:31:47.103926300Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 20925,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 590,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-31T00:32:13.636949700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 5461806,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 6366,
+    "itensCorrigidos" : 4,
+    "registradoEm" : "2026-07-31T02:03:59.099296500Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "tempoTotalMs" : 343,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 4,
+    "registradoEm" : "2026-07-31T02:16:41.581484900Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "tempoTotalMs" : 349,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 561,
+    "itensCorrigidos" : 301,
+    "registradoEm" : "2026-07-31T02:18:37.519848900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "tempoTotalMs" : 228628,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 210,
+    "itensCorrigidos" : 77,
+    "registradoEm" : "2026-07-31T02:22:43.933680800Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 3591,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T16:02:23.610166400Z"
+  }, {
+    "tipo" : "Analise de Midia",
+    "tempoTotalMs" : null,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T16:24:22.317713100Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 13101,
+    "arquivosProcessados" : 7,
+    "itensDetectados" : 14,
+    "itensCorrigidos" : 7,
+    "registradoEm" : "2026-07-31T16:26:06.807378100Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "tempoTotalMs" : 10556,
+    "arquivosProcessados" : 3,
+    "itensDetectados" : 6,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-08-03T00:21:13.888926300Z"
   } ]
 }
