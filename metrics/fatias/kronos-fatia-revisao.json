@@ -1,0 +1,741 @@
+{
+  "fatia" : "revisao",
+  "schemaVersion" : "1.0",
+  "operacoes" : [ {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 286146,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 1853,
+    "itensCorrigidos" : 1024,
+    "registradoEm" : "2026-07-28T17:11:34.216962300Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 31565,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 758,
+    "itensCorrigidos" : 38,
+    "registradoEm" : "2026-07-28T21:38:20.550621800Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 7950,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 720,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-28T21:38:37.453847300Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 9089,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 590,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T00:31:47.103926300Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 20925,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 590,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-31T00:32:13.636949700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr | promptRevisaoLore=Guilty Crown - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=2645 | semResposta=81 | descartadas=1708 | encaminhadasOpcao6=856 | erros=0",
+    "tempoTotalMs" : 5461806,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 6366,
+    "itensCorrigidos" : 4,
+    "registradoEm" : "2026-07-31T02:03:59.099296500Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: traducao_ptbr (aplicado)",
+    "tempoTotalMs" : 343,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 4,
+    "registradoEm" : "2026-07-31T02:16:41.581484900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 7969,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 31,
+    "itensCorrigidos" : 5,
+    "registradoEm" : "2026-07-13T21:19:04.833685700Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 9411,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 26,
+    "itensCorrigidos" : 7,
+    "registradoEm" : "2026-07-13T21:19:36.662187100Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 7726,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T21:21:50.635582900Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 1136,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T21:21:59.334418900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 301835,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 360,
+    "itensCorrigidos" : 301,
+    "registradoEm" : "2026-07-13T21:43:38.125314600Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 38703,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 59,
+    "itensCorrigidos" : 56,
+    "registradoEm" : "2026-07-13T21:45:24.827490700Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 647,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T22:24:53.773177800Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 602,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T22:25:05.115690200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Gundam Narrative NT/legendas pt | promptRevisaoLore=Mobile Suit Gundam NT (Narrative) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=149 | semResposta=0 | descartadas=149 | erros=0",
+    "tempoTotalMs" : 110084,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 183,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-07-13T22:28:20.453338400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Gundam Narrative NT/legendas pt | promptRevisaoLore=Mobile Suit Gundam NT (Narrative) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=110 | semResposta=0 | descartadas=110 | erros=0",
+    "tempoTotalMs" : 66678,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 116,
+    "itensCorrigidos" : 6,
+    "registradoEm" : "2026-07-13T22:41:54.835538Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 625,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T22:44:10.934390900Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 554,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T22:44:14.661348300Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 2906,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-07-13T22:50:03.818175200Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 2176,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-07-13T22:50:12.608426100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Gundam Narrative NT/legendas pt | promptRevisaoLore=Mobile Suit Gundam NT (Narrative) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=106 | semResposta=0 | descartadas=106 | erros=0",
+    "tempoTotalMs" : 66966,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 112,
+    "itensCorrigidos" : 6,
+    "registradoEm" : "2026-07-13T22:53:00.629056700Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 29,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T12:06:58.161866900Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 8,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T12:06:58.195726800Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 28,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T12:07:44.323097400Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 7,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T12:07:44.350213300Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 62,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T12:19:55.332231300Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 10,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T12:19:55.436233400Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 7,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T12:19:55.470290300Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 22,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T12:38:22.265527600Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 8,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T12:38:22.293199100Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T12:38:22.316651500Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 12517,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 75,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:12:33.160020Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 37012,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 75,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:15:04.434465500Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 10139,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 75,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:26:20.979417400Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 4430,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 41,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:28:58.345803600Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 17239,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 41,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-14T23:29:35.464020300Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 3754,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 38,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:30:03.458479700Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 9358,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 38,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:30:14.545126600Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 6269,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 38,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:33:07.841506800Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 7193,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 38,
+    "itensCorrigidos" : 5,
+    "registradoEm" : "2026-07-14T23:45:04.285290600Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 2484,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 33,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:45:16.698367500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 8997,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 33,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:55:33.338161100Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 9550,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 33,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-14T23:55:46.473886900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=348 | semResposta=12 | descartadas=336 | erros=0",
+    "tempoTotalMs" : 397428,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 351,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-15T00:02:44.693298400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=432 | semResposta=9 | descartadas=300 | encaminhadasOpcao6=123 | erros=0",
+    "tempoTotalMs" : 351501,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 434,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-07-15T00:29:52.631595500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 10581,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:39:40.249779500Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legendas ptbr",
+    "tempoTotalMs" : 9091,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:40:01.444579Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/karaoke simples",
+    "tempoTotalMs" : 33338,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 25,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-07-15T00:53:20.953705800Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/karaoke simples",
+    "tempoTotalMs" : 12328,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 14,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-07-15T00:54:57.165493300Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/karaoke simples",
+    "tempoTotalMs" : 8073,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:55:14.244690100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/karaoke simples | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=0 | semResposta=0 | descartadas=0 | encaminhadasOpcao6=0 | erros=13",
+    "tempoTotalMs" : 517,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-15T00:55:36.510348200Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 79275,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 209,
+    "itensCorrigidos" : 172,
+    "registradoEm" : "2026-07-20T14:47:41.298433200Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 18108,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 37,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-07-20T14:48:43.789786200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=466 | semResposta=25 | descartadas=314 | encaminhadasOpcao6=127 | erros=0",
+    "tempoTotalMs" : 152934,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 466,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-20T14:51:56.918158Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "GUILTY CROWN/legendas_extraidas_ass",
+    "tempoTotalMs" : 410,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-20T17:59:42.945182500Z"
+  }, {
+    "tipo" : "Revisão de Lore PT-only",
+    "detalhe" : "Pasta: legendas_extraidas_ass (simulado) + LLM",
+    "tempoTotalMs" : 3656,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 23,
+    "itensCorrigidos" : 23,
+    "registradoEm" : "2026-07-20T20:54:58.043992600Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: legendas_extraidas_ass (aplicado)",
+    "tempoTotalMs" : 172,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-20T20:55:14.785988300Z"
+  }, {
+    "tipo" : "Revisão de Lore PT-only",
+    "detalhe" : "Pasta: legendas_extraidas_ass (simulado) + LLM",
+    "tempoTotalMs" : 2134,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 33,
+    "itensCorrigidos" : 33,
+    "registradoEm" : "2026-07-20T21:51:56.485078900Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: legendas_extraidas_ass (aplicado)",
+    "tempoTotalMs" : 203,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-20T21:52:14.824355400Z"
+  }, {
+    "tipo" : "Revisão de Lore PT-only",
+    "detalhe" : "Pasta: legendas_extraidas_ass (simulado) + LLM",
+    "tempoTotalMs" : 793,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 9,
+    "registradoEm" : "2026-07-20T21:56:28.255553Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: legendas_extraidas_ass (aplicado)",
+    "tempoTotalMs" : 163,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-20T21:56:52.735469100Z"
+  }, {
+    "tipo" : "Revisão de Lore PT-only",
+    "detalhe" : "Pasta: legendas_extraidas_ass (simulado) + LLM",
+    "tempoTotalMs" : 888,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 10,
+    "itensCorrigidos" : 10,
+    "registradoEm" : "2026-07-20T23:12:57.980957Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: legendas_extraidas_ass (aplicado)",
+    "tempoTotalMs" : 171,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-20T23:13:14.291728Z"
+  }, {
+    "tipo" : "Revisão de Lore PT-only",
+    "detalhe" : "Pasta: Mobile_Suit_Gundam_The_Origin_Advent_of_the_Red_Comet (simulado) + LLM",
+    "tempoTotalMs" : 646,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 12,
+    "itensCorrigidos" : 12,
+    "registradoEm" : "2026-07-20T23:43:05.105274500Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: legendas_extraidas_ass (aplicado)",
+    "tempoTotalMs" : 93,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-20T23:43:23.850160400Z"
+  }, {
+    "tipo" : "Revisão de Lore PT-only",
+    "detalhe" : "Pasta: legendas_extraidas_ass (simulado) + LLM",
+    "tempoTotalMs" : 30612,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 59,
+    "itensCorrigidos" : 59,
+    "registradoEm" : "2026-07-21T00:47:35.282012100Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: legendas_extraidas_ass (aplicado)",
+    "tempoTotalMs" : 225,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T00:47:56.334169900Z"
+  }, {
+    "tipo" : "Revisão de Lore PT-only",
+    "detalhe" : "Pasta: legendas_extraidas_ass (simulado) + LLM",
+    "tempoTotalMs" : 497,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-07-21T01:00:11.515673300Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: legendas_extraidas_ass (aplicado)",
+    "tempoTotalMs" : 149,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-21T01:00:26.175009300Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/simples-karaoke-ptbr",
+    "tempoTotalMs" : 20624,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 29,
+    "itensCorrigidos" : 14,
+    "registradoEm" : "2026-07-21T01:37:19.811008800Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/simples-karaoke-ptbr",
+    "tempoTotalMs" : 8623,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 15,
+    "itensCorrigidos" : 6,
+    "registradoEm" : "2026-07-21T01:37:38.045036900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/simples-karaoke-ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=0 | semResposta=0 | descartadas=0 | encaminhadasOpcao6=0 | erros=13",
+    "tempoTotalMs" : 291,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T01:38:28.181265800Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: simples-karaoke-ptbr (aplicado)",
+    "tempoTotalMs" : 78,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-21T01:39:41.586158700Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 6,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T01:44:31.469740600Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Gundam Narrative NT/legendas pt",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 0,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T01:44:37.558290500Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: legendas pt (aplicado)",
+    "tempoTotalMs" : 149,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-07-21T01:45:10.010372200Z"
+  }, {
+    "tipo" : "Revisão de Lore PT-only",
+    "detalhe" : "Pasta: legendas_extraidas_ass (aplicado) + LLM",
+    "tempoTotalMs" : 2931,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 49,
+    "itensCorrigidos" : 49,
+    "registradoEm" : "2026-07-21T02:00:39.586840500Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: legendas_extraidas_ass (aplicado)",
+    "tempoTotalMs" : 341,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-07-21T02:00:52.293097700Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 3383,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-21T18:23:00.221337300Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 1631,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T18:23:07.949400600Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0080: War in the Pocket - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=152 | semResposta=4 | descartadas=112 | encaminhadasOpcao6=36 | erros=0",
+    "tempoTotalMs" : 51578,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 152,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T18:24:24.727437600Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: traducao_ptbr (aplicado)",
+    "tempoTotalMs" : 104,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-21T18:24:45.815327600Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 8881,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 11,
+    "itensCorrigidos" : 8,
+    "registradoEm" : "2026-07-24T02:07:25.362314300Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 4048,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-24T02:07:29.456985400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=442 | semResposta=36 | descartadas=319 | encaminhadasOpcao6=87 | erros=0",
+    "tempoTotalMs" : 167405,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 452,
+    "itensCorrigidos" : 10,
+    "registradoEm" : "2026-07-24T02:10:43.248247600Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: traducao_ptbr (aplicado)",
+    "tempoTotalMs" : 170,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-24T02:11:17.337552600Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Lulu] Break Blade Movies [BD 1080p Hi10 FLAC][Dual-Audio]/traducao_ptbr",
+    "tempoTotalMs" : 3957,
+    "arquivosProcessados" : 7,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-25T10:53:58.221750200Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Lulu] Break Blade Movies [BD 1080p Hi10 FLAC][Dual-Audio]/traducao_ptbr",
+    "tempoTotalMs" : 273,
+    "arquivosProcessados" : 7,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-25T10:54:10.729813200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Lulu] Break Blade Movies [BD 1080p Hi10 FLAC][Dual-Audio]/traducao_ptbr | promptRevisaoLore=Break Blade - Filme 1 - O Tempo do Despertar - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=11 | semResposta=1 | descartadas=7 | encaminhadasOpcao6=3 | erros=0",
+    "tempoTotalMs" : 6496,
+    "arquivosProcessados" : 7,
+    "itensDetectados" : 11,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-25T10:54:44.772477100Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: traducao_ptbr (aplicado)",
+    "tempoTotalMs" : 16,
+    "arquivosProcessados" : 7,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-25T10:55:21.948685700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "f2/ptbr | promptRevisaoLore=Break Blade - Filme 2 - O Caminho da Separação - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=1 | semResposta=0 | descartadas=1 | encaminhadasOpcao6=0 | erros=0",
+    "tempoTotalMs" : 1780,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-25T11:16:29.137619Z"
+  } ]
+}

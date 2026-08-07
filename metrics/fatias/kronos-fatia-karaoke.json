@@ -1,0 +1,261 @@
+{
+  "fatia" : "karaoke",
+  "schemaVersion" : "1.0",
+  "operacoes" : [ {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: traducao_ptbr → [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/simplificadas",
+    "tempoTotalMs" : 349,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 561,
+    "itensCorrigidos" : 301,
+    "registradoEm" : "2026-07-31T02:18:37.519848900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/simplificadas-karaoke-ptbr",
+    "tempoTotalMs" : 228628,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 210,
+    "itensCorrigidos" : 77,
+    "registradoEm" : "2026-07-31T02:22:43.933680800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 340899,
+    "arquivosProcessados" : 7,
+    "itensDetectados" : 150,
+    "itensCorrigidos" : 35,
+    "registradoEm" : "2026-08-04T01:49:28.277630800Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: traducao_ptbr → [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/legenda-simplificada",
+    "tempoTotalMs" : 464,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 1147,
+    "itensCorrigidos" : 564,
+    "registradoEm" : "2026-08-04T02:25:00.109735200Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: traducao_ptbr → 86 Part 1/legenda-simplificada",
+    "tempoTotalMs" : 3440,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 72026,
+    "itensCorrigidos" : 488,
+    "registradoEm" : "2026-08-05T12:38:37.258644100Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "origem=86 Part 1/traducao_ptbr; destino=86 Part 1/legenda-simplificada; arquivosSemMudanca=0; estilosNaoReconhecidos=44; camadasInvertidas=0",
+    "tempoTotalMs" : 3440,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 44,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-05T12:38:37.358936700Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas ptbr → [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/karaoke simples",
+    "tempoTotalMs" : 3223,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1700,
+    "itensCorrigidos" : 409,
+    "registradoEm" : "2026-07-15T00:35:01.053040500Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/karaoke simples-karaoke-ptbr",
+    "tempoTotalMs" : 69247,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 91,
+    "itensCorrigidos" : 74,
+    "registradoEm" : "2026-07-15T00:57:26.145364500Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/karaoke simples-karaoke-ptbr",
+    "tempoTotalMs" : 69249,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 91,
+    "itensCorrigidos" : 76,
+    "registradoEm" : "2026-07-15T01:17:20.113738100Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas ptbr → legendas ptbr/simples",
+    "tempoTotalMs" : 1717,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1700,
+    "itensCorrigidos" : 409,
+    "registradoEm" : "2026-07-15T01:33:40.456077500Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: legendas ptbr/simples-karaoke-ptbr",
+    "tempoTotalMs" : 24715,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 93,
+    "itensCorrigidos" : 93,
+    "registradoEm" : "2026-07-15T02:16:11.084527100Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas_extraidas_ass → [Joseki] Mobile Suit Z Gundam COMPLETE (1985)(BD AV1 1080p Opus)[Sub Eng][v2]/legendas_ptbr",
+    "tempoTotalMs" : 2084,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 4088,
+    "itensCorrigidos" : 1119,
+    "registradoEm" : "2026-07-19T11:31:31.492953400Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas_extraidas_ass → [Joseki] Mobile Suit Gundam ZZ COMPLETE (1986)(BD AV1 1080p Opus)[Eng Sub][v2]/legendas-en",
+    "tempoTotalMs" : 1290,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 3312,
+    "itensCorrigidos" : 707,
+    "registradoEm" : "2026-07-19T16:52:58.358855200Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: traducao_ptbr → [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/simples",
+    "tempoTotalMs" : 1132,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1700,
+    "itensCorrigidos" : 409,
+    "registradoEm" : "2026-07-20T17:14:32.102346500Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/simples-karaoke-ptbr",
+    "tempoTotalMs" : 28112,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 106,
+    "itensCorrigidos" : 80,
+    "registradoEm" : "2026-07-20T17:15:59.427467100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: GUILTY CROWN/legendas_extraidas_ass-karaoke-ptbr",
+    "tempoTotalMs" : 20894,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 68,
+    "itensCorrigidos" : 59,
+    "registradoEm" : "2026-07-20T21:52:55.879082700Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas_extraidas_ass → Mobile Suit Gundam Unicorn Re0096/simples",
+    "tempoTotalMs" : 329,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 165,
+    "itensCorrigidos" : 144,
+    "registradoEm" : "2026-07-20T21:57:40.682362300Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: Mobile Suit Gundam Unicorn Re0096/simples-karaoke-ptbr",
+    "tempoTotalMs" : 8310,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 14,
+    "itensCorrigidos" : 13,
+    "registradoEm" : "2026-07-20T21:58:02.718318Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas_extraidas_ass → Mobile_Suit_Gundam_The_Origin_Advent_of_the_Red_Comet/simples",
+    "tempoTotalMs" : 126,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-20T23:44:52.314129600Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: Mobile_Suit_Gundam_The_Origin_Advent_of_the_Red_Comet/simples-karaoke-ptbr",
+    "tempoTotalMs" : 424,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-20T23:45:07.282082300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas_extraidas_ass → Mobile Suit Gundam Unicorn Re0096/simplificar",
+    "tempoTotalMs" : 479,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 144,
+    "itensCorrigidos" : 144,
+    "registradoEm" : "2026-07-21T00:22:04.293246300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas_extraidas_ass → macross_delta/simpplificar",
+    "tempoTotalMs" : 264,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T00:49:47.914973Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: macross_delta/simpplificar-karaoke-ptbr",
+    "tempoTotalMs" : 810,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T00:50:03.430657300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas_extraidas_ass → UC 0079 - WAR IN POCKET/simplificadas",
+    "tempoTotalMs" : 71,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T01:03:04.723811200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: UC 0079 - WAR IN POCKET/simplificadas-karaoke-ptbr",
+    "tempoTotalMs" : 202,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T01:03:17.772480100Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas pt → Gundam Narrative NT/simples",
+    "tempoTotalMs" : 21,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T01:46:18.651518600Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: Gundam Narrative NT/simples-karaoke-ptbr",
+    "tempoTotalMs" : 78,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-21T01:46:32.948539800Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas_extraidas_ass → UC 0083 - STARDUST MEMORY/simples",
+    "tempoTotalMs" : 432,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 369,
+    "itensCorrigidos" : 367,
+    "registradoEm" : "2026-07-21T02:01:45.562648700Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: UC 0083 - STARDUST MEMORY/simples-karaoke-ptbr",
+    "tempoTotalMs" : 27232,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 103,
+    "itensCorrigidos" : 97,
+    "registradoEm" : "2026-07-21T02:02:23.609323300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: legendas_extraidas_ass → [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/simplificadas",
+    "tempoTotalMs" : 885,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1700,
+    "itensCorrigidos" : 409,
+    "registradoEm" : "2026-07-21T23:31:37.289996600Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: ptbr → f1/simples",
+    "tempoTotalMs" : 7,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-25T11:17:37.782322500Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: f1/simples-karaoke-ptbr",
+    "tempoTotalMs" : 17,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-25T11:17:59.783208200Z"
+  } ]
+}
