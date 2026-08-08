@@ -123,6 +123,22 @@
     "registradoEm" : "2026-08-07T02:31:55.588220500Z"
   }, {
     "tipo" : "Remux (mkvmerge)",
+    "detalhe" : "status=CANCELADO; videos=animes/[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]; legendas=[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr; syncMs=0; preservarOriginais=true; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=5111615348",
+    "tempoTotalMs" : 40343,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-08-07T23:09:35.075644700Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "detalhe" : "status=CONCLUIDO; videos=animes/[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]; legendas=[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr; syncMs=0; preservarOriginais=true; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=9489204516",
+    "tempoTotalMs" : 47983,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 22,
+    "registradoEm" : "2026-08-07T23:18:38.905831500Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
     "detalhe" : "status=CONCLUIDO; videos=animes/Gundam Narrative NT; legendas=Gundam Narrative NT/legendas pt; syncMs=0; preservarOriginais=false; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=1419140747",
     "tempoTotalMs" : 3471,
     "arquivosProcessados" : 1,

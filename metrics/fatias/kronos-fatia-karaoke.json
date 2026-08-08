@@ -50,6 +50,62 @@
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-05T12:38:37.358936700Z"
   }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: 86 Part 1/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 2669438,
+    "arquivosProcessados" : 25,
+    "itensDetectados" : 3283,
+    "itensCorrigidos" : 2156,
+    "registradoEm" : "2026-08-07T21:13:57.356229400Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 27516,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 15,
+    "registradoEm" : "2026-08-07T21:16:28.782832800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 1031,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-07T23:13:38.983669200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 1349,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-07T23:14:01.191317800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 751,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-07T23:16:50.512599900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 91544,
+    "arquivosProcessados" : 3,
+    "itensDetectados" : 61,
+    "itensCorrigidos" : 23,
+    "registradoEm" : "2026-08-07T23:40:50.813078700Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 658848,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 633,
+    "itensCorrigidos" : 364,
+    "registradoEm" : "2026-08-08T00:13:08.223229400Z"
+  }, {
     "tipo" : "NOVO_KARAOKE",
     "detalhe" : "KFX → legenda simples: legendas ptbr → [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/karaoke simples",
     "tempoTotalMs" : 3223,
