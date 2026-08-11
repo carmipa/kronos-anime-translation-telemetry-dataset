@@ -1,7 +1,7 @@
 {
   "dataset" : "kronos-anime-translation-telemetry-dataset",
   "versaoFormato" : 2,
-  "geradoEm" : "2026-08-11T01:31:32.228445Z",
+  "geradoEm" : "2026-08-11T01:58:36.933008Z",
   "descricao" : "Métricas operacionais de tradução de legendas de anime com LLM 100% local (LM Studio). Sem textos de legenda e sem caminhos de máquina — apenas métricas.",
   "ambienteExecucao" : {
     "fabricante" : "Avell",

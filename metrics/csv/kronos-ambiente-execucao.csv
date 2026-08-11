@@ -1,0 +1,2 @@
+fabricante,modeloMaquina,cpu,gpuPrincipal,gpusDetectadas,ramTotalGb,sistemaOperacional,arquitetura,hardwareColetadoAutomaticamente
+Avell,560,Intel(R) Core(TM) i9-14900HX,NVIDIA GeForce RTX 5060 Laptop GPU,Intel(R) UHD Graphics | NVIDIA GeForce RTX 5060 Laptop GPU,40,Windows 11,amd64,true

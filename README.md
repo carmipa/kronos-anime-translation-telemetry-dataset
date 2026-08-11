@@ -18,8 +18,33 @@ This repository is meant to expose reproducible performance and pipeline metrics
 ├── README.md
 ├── LICENSE
 └── metrics/
-    └── kronos-telemetria-dataset.json
+    ├── kronos-telemetria-dataset.json     # snapshot (latest state per episode)
+    ├── kronos-telemetria-execucoes.jsonl  # append-only archive, one line per run
+    ├── fatias/                            # per-module consolidated metrics
+    └── csv/                               # same data, tabular
+        ├── kronos-resumo.csv
+        ├── kronos-ambiente-execucao.csv
+        ├── kronos-traducoes-llm.csv
+        ├── kronos-operacoes.csv
+        ├── kronos-execucoes.csv
+        └── kronos-avisos.csv
 ```
+
+### CSV Files
+
+Every metric published as JSON is also published as CSV, generated from the **same
+in-memory node** — the two formats cannot drift apart.
+
+- **Encoding** UTF-8, no BOM · **separator** `,` · **quoting** RFC 4180 (embedded quotes
+  doubled) · **line ending** LF.
+- Real line breaks inside a field are written as the two-character text `
+`, so one
+  physical line is always one record.
+- `kronos-avisos.csv` is tidy data: **one row per warning**, joinable back to a run by
+  `registradoEm` + `nomeEpisodio`.
+
+Opening in Excel: import as UTF-8 / comma-separated instead of double-clicking, otherwise
+accented characters and comma-bearing titles are misread.
 
 ### Data Format
 
@@ -50,6 +75,9 @@ Aggregate metrics.
 | `tempoMedioPorLinhaMs` | Average translation latency per dialogue line |
 | `totalFalasReaproveitadasDoCache` | Dialogue lines resolved from persistent cache without another LLM call |
 | `alucinacoesLlmPrevenidas` | LLM responses rejected by anti-hallucination guards |
+| `respostasTraducaoRejeitadas` | Invalid model attempts rejected before persistence |
+| `falhasTraducaoRecuperadas` | Lines recovered by a later validated retry |
+| `fallbacksTraducaoMantidos` | Distinct lines still pending after retry exhaustion |
 | `arquivosRenomeados` | Files normalized by the rename module |
 | `totalOperacoesRegistradas` | Recorded pipeline operations across modules |
 
@@ -75,9 +103,15 @@ This covers remuxing, subtitle extraction, lore/review steps, karaoke processing
 
 ### Privacy And Anonymization
 
-This dataset does not publish subtitle text, local machine paths, usernames, hostnames, IP addresses, MAC addresses, serial numbers, device identifiers, credentials, tokens or API keys.
+This dataset does not publish local machine paths, usernames, hostnames, IP addresses, MAC addresses, serial numbers, device identifiers, credentials, tokens or API keys.
 
-The only public identifiers are release/work names, local LLM model ids and generic hardware metadata useful for benchmark interpretation.
+**Subtitle excerpts are published, deliberately and in one place only.** Pipeline warnings in `kronos-telemetria-execucoes.jsonl` and `metrics/csv/kronos-avisos.csv` quote the subtitle line that triggered the failure — for example a line kept untranslated because the model corrupted its ASS tags. Without the line itself, the failure cannot be studied or reproduced, which is the point of publishing translation telemetry at all.
+
+These are short diagnostic excerpts from fansub subtitle files, published for research into machine-translation failure modes. They are not a translated corpus and no complete subtitle file is redistributed. If you hold rights over a quoted line and want it removed, open an issue.
+
+The aggregate metrics (`kronos-telemetria-dataset.json` and the other CSVs) contain **no** subtitle text: warnings there are reduced to `quantidadeAvisos`.
+
+The only other public identifiers are release/work names, local LLM model ids and generic hardware metadata useful for benchmark interpretation.
 
 ### Generation
 
@@ -103,8 +137,33 @@ Este repositório existe para expor métricas reprodutíveis de performance e pi
 ├── README.md
 ├── LICENSE
 └── metrics/
-    └── kronos-telemetria-dataset.json
+    ├── kronos-telemetria-dataset.json     # foto (último estado por episódio)
+    ├── kronos-telemetria-execucoes.jsonl  # acervo append-only, uma linha por execução
+    ├── fatias/                            # consolidado por módulo
+    └── csv/                               # os mesmos dados, em tabela
+        ├── kronos-resumo.csv
+        ├── kronos-ambiente-execucao.csv
+        ├── kronos-traducoes-llm.csv
+        ├── kronos-operacoes.csv
+        ├── kronos-execucoes.csv
+        └── kronos-avisos.csv
 ```
+
+### Arquivos CSV
+
+Toda métrica publicada em JSON é publicada também em CSV, gerada a partir do **mesmo nó em
+memória** — os dois formatos não têm como divergir.
+
+- **Codificação** UTF-8 sem BOM · **separador** `,` · **aspas** RFC 4180 (aspas internas
+  duplicadas) · **fim de linha** LF.
+- Quebra de linha real dentro de campo é gravada como o texto `
+` de dois caracteres, para
+  uma linha física ser sempre um registro.
+- `kronos-avisos.csv` é tidy data: **uma linha por aviso**, ligada à execução por
+  `registradoEm` + `nomeEpisodio`.
+
+Abrindo no Excel: importe como UTF-8 / separado por vírgula em vez de dar duplo clique,
+senão acento e título com vírgula saem errados.
 
 ### Formato Dos Dados
 
@@ -135,6 +194,9 @@ Métricas agregadas.
 | `tempoMedioPorLinhaMs` | Latência média de tradução por fala |
 | `totalFalasReaproveitadasDoCache` | Falas resolvidas pelo cache persistente sem nova chamada ao LLM |
 | `alucinacoesLlmPrevenidas` | Respostas de LLM rejeitadas pelas guardas anti-alucinação |
+| `respostasTraducaoRejeitadas` | Tentativas inválidas rejeitadas antes da persistência |
+| `falhasTraducaoRecuperadas` | Falas recuperadas por tentativa posterior validada |
+| `fallbacksTraducaoMantidos` | Falas distintas ainda pendentes após esgotar tentativas |
 | `arquivosRenomeados` | Arquivos padronizados pelo módulo de renomeação |
 | `totalOperacoesRegistradas` | Operações de pipeline registradas entre os módulos |
 
@@ -160,9 +222,15 @@ Cobre remux, extração de legendas, revisões de lore/concordância, karaokê, 
 
 ### Privacidade E Anonimização
 
-Este dataset não publica texto de legenda, caminhos locais da máquina, nomes de usuário, hostnames, endereços IP, endereços MAC, números de série, identificadores de dispositivo, credenciais, tokens ou chaves de API.
+Este dataset não publica caminhos locais da máquina, nomes de usuário, hostnames, endereços IP, endereços MAC, números de série, identificadores de dispositivo, credenciais, tokens ou chaves de API.
 
-Os únicos identificadores públicos são nomes de obras/releases, ids de modelos LLM locais e metadados genéricos de hardware úteis para interpretar benchmarks.
+**Trechos de legenda SÃO publicados, deliberadamente e num lugar só.** Os avisos do pipeline, em `kronos-telemetria-execucoes.jsonl` e em `metrics/csv/kronos-avisos.csv`, citam a fala que provocou a falha — por exemplo uma linha mantida sem tradução porque o modelo corrompeu as tags ASS. Sem a fala, a falha não pode ser estudada nem reproduzida, que é a razão de publicar telemetria de tradução.
+
+São trechos curtos de diagnóstico, vindos de legendas de fansub, publicados para pesquisa de modos de falha em tradução automática. Não constituem corpus traduzido e nenhum arquivo de legenda completo é redistribuído. Se você detém direitos sobre uma fala citada e quer removê-la, abra uma issue.
+
+As métricas agregadas (`kronos-telemetria-dataset.json` e os demais CSVs) **não** contêm texto de legenda: ali os avisos viram apenas `quantidadeAvisos`.
+
+Fora isso, os únicos identificadores públicos são nomes de obras/releases, ids de modelos LLM locais e metadados genéricos de hardware úteis para interpretar benchmarks.
 
 ### Geração
 
