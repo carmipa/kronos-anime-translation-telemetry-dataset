@@ -58,6 +58,126 @@
     "itensCorrigidos" : 4,
     "registradoEm" : "2026-07-31T02:16:41.581484900Z"
   }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 9745,
+    "arquivosProcessados" : 18,
+    "itensDetectados" : 14,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-08-08T13:30:55.876033Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 7494,
+    "arquivosProcessados" : 18,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-08-08T13:31:12.311534500Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 9753,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 11,
+    "itensCorrigidos" : 5,
+    "registradoEm" : "2026-08-08T17:58:17.457721300Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 18000,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 6,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-08T17:59:05.812692400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=415 | semResposta=45 | descartadas=285 | encaminhadasOpcao6=85 | erros=0",
+    "tempoTotalMs" : 394243,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 421,
+    "itensCorrigidos" : 6,
+    "registradoEm" : "2026-08-08T18:06:35.800706500Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: traducao_ptbr (aplicado)",
+    "tempoTotalMs" : 392,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-08T18:07:16.260833700Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 7081,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 8,
+    "itensCorrigidos" : 7,
+    "registradoEm" : "2026-08-09T22:35:20.671210800Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 9407,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-09T22:35:45.276817400Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 3883,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-09T22:36:39.477561Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=424 | semResposta=52 | descartadas=286 | encaminhadasOpcao6=86 | erros=0",
+    "tempoTotalMs" : 509349,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 426,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-09T22:45:41.625835700Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 500262,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 1828,
+    "itensCorrigidos" : 913,
+    "registradoEm" : "2026-08-10T01:55:00.724002800Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 415832,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 770,
+    "itensCorrigidos" : 760,
+    "registradoEm" : "2026-08-10T02:44:14.611186500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 60401,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 10,
+    "itensCorrigidos" : 4,
+    "registradoEm" : "2026-08-10T02:45:41.450586900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr | promptRevisaoLore=Mobile Suit Zeta Gundam - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=16249 | semResposta=383 | descartadas=1891 | encaminhadasOpcao6=13975 | erros=10",
+    "tempoTotalMs" : 3651937,
+    "arquivosProcessados" : 90,
+    "itensDetectados" : 16298,
+    "itensCorrigidos" : 49,
+    "registradoEm" : "2026-08-10T12:21:20.471674Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: traducao_ptbr (aplicado)",
+    "tempoTotalMs" : 559,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-10T13:04:11.227706300Z"
+  }, {
     "tipo" : "Revisão Concordância (.ass LLM)",
     "detalhe" : "Gundam Narrative NT/legendas pt",
     "tempoTotalMs" : 7969,

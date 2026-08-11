@@ -3,6 +3,30 @@
   "schemaVersion" : "1.0",
   "operacoes" : [ {
     "tipo" : "Renomear Arquivos",
+    "detalhe" : "status=CONCLUIDO_COM_PENDENCIAS; conflitos=1; ignorados=0; pendentes=1",
+    "tempoTotalMs" : 148,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 25,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-08-08T20:18:11.415675100Z"
+  }, {
+    "tipo" : "Renomear Arquivos",
+    "detalhe" : "status=CONCLUIDO_COM_PENDENCIAS; conflitos=1; ignorados=0; pendentes=1",
+    "tempoTotalMs" : 111,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 25,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-08-08T20:18:57.470459300Z"
+  }, {
+    "tipo" : "Renomear Arquivos",
+    "detalhe" : "status=CONCLUIDO; conflitos=0; ignorados=0; pendentes=0",
+    "tempoTotalMs" : 79,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 13,
+    "registradoEm" : "2026-08-09T22:59:01.481302300Z"
+  }, {
+    "tipo" : "Renomear Arquivos",
     "detalhe" : "status=CONCLUIDO; conflitos=0; ignorados=0; pendentes=0",
     "tempoTotalMs" : 43,
     "arquivosProcessados" : 1,

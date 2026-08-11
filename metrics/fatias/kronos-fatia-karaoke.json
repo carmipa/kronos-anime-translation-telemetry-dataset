@@ -106,6 +106,54 @@
     "itensCorrigidos" : 364,
     "registradoEm" : "2026-08-08T00:13:08.223229400Z"
   }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 1617077,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 1636,
+    "itensCorrigidos" : 344,
+    "registradoEm" : "2026-08-08T18:34:55.876256500Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: traducao_ptbr-karaoke-ptbr → [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legenda-simplificada",
+    "tempoTotalMs" : 993,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 3400,
+    "itensCorrigidos" : 818,
+    "registradoEm" : "2026-08-08T20:30:36.758751200Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "origem=[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr; destino=[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legenda-simplificada; arquivosSemMudanca=0; estilosNaoReconhecidos=50; camadasInvertidas=0",
+    "tempoTotalMs" : 993,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-08T20:30:36.825534Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 1634119,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 1636,
+    "itensCorrigidos" : 378,
+    "registradoEm" : "2026-08-08T21:07:07.575479800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Contexto: Mobile Suit Gundam: The 08th MS Team (gundam_08ms) | hash=f32106d0c6642417a20523e857f1b484f3a3eaa511c43fa550a63e523cd4dd72 | Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 398412,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 818,
+    "itensCorrigidos" : 818,
+    "registradoEm" : "2026-08-09T22:33:48.455382900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Contexto: Mobile Suit Zeta Gundam (gundam_zeta) | hash=cc81b4ba215df0095772e9f086d9d2286acef347100cc47a13712fb762842cad | Legendas: Mobile Suit Zeta Gundam/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 23397,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 54,
+    "itensCorrigidos" : 54,
+    "registradoEm" : "2026-08-10T13:04:58.161036600Z"
+  }, {
     "tipo" : "NOVO_KARAOKE",
     "detalhe" : "KFX → legenda simples: legendas ptbr → [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/karaoke simples",
     "tempoTotalMs" : 3223,

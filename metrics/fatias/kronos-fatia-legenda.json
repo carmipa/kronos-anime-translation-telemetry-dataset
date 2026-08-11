@@ -171,6 +171,30 @@
     "registradoEm" : "2026-08-06T21:35:03.652188400Z"
   }, {
     "tipo" : "Troca de Fontes ASS",
+    "detalhe" : "Diretório: traducao_ptbr",
+    "tempoTotalMs" : 320,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 24,
+    "itensCorrigidos" : 24,
+    "registradoEm" : "2026-08-08T13:27:12.756665200Z"
+  }, {
+    "tipo" : "Troca de Fontes ASS",
+    "detalhe" : "Diretório: traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 128,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 12,
+    "itensCorrigidos" : 12,
+    "registradoEm" : "2026-08-09T23:46:53.521195100Z"
+  }, {
+    "tipo" : "Troca de Fontes ASS",
+    "detalhe" : "Diretório: traducao_ptbr",
+    "tempoTotalMs" : 513,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-08-10T01:41:47.145516100Z"
+  }, {
+    "tipo" : "Troca de Fontes ASS",
     "detalhe" : "Diretório: legendas pt",
     "tempoTotalMs" : 32,
     "arquivosProcessados" : 1,

@@ -139,6 +139,30 @@
     "registradoEm" : "2026-08-07T23:18:38.905831500Z"
   }, {
     "tipo" : "Remux (mkvmerge)",
+    "detalhe" : "status=CONCLUIDO_COM_PENDENCIAS; videos=animes/[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]; legendas=[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr; syncMs=0; preservarOriginais=true; semLegenda=0; ambiguos=1; existentes=0; falhas=0; bytes=4686621985",
+    "tempoTotalMs" : 18472,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 12,
+    "itensCorrigidos" : 12,
+    "registradoEm" : "2026-08-08T20:19:32.569545500Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "detalhe" : "status=CONCLUIDO; videos=animes/[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]; legendas=[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr; syncMs=0; preservarOriginais=true; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=4789095514",
+    "tempoTotalMs" : 21243,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 13,
+    "registradoEm" : "2026-08-09T23:07:01.004427100Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "detalhe" : "status=CONCLUIDO; videos=animes/[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]; legendas=[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr; syncMs=0; preservarOriginais=true; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=4789095394",
+    "tempoTotalMs" : 19925,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 13,
+    "registradoEm" : "2026-08-09T23:47:46.235580200Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
     "detalhe" : "status=CONCLUIDO; videos=animes/Gundam Narrative NT; legendas=Gundam Narrative NT/legendas pt; syncMs=0; preservarOriginais=false; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=1419140747",
     "tempoTotalMs" : 3471,
     "arquivosProcessados" : 1,
