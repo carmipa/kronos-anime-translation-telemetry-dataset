@@ -234,6 +234,30 @@
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-06T13:26:41.346663600Z"
   }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
+    "tempoTotalMs" : 111,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-11T19:58:23.415017262Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
+    "tempoTotalMs" : 88,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-11T19:58:31.376647470Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
+    "tempoTotalMs" : 70,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-11T19:58:40.749150223Z"
+  }, {
     "tipo" : "Auditoria de Conteudo (.ass)",
     "detalhe" : "legednas -en/[2ndfire]Mobile_Suit_Gundam_Narrative[BD][1080p][AV1][10bit][981A36A1]_Track3.ass | anomalias=0 | criticas=0",
     "tempoTotalMs" : 75,

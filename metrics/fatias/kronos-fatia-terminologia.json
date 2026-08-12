@@ -177,5 +177,21 @@
     "itensDetectados" : 2,
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-04T10:59:17.558891600Z"
+  }, {
+    "tipo" : "Reforço de Terminologia (ensaio)",
+    "detalhe" : "status=ENSAIO_COM_PENDENCIAS; pulados=0; falhas=0",
+    "tempoTotalMs" : 8531,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-11T11:52:59.274834100Z"
+  }, {
+    "tipo" : "Reforço de Terminologia",
+    "detalhe" : "status=CONCLUIDO; pulados=0; falhas=0",
+    "tempoTotalMs" : 9331,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-11T11:55:06.955509300Z"
   } ]
 }

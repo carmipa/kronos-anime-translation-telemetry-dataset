@@ -115,6 +115,14 @@
     "registradoEm" : "2026-07-31T00:20:58.816945600Z"
   }, {
     "tipo" : "Correção Google (cache)",
+    "detalhe" : "status=CONCLUIDO_COM_PENDENCIAS; pendentes=1; falhas=0",
+    "tempoTotalMs" : 44899,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 20,
+    "itensCorrigidos" : 19,
+    "registradoEm" : "2026-08-11T11:33:58.748518200Z"
+  }, {
+    "tipo" : "Correção Google (cache)",
     "detalhe" : "traducao_animes_llm_local_quarkus/cache",
     "tempoTotalMs" : 3,
     "arquivosProcessados" : 0,

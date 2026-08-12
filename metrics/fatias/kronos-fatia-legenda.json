@@ -195,6 +195,22 @@
     "registradoEm" : "2026-08-10T01:41:47.145516100Z"
   }, {
     "tipo" : "Troca de Fontes ASS",
+    "detalhe" : "Diretório: legendas_extraidas_ass",
+    "tempoTotalMs" : 374,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 120,
+    "registradoEm" : "2026-08-12T14:33:44.598609Z"
+  }, {
+    "tipo" : "Achatar Estilos Decorativos",
+    "detalhe" : "Diretório: legendas_extraidas_ass; alterados=21; falas=0",
+    "tempoTotalMs" : 1024,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 21,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-12T14:33:54.065293400Z"
+  }, {
+    "tipo" : "Troca de Fontes ASS",
     "detalhe" : "Diretório: legendas pt",
     "tempoTotalMs" : 32,
     "arquivosProcessados" : 1,

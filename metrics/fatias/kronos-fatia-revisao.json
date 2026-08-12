@@ -178,6 +178,30 @@
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-10T13:04:11.227706300Z"
   }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: 86 (simulado)",
+    "tempoTotalMs" : 7285,
+    "arquivosProcessados" : 73,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-11T19:46:11.058412204Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr",
+    "tempoTotalMs" : 6908,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-12T22:26:10.395306100Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr",
+    "tempoTotalMs" : 8112,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-12T22:26:27.733536800Z"
+  }, {
     "tipo" : "Revisão Concordância (.ass LLM)",
     "detalhe" : "Gundam Narrative NT/legendas pt",
     "tempoTotalMs" : 7969,
