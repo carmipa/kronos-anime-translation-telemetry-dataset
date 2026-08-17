@@ -162,6 +162,94 @@
     "itensCorrigidos" : 13,
     "registradoEm" : "2026-08-09T23:47:46.235580200Z"
   }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "Mobile Suit Gundam Unicorn Re0096 (2016) [Season 1] [BD 1080p HEVC OPUS] [Dual-Audio]/Gundam Unicorn Season 1 | ASS | faixas: 44, extraídas: 22, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 15414,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 44,
+    "itensCorrigidos" : 22,
+    "registradoEm" : "2026-08-13T19:14:01.250525400Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "detalhe" : "status=CONCLUIDO; videos=Mobile Suit Gundam Unicorn Re0096 (2016) [Season 1] [BD 1080p HEVC OPUS] [Dual-Audio]/Gundam Unicorn Season 1; legendas=Gundam Unicorn Season 1/traducao_ptbr-karaoke-ptbr; syncMs=0; preservarOriginais=true; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=9689977873",
+    "tempoTotalMs" : 37320,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 22,
+    "registradoEm" : "2026-08-13T20:56:26.039800100Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "Mobile Suit Gundam Unicorn Re0096 (2016) [Season 1] [BD 1080p HEVC OPUS] [Dual-Audio]/Gundam Unicorn Season 1 | ASS | faixas: 44, extraídas: 22, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 14558,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 44,
+    "itensCorrigidos" : 22,
+    "registradoEm" : "2026-08-13T22:37:44.588396Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/Memories (1995) | ASS | faixas: 6, extraídas: 2, sem faixa: 0, já existiam: 0, falhas: 1, timeouts: 0",
+    "tempoTotalMs" : 12812,
+    "arquivosProcessados" : 3,
+    "itensDetectados" : 6,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-14T02:02:47.782153Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "detalhe" : "status=CONCLUIDO; videos=86/86 Part 1; legendas=86 Part 1/traducao_ptbr-karaoke-ptbr; syncMs=0; preservarOriginais=true; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=10188940113",
+    "tempoTotalMs" : 68899,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 23,
+    "itensCorrigidos" : 23,
+    "registradoEm" : "2026-08-14T23:19:56.906465100Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "detalhe" : "status=CONCLUIDO; videos=86/86 Part 1; legendas=86 Part 1/traducao_ptbr-karaoke-ptbr; syncMs=0; preservarOriginais=true; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=10189104978",
+    "tempoTotalMs" : 74095,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 23,
+    "itensCorrigidos" : 23,
+    "registradoEm" : "2026-08-15T00:41:18.113623300Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "86/86 Part 1 | ASS | faixas: 47, extraídas: 11, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 8575,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 47,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-08-15T01:07:42.452877900Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "86/86 Part 2 | ASS | faixas: 50, extraídas: 12, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 6296,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 12,
+    "registradoEm" : "2026-08-15T01:08:36.429370500Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/Mobile Suit Zeta Gundam | ASS | faixas: 50, extraídas: 50, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 26451,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-08-16T00:41:28.494992400Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/Mobile Suit Gundam ZZ | ASS | faixas: 47, extraídas: 47, sem faixa: 2, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 32742,
+    "arquivosProcessados" : 49,
+    "itensDetectados" : 47,
+    "itensCorrigidos" : 47,
+    "registradoEm" : "2026-08-16T02:42:59.469897200Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub] | ASS | faixas: 45, extraídas: 23, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 17709,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 45,
+    "itensCorrigidos" : 23,
+    "registradoEm" : "2026-08-16T11:49:57.115583200Z"
+  }, {
     "tipo" : "Remux (mkvmerge)",
     "detalhe" : "status=CONCLUIDO; videos=animes/Gundam Narrative NT; legendas=Gundam Narrative NT/legendas pt; syncMs=0; preservarOriginais=false; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=1419140747",
     "tempoTotalMs" : 3471,

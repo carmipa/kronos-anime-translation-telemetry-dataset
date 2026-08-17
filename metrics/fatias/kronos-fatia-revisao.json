@@ -203,6 +203,686 @@
     "registradoEm" : "2026-08-12T22:26:27.733536800Z"
   }, {
     "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 11183,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 4,
+    "registradoEm" : "2026-08-16T19:29:50.502546900Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 1913,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-16T19:39:05.922894800Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 2/traducao_ptbr",
+    "tempoTotalMs" : 2558,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-16T19:39:52.520036100Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "86 Part 2/traducao_ptbr",
+    "tempoTotalMs" : 2336,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-16T19:40:14.557312900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 2724,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-16T19:45:10.560683100Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 5670,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-16T19:57:08.231481100Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 4425,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-16T20:04:53.828610800Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 3447,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-16T20:16:53.553271900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 4426,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-16T21:16:46.091989400Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 1924,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-16T22:40:49.640343200Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 3432,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-16T22:52:11.756139700Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 15267,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 14,
+    "itensCorrigidos" : 6,
+    "registradoEm" : "2026-08-17T01:12:34.695922900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 12882,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 8,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-17T01:13:08.111910400Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 10954,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T01:32:07.339505200Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 6890,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T01:32:32.099978800Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 11126,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 4,
+    "registradoEm" : "2026-08-17T01:59:31.799898900Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 5745,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T01:59:45.704044600Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 6296,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T02:09:58.253452700Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 5643,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T02:10:18.207495Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 8001,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-17T02:32:20.157395400Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 4471,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T02:32:28.548423900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 4629,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T02:38:55.987092800Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 4118,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T02:39:04.499266600Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 2511,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T02:40:31.938625900Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 2527,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T02:40:39.857824900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 2/traducao_ptbr",
+    "tempoTotalMs" : 3007,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T02:41:01.436518800Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "86 Part 2/traducao_ptbr",
+    "tempoTotalMs" : 3109,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T02:41:07.650692200Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 17902,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 6,
+    "registradoEm" : "2026-08-17T11:44:01.579774700Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 3983,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T11:44:14.109078400Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 3425,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T11:44:36.695199600Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 3592,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T11:44:46.138157Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 4407,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T12:54:39.360568600Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 4237,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T12:55:00.680011800Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 9668,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 4,
+    "registradoEm" : "2026-08-17T12:56:21.685528500Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 1090,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T12:56:29.787636200Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 4790,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T12:57:07.618145300Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 4461,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T12:57:16.530467400Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 6610,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-08-17T12:57:53.116879200Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 2843,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T12:57:59.965661200Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 2602,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T12:58:08.137121700Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 2651,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T12:58:13.856102Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 68873,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 30,
+    "itensCorrigidos" : 19,
+    "registradoEm" : "2026-08-17T12:59:51.990824Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 21211,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 11,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:00:26.706058500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr",
+    "tempoTotalMs" : 74964,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 26,
+    "itensCorrigidos" : 17,
+    "registradoEm" : "2026-08-17T13:02:26.888990900Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr",
+    "tempoTotalMs" : 14019,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:03:19.834768300Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 1902,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:05:22.096438300Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 1929,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:05:27.278893700Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 2/traducao_ptbr",
+    "tempoTotalMs" : 2363,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:05:49.674921500Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "86 Part 2/traducao_ptbr",
+    "tempoTotalMs" : 2359,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:05:55.784857900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr",
+    "tempoTotalMs" : 4490,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:06:53.678156100Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr",
+    "tempoTotalMs" : 4473,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:07:01.314241400Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 28404,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 11,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-17T13:31:00.577388600Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 1381,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:42:15.076881200Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 3120,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:42:26.280939800Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 4406,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:42:39.587078100Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 11537,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-17T13:43:01.557701900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 2061,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:43:20.725435200Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 2/traducao_ptbr",
+    "tempoTotalMs" : 2499,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:43:40.852584900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr",
+    "tempoTotalMs" : 26383,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-17T13:44:27.547824900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr",
+    "tempoTotalMs" : 4591,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T13:44:45.613673200Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 31234,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 11,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-17T15:34:14.993307600Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 24358,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 10,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T15:34:51.408530500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr",
+    "tempoTotalMs" : 24880,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 8,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T15:36:47.297184600Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr",
+    "tempoTotalMs" : 13712,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 8,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T15:37:37.303803Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 25412,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 10,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T15:56:19.941312Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 25541,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 10,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:08:30.642943900Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 2593,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:15:00.141486900Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "86 Part 1/traducao_ptbr",
+    "tempoTotalMs" : 2467,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:15:06.843918800Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 2/traducao_ptbr",
+    "tempoTotalMs" : 2571,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:16:17.163680800Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "86 Part 2/traducao_ptbr",
+    "tempoTotalMs" : 2626,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:16:26.491316700Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 24439,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 10,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:26:32.501587400Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr",
+    "tempoTotalMs" : 4843,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:30:21.527149700Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr",
+    "tempoTotalMs" : 4901,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:30:29.348206200Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 4415,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:31:12.827236800Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 4403,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:31:22.016020800Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 1005,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:32:01.089661600Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 997,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:32:05.977851300Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 4344,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:32:34.002378900Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr",
+    "tempoTotalMs" : 4388,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:32:43.303937400Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 2794,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:33:16.898817200Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr",
+    "tempoTotalMs" : 2766,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:33:23.594613700Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 25393,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 10,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-17T16:34:15.566237400Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr",
+    "tempoTotalMs" : 19972,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:34:40.516204500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr",
+    "tempoTotalMs" : 24879,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 8,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:35:44.491169Z"
+  }, {
+    "tipo" : "Revisão Legendas (.ass Google)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr",
+    "tempoTotalMs" : 14284,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 8,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T16:36:35.582979500Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
     "detalhe" : "Gundam Narrative NT/legendas pt",
     "tempoTotalMs" : 7969,
     "arquivosProcessados" : 1,

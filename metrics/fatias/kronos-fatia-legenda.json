@@ -211,6 +211,30 @@
     "registradoEm" : "2026-08-12T14:33:54.065293400Z"
   }, {
     "tipo" : "Troca de Fontes ASS",
+    "detalhe" : "Diretório: legendas_extraidas_ass",
+    "tempoTotalMs" : 346,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 120,
+    "registradoEm" : "2026-08-13T19:14:30.868833600Z"
+  }, {
+    "tipo" : "Troca de Fontes ASS",
+    "detalhe" : "Diretório: legendas_extraidas_ass",
+    "tempoTotalMs" : 520,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-08-16T00:59:30.276781900Z"
+  }, {
+    "tipo" : "Troca de Fontes ASS",
+    "detalhe" : "Diretório: legendas_extraidas_ass",
+    "tempoTotalMs" : 147,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 12,
+    "itensCorrigidos" : 12,
+    "registradoEm" : "2026-08-16T10:01:08.905831600Z"
+  }, {
+    "tipo" : "Troca de Fontes ASS",
     "detalhe" : "Diretório: legendas pt",
     "tempoTotalMs" : 32,
     "arquivosProcessados" : 1,

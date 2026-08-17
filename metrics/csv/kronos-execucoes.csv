@@ -1791,3 +1791,477 @@ registradoEm,nomeEpisodio,animeNome,temporada,loreNome,modeloLlm,statusFinal,tot
 2026-08-12T15:02:20.351279Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E20 - Laplace's Box_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,270,270,0,92207,0
 2026-08-12T15:03:13.891755700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E21 - To the World's End_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,184,179,0,53528,0
 2026-08-12T15:04:41.838674300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E22 - Return_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,PARCIAL,265,260,0,87934,2
+2026-08-13T03:02:05.863517300Z,Mobile Suit Zeta Gundam - S01E01_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,207,188,0,51124,2
+2026-08-13T03:03:29.117350400Z,Mobile Suit Zeta Gundam - S01E02_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,301,293,0,83236,7
+2026-08-13T03:05:06.112574100Z,Mobile Suit Zeta Gundam - S01E03_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,356,351,0,96983,3
+2026-08-13T03:06:34.567499300Z,Mobile Suit Zeta Gundam - S01E04_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,318,312,0,88440,4
+2026-08-13T03:07:59.003489400Z,Mobile Suit Zeta Gundam - S01E05_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,309,298,0,84425,2
+2026-08-13T03:10:01.998858800Z,Mobile Suit Zeta Gundam - S01E01_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,207,188,0,54802,0
+2026-08-13T03:11:22.065002400Z,Mobile Suit Zeta Gundam - S01E02_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,301,293,0,80051,6
+2026-08-13T03:12:54.574551100Z,Mobile Suit Zeta Gundam - S01E03_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,356,351,0,92497,1
+2026-08-13T03:14:11.390461200Z,Mobile Suit Zeta Gundam - S01E04_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,318,312,0,76801,3
+2026-08-13T03:15:26.908342600Z,Mobile Suit Zeta Gundam - S01E05_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,309,298,0,75503,1
+2026-08-13T03:16:58.771539300Z,Mobile Suit Zeta Gundam - S01E06_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,344,334,0,91852,5
+2026-08-13T03:18:22.318594200Z,Mobile Suit Zeta Gundam - S01E07_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,303,301,0,83534,2
+2026-08-13T03:19:41.492038100Z,Mobile Suit Zeta Gundam - S01E08_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,294,288,0,79159,2
+2026-08-13T03:21:13.546187700Z,Mobile Suit Zeta Gundam - S01E09_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,349,342,0,92040,6
+2026-08-13T03:22:33.839886700Z,Mobile Suit Zeta Gundam - S01E10_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,308,292,0,80281,5
+2026-08-13T03:24:07.412222300Z,Mobile Suit Zeta Gundam - S01E11_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,364,353,0,93561,1
+2026-08-13T03:25:20.503649500Z,Mobile Suit Zeta Gundam - S01E12_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,303,295,0,73080,1
+2026-08-13T03:26:52.674491Z,Mobile Suit Zeta Gundam - S01E13_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,349,336,0,92160,4
+2026-08-13T03:28:03.276602200Z,Mobile Suit Zeta Gundam - S01E14_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,278,271,0,70590,1
+2026-08-13T03:29:32.209608300Z,Mobile Suit Zeta Gundam - S01E15_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,356,344,0,88912,3
+2026-08-13T03:31:01.382129800Z,Mobile Suit Zeta Gundam - S01E16_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,382,366,0,89162,3
+2026-08-13T03:32:17.362103300Z,Mobile Suit Zeta Gundam - S01E17_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,333,317,0,75968,2
+2026-08-13T03:33:57.696769500Z,Mobile Suit Zeta Gundam - S01E18_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,386,366,0,100322,6
+2026-08-13T03:35:13.241547700Z,Mobile Suit Zeta Gundam - S01E19_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,321,305,0,75534,1
+2026-08-13T03:36:36.696034100Z,Mobile Suit Zeta Gundam - S01E20_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,356,334,0,83441,0
+2026-08-13T03:38:01.357427800Z,Mobile Suit Zeta Gundam - S01E21_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,352,344,0,84650,3
+2026-08-13T03:39:33.219591900Z,Mobile Suit Zeta Gundam - S01E22_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,377,361,0,91849,5
+2026-08-13T03:41:09.089964500Z,Mobile Suit Zeta Gundam - S01E23_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,382,367,0,95858,4
+2026-08-13T03:42:29.838240100Z,Mobile Suit Zeta Gundam - S01E24_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,351,328,0,80737,1
+2026-08-13T03:44:04.841259700Z,Mobile Suit Zeta Gundam - S01E25_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,367,352,0,94992,4
+2026-08-13T03:45:22.569875200Z,Mobile Suit Zeta Gundam - S01E26_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,359,339,0,77715,2
+2026-08-13T03:47:00.777619100Z,Mobile Suit Zeta Gundam - S01E27_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,378,360,0,98195,2
+2026-08-13T03:48:34.513331400Z,Mobile Suit Zeta Gundam - S01E28_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,372,356,0,93724,2
+2026-08-13T03:50:13.834495700Z,Mobile Suit Zeta Gundam - S01E29_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,393,377,0,99309,3
+2026-08-13T03:51:20.875462500Z,Mobile Suit Zeta Gundam - S01E30_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,295,281,0,67030,4
+2026-08-13T03:52:36.717971900Z,Mobile Suit Zeta Gundam - S01E31_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,342,331,0,75830,0
+2026-08-13T03:53:52.385246400Z,Mobile Suit Zeta Gundam - S01E32_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,347,329,0,75655,0
+2026-08-13T03:55:08.146257200Z,Mobile Suit Zeta Gundam - S01E33_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,336,317,0,75749,1
+2026-08-13T03:56:28.278277600Z,Mobile Suit Zeta Gundam - S01E34_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,352,337,0,80120,0
+2026-08-13T03:57:40.546577500Z,Mobile Suit Zeta Gundam - S01E35_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,335,321,0,72256,2
+2026-08-13T03:58:44.788294700Z,Mobile Suit Zeta Gundam - S01E36_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,314,288,0,64221,2
+2026-08-13T04:00:12.940761700Z,Mobile Suit Zeta Gundam - S01E37_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,376,369,0,88140,0
+2026-08-13T04:01:39.096478800Z,Mobile Suit Zeta Gundam - S01E38_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,381,358,0,86136,3
+2026-08-13T04:03:02.866808800Z,Mobile Suit Zeta Gundam - S01E39_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,391,370,0,83757,1
+2026-08-13T04:04:24.730341500Z,Mobile Suit Zeta Gundam - S01E40_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,378,355,0,81851,1
+2026-08-13T04:05:52.894564500Z,Mobile Suit Zeta Gundam - S01E41_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,407,395,0,88153,1
+2026-08-13T04:07:03.866565200Z,Mobile Suit Zeta Gundam - S01E42_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,311,292,0,70960,1
+2026-08-13T04:08:20.859220400Z,Mobile Suit Zeta Gundam - S01E43_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,320,299,0,76980,2
+2026-08-13T04:09:37.131600100Z,Mobile Suit Zeta Gundam - S01E44_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,373,344,0,76261,1
+2026-08-13T04:10:45.107151900Z,Mobile Suit Zeta Gundam - S01E45_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,306,292,0,67955,2
+2026-08-13T04:11:57.955363200Z,Mobile Suit Zeta Gundam - S01E46_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,351,325,0,72836,0
+2026-08-13T04:13:12.317182800Z,Mobile Suit Zeta Gundam - S01E47_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,350,336,0,74345,3
+2026-08-13T04:14:15.539758200Z,Mobile Suit Zeta Gundam - S01E48_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,308,283,0,63209,3
+2026-08-13T04:15:13.326015500Z,Mobile Suit Zeta Gundam - S01E49_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,286,265,0,57773,2
+2026-08-13T04:16:22.092049300Z,Mobile Suit Zeta Gundam - S01E50_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,329,313,0,68739,1
+2026-08-13T12:39:04.338421700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E01 - Departure 0096_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,219,216,0,66486,0
+2026-08-13T12:40:40.582254500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E02 - First Blood_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,PARCIAL,308,306,0,96233,1
+2026-08-13T12:41:29.160380500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E03 - They Called It Gundam_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,192,187,0,48567,0
+2026-08-13T12:43:13.639385800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E04 - Full Frontal's Pursuit_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,373,371,0,104469,0
+2026-08-13T12:44:29.915148600Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E05 - Clash with the Red Comet_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,269,267,0,76264,0
+2026-08-13T12:45:54.312139500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E06 - Under the Mask_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,293,291,0,84386,0
+2026-08-13T12:47:05.489975900Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E07 - The Battle of Palau_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,245,242,0,71165,0
+2026-08-13T12:49:01.431688Z,"Mobile Suit Gundam Unicorn Re0096 (2016) - S01E08 - Laplace, Where It All Began_Track3.ass",Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,350,348,0,115929,0
+2026-08-13T12:50:30.630670800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E09 - Retribution_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,273,271,0,89188,0
+2026-08-13T12:51:43.671306Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E10 - From the Scorching Earth_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,249,249,0,73030,0
+2026-08-13T12:53:09.786164400Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E11 - Battle at Torrington_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,269,267,0,86104,0
+2026-08-13T12:54:19.887555900Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E12 - A Private War_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,235,233,0,70087,0
+2026-08-13T12:55:36.726028200Z,"Mobile Suit Gundam Unicorn Re0096 (2016) - S01E13 - Banagher Links, Soldier_Track4.ass",Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,253,252,0,76828,0
+2026-08-13T12:56:36.738130600Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E14 - Clash of the Two Unicorns_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,232,227,0,60001,0
+2026-08-13T12:57:37.823094Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E15 - Waiting in Space_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,198,194,0,61074,0
+2026-08-13T12:59:24.352326800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E16 - The Side Co-Prosperity Sphere_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,293,293,0,106516,0
+2026-08-13T13:00:49.879533700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E17 - Nahel Argama Recaptured_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,290,279,0,85517,0
+2026-08-13T13:01:48.448318700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E18 - Fateful Battle_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,201,200,0,58557,0
+2026-08-13T13:02:37.707670800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E19 - Another Cosmic Glow_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,182,180,0,49247,0
+2026-08-13T13:04:04.108341600Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E20 - Laplace's Box_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,270,270,0,86389,0
+2026-08-13T13:04:53.583711Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E21 - To the World's End_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,184,179,0,49463,0
+2026-08-13T13:06:14.630710200Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E22 - Return_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,265,261,0,81036,1
+2026-08-13T17:50:28.528663300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E01 - Departure 0096_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,219,216,0,156030,0
+2026-08-13T17:54:15.450767900Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E02 - First Blood_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,PARCIAL,308,306,0,226898,1
+2026-08-13T17:56:20.600286300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E03 - They Called It Gundam_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,192,187,0,125132,0
+2026-08-13T18:00:29.670946800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E04 - Full Frontal's Pursuit_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,373,371,0,249059,0
+2026-08-13T18:03:36.978246400Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E05 - Clash with the Red Comet_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,269,267,0,187287,0
+2026-08-13T18:07:00.823715100Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E06 - Under the Mask_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,293,291,0,203830,0
+2026-08-13T18:09:55.425810500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E07 - The Battle of Palau_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,245,242,0,174589,0
+2026-08-13T18:14:18.818706700Z,"Mobile Suit Gundam Unicorn Re0096 (2016) - S01E08 - Laplace, Where It All Began_Track3.ass",Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,350,348,0,263370,0
+2026-08-13T18:17:48.725789900Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E09 - Retribution_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,273,271,0,209893,0
+2026-08-13T18:20:48.952760200Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E10 - From the Scorching Earth_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,249,249,0,180214,0
+2026-08-13T18:24:11.474097600Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E11 - Battle at Torrington_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,269,267,0,202510,0
+2026-08-13T18:26:59.169413300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E12 - A Private War_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,235,233,0,167675,0
+2026-08-13T18:30:05.636583900Z,"Mobile Suit Gundam Unicorn Re0096 (2016) - S01E13 - Banagher Links, Soldier_Track4.ass",Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,253,252,0,186441,0
+2026-08-13T18:32:42.625025Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E14 - Clash of the Two Unicorns_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,232,227,0,156968,0
+2026-08-13T18:35:08.393087600Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E15 - Waiting in Space_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,198,194,0,145753,0
+2026-08-13T18:39:06.390364700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E16 - The Side Co-Prosperity Sphere_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,293,293,0,237982,0
+2026-08-13T18:42:29.553341100Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E17 - Nahel Argama Recaptured_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,290,279,0,203142,0
+2026-08-13T18:44:50.343628600Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E18 - Fateful Battle_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,201,200,0,140772,0
+2026-08-13T18:47:01.125790500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E19 - Another Cosmic Glow_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,182,180,0,130766,0
+2026-08-13T18:50:28.616442800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E20 - Laplace's Box_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,270,270,0,207479,0
+2026-08-13T18:52:35.646684400Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E21 - To the World's End_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,184,179,0,127014,0
+2026-08-13T18:55:54.137066100Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E22 - Return_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,265,261,0,198478,1
+2026-08-13T19:29:48.118579300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E01 - Departure 0096_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,219,216,0,146926,0
+2026-08-13T19:33:05.843493600Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E02 - First Blood_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,PARCIAL,308,306,0,197709,1
+2026-08-13T19:34:44.438587800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E03 - They Called It Gundam_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,192,187,0,98584,0
+2026-08-13T19:38:19.164642900Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E04 - Full Frontal's Pursuit_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,373,371,0,214709,0
+2026-08-13T19:40:55.158116200Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E05 - Clash with the Red Comet_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,269,267,0,155981,0
+2026-08-13T19:43:47.557372500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E06 - Under the Mask_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,293,291,0,172388,0
+2026-08-13T19:46:02.565688300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E07 - The Battle of Palau_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,245,242,0,134997,0
+2026-08-13T19:49:34.454722100Z,"Mobile Suit Gundam Unicorn Re0096 (2016) - S01E08 - Laplace, Where It All Began_Track3.ass",Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,350,348,0,211876,0
+2026-08-13T19:52:12.168312800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E09 - Retribution_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,273,271,0,157699,0
+2026-08-13T19:54:39.497272200Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E10 - From the Scorching Earth_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,249,249,0,147317,0
+2026-08-13T19:57:17.234252500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E11 - Battle at Torrington_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,269,267,0,157725,0
+2026-08-13T19:59:21.007403Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E12 - A Private War_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,235,233,0,123759,0
+2026-08-13T20:01:49.168443900Z,"Mobile Suit Gundam Unicorn Re0096 (2016) - S01E13 - Banagher Links, Soldier_Track4.ass",Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,253,252,0,148147,0
+2026-08-13T20:03:36.578644800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E14 - Clash of the Two Unicorns_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,232,227,0,107397,0
+2026-08-13T20:05:22.489379400Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E15 - Waiting in Space_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,198,194,0,105898,0
+2026-08-13T20:08:31.239009Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E16 - The Side Co-Prosperity Sphere_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,293,293,0,188738,0
+2026-08-13T20:10:53.280338700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E17 - Nahel Argama Recaptured_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,290,279,0,142029,0
+2026-08-13T20:12:38.609358Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E18 - Fateful Battle_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,201,200,0,105317,0
+2026-08-13T20:14:07.477648400Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E19 - Another Cosmic Glow_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,182,180,0,88855,0
+2026-08-13T20:16:31.776559600Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E20 - Laplace's Box_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,270,270,0,144287,0
+2026-08-13T20:18:00.968599500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E21 - To the World's End_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,184,179,0,89176,0
+2026-08-13T20:20:18.875596Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E22 - Return_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,265,261,0,137895,1
+2026-08-13T21:51:16.625679900Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E01 - Departure 0096_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,219,216,0,155970,0
+2026-08-13T21:54:14.899484Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E22 - Return_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,265,261,0,178240,1
+2026-08-13T22:27:02.869810100Z,"Mobile Suit Gundam Unicorn Re0096 (2016) - S01E13 - Banagher Links, Soldier_Track4.ass",Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,253,252,0,166501,0
+2026-08-13T22:40:54.708708300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E01 - Departure 0096_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,219,216,0,146141,0
+2026-08-13T22:44:08.609449300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E02 - First Blood_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,308,307,0,193886,0
+2026-08-13T22:45:43.807537900Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E03 - They Called It Gundam_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,192,187,0,95186,0
+2026-08-13T22:49:12.596297600Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E04 - Full Frontal's Pursuit_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,373,371,0,208774,0
+2026-08-13T22:51:49.106833500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E05 - Clash with the Red Comet_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,269,267,0,156498,0
+2026-08-13T22:54:37.168479800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E06 - Under the Mask_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,293,291,0,168050,0
+2026-08-13T22:56:51.043035100Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E07 - The Battle of Palau_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,245,242,0,133864,0
+2026-08-13T23:00:22.416591300Z,"Mobile Suit Gundam Unicorn Re0096 (2016) - S01E08 - Laplace, Where It All Began_Track3.ass",Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,350,348,0,211362,0
+2026-08-13T23:03:00.709514100Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E09 - Retribution_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,273,271,0,158281,0
+2026-08-13T23:05:24.397042700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E10 - From the Scorching Earth_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,249,249,0,143676,0
+2026-08-13T23:08:00.033041800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E11 - Battle at Torrington_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,269,267,0,155624,0
+2026-08-13T23:09:59.444410600Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E12 - A Private War_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,235,233,0,119400,0
+2026-08-13T23:12:22.231412300Z,"Mobile Suit Gundam Unicorn Re0096 (2016) - S01E13 - Banagher Links, Soldier_Track4.ass",Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,253,252,0,142775,0
+2026-08-13T23:14:07.052789400Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E14 - Clash of the Two Unicorns_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,232,227,0,104810,0
+2026-08-13T23:15:49.684491100Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E15 - Waiting in Space_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,198,194,0,102619,0
+2026-08-13T23:18:57.170107700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E16 - The Side Co-Prosperity Sphere_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,293,293,0,187474,0
+2026-08-13T23:21:16.626082100Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E17 - Nahel Argama Recaptured_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,290,279,0,139446,0
+2026-08-13T23:23:01.243605300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E18 - Fateful Battle_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,201,200,0,104606,0
+2026-08-13T23:24:22.097866700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E19 - Another Cosmic Glow_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,182,180,0,80843,0
+2026-08-13T23:26:46.330262600Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E20 - Laplace's Box_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,270,270,0,144206,0
+2026-08-13T23:28:14.731263700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E21 - To the World's End_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,184,179,0,88388,0
+2026-08-13T23:30:27.419795100Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E22 - Return_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,265,261,0,132677,1
+2026-08-14T12:54:29.439560600Z,[Sav1or] Memories - S01E01 - Magnetic Rose [BD][1080p][AV1][OPUS][Multi Dual Audio]_Track5.ass,Memories (1995),Temporada Única,Sem lore — tradução crua,mistralai/mistral-nemo-instruct-2407,PARCIAL,423,405,0,479965,2
+2026-08-14T12:59:06.533257700Z,[Sav1or] Memories - S01E02 - Stink Bomb [BD][1080p][AV1][OPUS][Multi Dual Audio]_Track5.ass,Memories (1995),Temporada Única,Sem lore — tradução crua,,FALHOU,0,0,0,0,1
+2026-08-14T13:02:52.934601400Z,[Sav1or] Memories - S01E03 - Cannon Fodder [BD][1080p][AV1][OPUS][Dual Audio]_Track5.ass,Memories (1995),Temporada Única,Sem lore — tradução crua,mistralai/mistral-nemo-instruct-2407,PARCIAL,164,145,0,226372,2
+2026-08-14T15:10:05.388751400Z,[DB]86 Part 2_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,299,293,0,165259,1
+2026-08-14T15:12:49.032820900Z,[DB]86 Part 2_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,337,332,0,163631,0
+2026-08-14T15:15:11.102279400Z,[DB]86 Part 2_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,338,322,0,142059,2
+2026-08-14T15:18:09.769466800Z,[DB]86 Part 2_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,343,339,0,178657,0
+2026-08-14T15:20:08.477071300Z,[DB]86 Part 2_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,247,242,0,118697,0
+2026-08-14T15:22:37.714552700Z,[DB]86 Part 2_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,308,301,0,149204,0
+2026-08-14T15:25:08.807780200Z,[DB]86 Part 2_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,341,329,0,151081,0
+2026-08-14T15:27:23.461765100Z,[DB]86 Part 2_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,279,0,134643,3
+2026-08-14T15:29:55.189923400Z,[DB]86 Part 2_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,322,320,0,151715,0
+2026-08-14T15:31:14.113494700Z,[DB]86 Part 2_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,243,215,0,78914,0
+2026-08-14T15:32:55.508356200Z,[DB]86 Part 2_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,309,280,0,101383,1
+2026-08-14T15:34:52.728898700Z,[DB]86 Part 2_-_12_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,278,0,117210,4
+2026-08-14T15:37:16.552288900Z,[DB]86_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,313,308,0,143811,1
+2026-08-14T15:39:39.697330200Z,[DB]86_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,320,309,0,143046,0
+2026-08-14T15:42:25.397029100Z,[DB]86_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,420,403,0,165689,0
+2026-08-14T15:44:53.084581300Z,[DB]86_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,360,354,0,147677,3
+2026-08-14T15:47:00.098489200Z,[DB]86_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,335,315,0,127003,1
+2026-08-14T15:49:21.670492300Z,[DB]86_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,360,350,0,141561,1
+2026-08-14T15:51:27.531331500Z,[DB]86_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,297,290,0,125851,1
+2026-08-14T15:53:41.228296200Z,[DB]86_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,326,315,0,133686,2
+2026-08-14T15:55:21.584439100Z,[DB]86_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,288,275,0,100345,5
+2026-08-14T15:57:04.760464500Z,[DB]86_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,283,276,0,103164,0
+2026-08-14T15:58:48.531715600Z,[DB]86_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,272,257,0,103760,10
+2026-08-14T19:37:11.444817900Z,[DB]86 Part 2_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,299,1,293,92140,0
+2026-08-14T19:38:30.966128200Z,[DB]86 Part 2_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,337,0,332,79406,0
+2026-08-14T19:39:38.995340500Z,[DB]86 Part 2_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,338,1,322,67961,1
+2026-08-14T19:41:03.915972Z,[DB]86 Part 2_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,343,0,339,84862,0
+2026-08-14T19:42:00.475762900Z,[DB]86 Part 2_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,247,0,242,56485,0
+2026-08-14T19:43:03.152718300Z,[DB]86 Part 2_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,308,0,301,62605,0
+2026-08-14T19:44:03.347439300Z,[DB]86 Part 2_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,341,0,329,60108,0
+2026-08-14T19:44:56.362116200Z,[DB]86 Part 2_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,0,279,52951,0
+2026-08-14T19:45:54.709022700Z,[DB]86 Part 2_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,322,0,320,58279,0
+2026-08-14T19:46:20.780915700Z,[DB]86 Part 2_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,243,0,215,26011,0
+2026-08-14T19:46:52.796430600Z,[DB]86 Part 2_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,309,0,280,31922,0
+2026-08-14T19:47:33.515843700Z,[DB]86 Part 2_-_12_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,0,278,40658,0
+2026-08-14T19:48:33.128559600Z,[DB]86_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,313,0,308,59568,0
+2026-08-14T19:49:32.079189900Z,[DB]86_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,320,0,309,58875,0
+2026-08-14T19:50:32.332635500Z,[DB]86_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,420,0,403,60163,0
+2026-08-14T19:51:21.453786100Z,[DB]86_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,360,0,354,49039,0
+2026-08-14T19:52:03.910229300Z,[DB]86_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,335,0,315,42380,0
+2026-08-14T19:52:52.325836300Z,[DB]86_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,360,0,350,48335,1
+2026-08-14T19:53:35.131603700Z,[DB]86_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,297,0,290,42738,1
+2026-08-14T19:54:16.484887800Z,[DB]86_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,326,1,314,41275,0
+2026-08-14T19:54:48.195693300Z,[DB]86_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,288,0,275,31633,0
+2026-08-14T19:55:19.120238Z,[DB]86_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,283,0,276,30837,0
+2026-08-14T19:55:53.877636100Z,[DB]86_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,272,0,257,34693,2
+2026-08-14T21:27:08.825286500Z,[DB]86 Part 2_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,299,0,294,99064,0
+2026-08-14T21:28:31.078087400Z,[DB]86 Part 2_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,337,0,332,82154,0
+2026-08-14T21:29:43.518114100Z,[DB]86 Part 2_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,338,1,323,72353,0
+2026-08-14T21:31:13.759679100Z,[DB]86 Part 2_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,343,0,339,90159,0
+2026-08-14T21:32:13.313325500Z,[DB]86 Part 2_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,247,0,242,59483,0
+2026-08-14T21:33:17.659370300Z,[DB]86 Part 2_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,308,0,301,64265,0
+2026-08-14T21:34:20.173660600Z,[DB]86 Part 2_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,341,0,329,62424,0
+2026-08-14T21:35:15.122949900Z,[DB]86 Part 2_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,0,279,54876,0
+2026-08-14T21:36:15.501942400Z,[DB]86 Part 2_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,322,0,320,60300,0
+2026-08-14T21:36:42.411197800Z,[DB]86 Part 2_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,243,0,215,26826,0
+2026-08-14T21:37:15.027878700Z,[DB]86 Part 2_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,309,0,280,32543,0
+2026-08-14T21:37:57.306268400Z,[DB]86 Part 2_-_12_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,0,278,42193,0
+2026-08-14T21:38:58.905895100Z,[DB]86_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,313,0,308,61523,0
+2026-08-14T21:40:00.247161200Z,[DB]86_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,320,0,309,61262,0
+2026-08-14T21:41:02.499563300Z,[DB]86_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,420,0,403,62155,0
+2026-08-14T21:41:53.626307800Z,[DB]86_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,360,0,354,51052,0
+2026-08-14T21:42:36.878034200Z,[DB]86_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,335,0,315,43160,0
+2026-08-14T21:43:26.606595500Z,[DB]86_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,360,0,350,49660,1
+2026-08-14T21:44:10.435154900Z,[DB]86_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,1,290,43764,0
+2026-08-14T21:44:51.586225400Z,[DB]86_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,326,0,315,41074,0
+2026-08-14T21:45:23.636365100Z,[DB]86_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,288,0,275,31977,0
+2026-08-14T21:45:54.744268500Z,[DB]86_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,283,0,276,31020,0
+2026-08-14T21:46:32.241038900Z,[DB]86_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,272,0,257,37414,1
+2026-08-14T23:36:18.122186900Z,[DB]86 Part 2_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,299,293,0,116466,1
+2026-08-14T23:38:17.245852500Z,[DB]86 Part 2_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,337,332,0,119042,0
+2026-08-14T23:40:05.342593100Z,[DB]86 Part 2_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,338,322,0,108023,2
+2026-08-14T23:42:24.526451600Z,[DB]86 Part 2_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,343,339,0,139119,0
+2026-08-14T23:43:59.008637700Z,[DB]86 Part 2_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,247,242,0,94412,0
+2026-08-14T23:45:52.329142500Z,[DB]86 Part 2_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,308,301,0,113241,0
+2026-08-14T23:47:54.148069400Z,[DB]86 Part 2_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,341,329,0,121746,0
+2026-08-14T23:49:46.133020900Z,[DB]86 Part 2_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,279,0,111910,3
+2026-08-14T23:51:47.035869200Z,[DB]86 Part 2_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,322,320,0,120818,0
+2026-08-14T23:52:56.589167500Z,[DB]86 Part 2_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,243,215,0,69467,0
+2026-08-14T23:54:18.317473400Z,[DB]86 Part 2_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,309,280,0,81646,1
+2026-08-14T23:55:46.976696100Z,[DB]86 Part 2_-_12_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,278,0,88580,4
+2026-08-14T23:57:35.461062500Z,[DB]86_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,313,308,0,108402,1
+2026-08-14T23:59:30.837078400Z,[DB]86_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,320,309,0,115286,0
+2026-08-15T00:01:46.479311300Z,[DB]86_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,420,403,0,135549,0
+2026-08-15T00:03:57.762419100Z,[DB]86_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,360,354,0,131209,2
+2026-08-15T00:05:46.948585400Z,[DB]86_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,335,315,0,109120,1
+2026-08-15T00:07:46.641004200Z,[DB]86_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,360,350,0,119596,1
+2026-08-15T00:09:34.154151700Z,[DB]86_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,291,0,107429,0
+2026-08-15T00:11:27.604384Z,[DB]86_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,326,315,0,113368,1
+2026-08-15T00:12:54.287734500Z,[DB]86_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,288,275,0,86596,5
+2026-08-15T00:14:20.171679800Z,[DB]86_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,283,276,0,85793,0
+2026-08-15T00:15:46.139362700Z,[DB]86_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,272,257,0,85884,11
+2026-08-15T09:54:28.617118800Z,[DB]86_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,313,308,0,163727,1
+2026-08-15T09:57:03.238231600Z,[DB]86_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,320,309,0,154608,0
+2026-08-15T10:00:01.813688600Z,[DB]86_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,420,403,0,178561,0
+2026-08-15T10:02:34.735376500Z,[DB]86_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,360,354,0,152908,3
+2026-08-15T10:04:42.810525100Z,[DB]86_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,335,315,0,128060,1
+2026-08-15T10:07:03.174118400Z,[DB]86_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,360,350,0,140352,1
+2026-08-15T10:09:10.249664500Z,[DB]86_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,291,0,127064,0
+2026-08-15T10:11:18.384466200Z,[DB]86_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,326,315,0,128124,1
+2026-08-15T10:12:56.672062200Z,[DB]86_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,288,275,0,98275,5
+2026-08-15T10:14:37.203108200Z,[DB]86_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,283,276,0,100520,0
+2026-08-15T10:16:08.885911Z,[DB]86_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,272,257,0,91671,10
+2026-08-15T10:18:41.527266Z,[DB]86 Part 2_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,299,294,0,131299,0
+2026-08-15T10:20:50.520313200Z,[DB]86 Part 2_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,337,332,0,128965,0
+2026-08-15T10:22:48.189650200Z,[DB]86 Part 2_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,338,322,0,117657,2
+2026-08-15T10:25:15.321470500Z,[DB]86 Part 2_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,343,339,0,147120,0
+2026-08-15T10:26:52.061297600Z,[DB]86 Part 2_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,247,242,0,96729,0
+2026-08-15T10:28:56.529990900Z,[DB]86 Part 2_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,308,301,0,124455,0
+2026-08-15T10:31:05.694365800Z,[DB]86 Part 2_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,341,329,0,129154,0
+2026-08-15T10:32:57.635671600Z,[DB]86 Part 2_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,279,0,111929,3
+2026-08-15T10:35:09.136441100Z,[DB]86 Part 2_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,322,320,0,131490,0
+2026-08-15T10:36:14.847405400Z,[DB]86 Part 2_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,243,215,0,65699,0
+2026-08-15T10:37:42.546569100Z,[DB]86 Part 2_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,309,280,0,87687,1
+2026-08-15T10:39:16.841542200Z,[DB]86 Part 2_-_12_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,278,0,94283,4
+2026-08-15T20:48:26.122982800Z,[DB]86_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,313,308,0,163465,1
+2026-08-15T20:51:01.192380200Z,[DB]86_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,320,309,0,155052,0
+2026-08-15T20:53:58.699026900Z,[DB]86_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,420,403,0,177491,0
+2026-08-15T20:56:33.140990700Z,[DB]86_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,360,354,0,154430,2
+2026-08-15T20:58:39.421406300Z,[DB]86_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,335,315,0,126267,1
+2026-08-15T21:01:01.091675800Z,[DB]86_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,360,350,0,141649,1
+2026-08-15T21:03:03.913590Z,[DB]86_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,291,0,122807,0
+2026-08-15T21:05:14.727923600Z,[DB]86_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,326,315,0,130800,2
+2026-08-15T21:06:54.397989300Z,[DB]86_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,288,275,0,99652,5
+2026-08-15T21:08:35.839375900Z,[DB]86_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,283,276,0,101430,0
+2026-08-15T21:10:10.721535900Z,[DB]86_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,272,257,0,94868,11
+2026-08-15T22:53:49.611216900Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E01 - Departure 0096_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,219,216,0,138485,0
+2026-08-15T22:56:49.860442300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E02 - First Blood_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,PARCIAL,308,306,0,180231,1
+2026-08-15T22:58:18.760106500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E03 - They Called It Gundam_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,192,187,0,88880,0
+2026-08-15T23:01:37.701136200Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E04 - Full Frontal's Pursuit_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,373,371,0,198927,0
+2026-08-15T23:04:00.195492700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E05 - Clash with the Red Comet_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,269,267,0,142481,0
+2026-08-15T23:06:37.641034800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E06 - Under the Mask_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,293,291,0,157432,0
+2026-08-15T23:08:41.648816400Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E07 - The Battle of Palau_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,245,242,0,123993,0
+2026-08-15T23:11:58.294569500Z,"Mobile Suit Gundam Unicorn Re0096 (2016) - S01E08 - Laplace, Where It All Began_Track3.ass",Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,350,348,0,196624,0
+2026-08-15T23:14:21.443601300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E09 - Retribution_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,273,271,0,143135,0
+2026-08-15T23:16:32.556349400Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E10 - From the Scorching Earth_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,249,249,0,131094,0
+2026-08-15T23:18:55.498262500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E11 - Battle at Torrington_Track3.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,269,267,0,142929,0
+2026-08-15T23:20:48.534809200Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E12 - A Private War_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,235,233,0,113019,0
+2026-08-15T23:23:02.065954400Z,"Mobile Suit Gundam Unicorn Re0096 (2016) - S01E13 - Banagher Links, Soldier_Track4.ass",Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,253,252,0,133512,0
+2026-08-15T23:24:39.139315900Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E14 - Clash of the Two Unicorns_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,232,227,0,97059,0
+2026-08-15T23:26:14.027222900Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E15 - Waiting in Space_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,198,194,0,94873,0
+2026-08-15T23:29:13.047997100Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E16 - The Side Co-Prosperity Sphere_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,293,293,0,179007,0
+2026-08-15T23:31:27.826660300Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E17 - Nahel Argama Recaptured_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,290,279,0,134765,0
+2026-08-15T23:33:05.935441700Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E18 - Fateful Battle_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,201,200,0,98089,0
+2026-08-15T23:34:24.352647800Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E19 - Another Cosmic Glow_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,182,180,0,78401,0
+2026-08-15T23:36:34.615620500Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E20 - Laplace's Box_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,270,270,0,130239,0
+2026-08-15T23:37:55.471106400Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E21 - To the World's End_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,184,179,0,80842,0
+2026-08-15T23:39:59.139873100Z,Mobile Suit Gundam Unicorn Re0096 (2016) - S01E22 - Return_Track4.ass,Gundam Unicorn Season 1,Temporada 1,Mobile Suit Gundam Unicorn,aya-expanse-8b,CONCLUIDO,265,261,0,123655,1
+2026-08-16T01:01:23.998562800Z,Mobile Suit Zeta Gundam - S01E01_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,207,188,0,99463,0
+2026-08-16T01:03:44.972173900Z,Mobile Suit Zeta Gundam - S01E02_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,301,294,0,140954,4
+2026-08-16T01:06:29.543922200Z,Mobile Suit Zeta Gundam - S01E03_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,356,351,0,164559,2
+2026-08-16T01:08:50.010072100Z,Mobile Suit Zeta Gundam - S01E04_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,318,312,0,140449,3
+2026-08-16T01:11:15.186097100Z,Mobile Suit Zeta Gundam - S01E05_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,309,298,0,145161,1
+2026-08-16T01:13:42.270384100Z,Mobile Suit Zeta Gundam - S01E06_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,344,335,0,147071,3
+2026-08-16T01:16:00.618789800Z,Mobile Suit Zeta Gundam - S01E07_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,303,301,0,138323,2
+2026-08-16T01:18:15.567229Z,Mobile Suit Zeta Gundam - S01E08_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,294,288,0,134935,2
+2026-08-16T01:20:50.448420400Z,Mobile Suit Zeta Gundam - S01E09_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,349,341,0,154868,8
+2026-08-16T01:22:59.851604200Z,Mobile Suit Zeta Gundam - S01E10_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,308,292,0,129383,5
+2026-08-16T01:25:21.093454800Z,Mobile Suit Zeta Gundam - S01E11_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,364,353,0,141229,1
+2026-08-16T01:27:16.385497600Z,Mobile Suit Zeta Gundam - S01E12_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,303,295,0,115273,1
+2026-08-16T01:29:40.628284900Z,Mobile Suit Zeta Gundam - S01E13_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,349,336,0,144200,4
+2026-08-16T01:31:26.975556200Z,Mobile Suit Zeta Gundam - S01E14_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,278,271,0,106333,1
+2026-08-16T01:33:44.746346400Z,Mobile Suit Zeta Gundam - S01E15_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,356,344,0,137749,3
+2026-08-16T01:36:05.304548500Z,Mobile Suit Zeta Gundam - S01E16_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,382,366,0,140542,3
+2026-08-16T01:38:03.673550500Z,Mobile Suit Zeta Gundam - S01E17_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,333,317,0,118357,2
+2026-08-16T01:40:25.875070300Z,Mobile Suit Zeta Gundam - S01E18_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,386,366,0,142189,6
+2026-08-16T01:42:09.942519900Z,Mobile Suit Zeta Gundam - S01E19_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,321,305,0,104055,1
+2026-08-16T01:44:15.496528500Z,Mobile Suit Zeta Gundam - S01E20_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,356,334,0,125542,0
+2026-08-16T01:46:29.811990300Z,Mobile Suit Zeta Gundam - S01E21_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,352,344,0,134293,3
+2026-08-16T01:48:46.964243900Z,Mobile Suit Zeta Gundam - S01E22_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,377,361,0,137139,5
+2026-08-16T01:51:11.583506Z,Mobile Suit Zeta Gundam - S01E23_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,382,367,0,144607,4
+2026-08-16T01:53:06.693269Z,Mobile Suit Zeta Gundam - S01E24_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,351,327,0,115095,2
+2026-08-16T01:55:27.436793400Z,Mobile Suit Zeta Gundam - S01E25_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,367,352,0,140729,4
+2026-08-16T01:57:19.245234800Z,Mobile Suit Zeta Gundam - S01E26_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,359,339,0,111794,2
+2026-08-16T01:59:37.197856100Z,Mobile Suit Zeta Gundam - S01E27_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,378,360,0,137941,2
+2026-08-16T02:01:41.215563Z,Mobile Suit Zeta Gundam - S01E28_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,372,356,0,124004,2
+2026-08-16T02:03:58.541460Z,Mobile Suit Zeta Gundam - S01E29_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,393,376,0,137314,3
+2026-08-16T02:05:30.780092700Z,Mobile Suit Zeta Gundam - S01E30_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,295,280,0,92211,5
+2026-08-16T02:07:14.361282800Z,Mobile Suit Zeta Gundam - S01E31_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,342,331,0,103569,0
+2026-08-16T02:09:05.378060600Z,Mobile Suit Zeta Gundam - S01E32_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,347,329,0,111004,0
+2026-08-16T02:11:01.706970300Z,Mobile Suit Zeta Gundam - S01E33_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,336,316,0,116315,2
+2026-08-16T02:12:51.606435100Z,Mobile Suit Zeta Gundam - S01E34_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,352,337,0,109881,1
+2026-08-16T02:14:41.021067700Z,Mobile Suit Zeta Gundam - S01E35_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,335,321,0,109401,2
+2026-08-16T02:16:12.985171500Z,Mobile Suit Zeta Gundam - S01E36_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,314,288,0,91945,2
+2026-08-16T02:18:29.053256300Z,Mobile Suit Zeta Gundam - S01E37_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,376,369,0,136055,1
+2026-08-16T02:20:34.322728Z,Mobile Suit Zeta Gundam - S01E38_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,381,358,0,125258,3
+2026-08-16T02:22:36.547268500Z,Mobile Suit Zeta Gundam - S01E39_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,391,370,0,122208,1
+2026-08-16T02:24:27.234764800Z,Mobile Suit Zeta Gundam - S01E40_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,378,355,0,110672,1
+2026-08-16T02:26:26.751405100Z,Mobile Suit Zeta Gundam - S01E41_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,407,395,0,119500,1
+2026-08-16T02:28:07.144031700Z,Mobile Suit Zeta Gundam - S01E42_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,311,293,0,100382,0
+2026-08-16T02:30:01.074537300Z,Mobile Suit Zeta Gundam - S01E43_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,320,299,0,113912,2
+2026-08-16T02:31:50.410876600Z,Mobile Suit Zeta Gundam - S01E44_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,373,344,0,109315,1
+2026-08-16T02:33:24.666555300Z,Mobile Suit Zeta Gundam - S01E45_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,306,292,0,94241,2
+2026-08-16T02:35:06.950805Z,Mobile Suit Zeta Gundam - S01E46_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,351,325,0,102272,0
+2026-08-16T02:36:48.816443300Z,Mobile Suit Zeta Gundam - S01E47_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,350,336,0,101853,4
+2026-08-16T02:38:11.518472600Z,Mobile Suit Zeta Gundam - S01E48_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,308,283,0,82687,3
+2026-08-16T02:39:29.210334400Z,Mobile Suit Zeta Gundam - S01E49_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,PARCIAL,286,264,0,77679,3
+2026-08-16T02:41:05.443596400Z,Mobile Suit Zeta Gundam - S01E50_Track2.ass,Mobile Suit Zeta Gundam,Temporada Única,Mobile Suit Zeta Gundam,aya-expanse-8b,CONCLUIDO,329,313,0,96220,1
+2026-08-16T02:45:25.973912200Z,Mobile.Suit.Gundam.ZZ.S01E01_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,301,295,0,132045,10
+2026-08-16T02:46:56.117261200Z,Mobile.Suit.Gundam.ZZ.S01E02_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,289,285,0,90119,1
+2026-08-16T02:48:45.189684800Z,Mobile.Suit.Gundam.ZZ.S01E03_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,335,325,0,109057,4
+2026-08-16T02:50:52.597569500Z,Mobile.Suit.Gundam.ZZ.S01E04_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,359,349,0,127395,5
+2026-08-16T02:52:55.990910800Z,Mobile.Suit.Gundam.ZZ.S01E05_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,379,361,0,123377,4
+2026-08-16T02:54:43.858701500Z,Mobile.Suit.Gundam.ZZ.S01E06_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,340,325,0,107854,3
+2026-08-16T02:56:36.230003700Z,Mobile.Suit.Gundam.ZZ.S01E07_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,330,319,0,112360,2
+2026-08-16T02:58:35.051468300Z,Mobile.Suit.Gundam.ZZ.S01E08_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,363,349,0,118808,4
+2026-08-16T03:00:42.039457Z,Mobile.Suit.Gundam.ZZ.S01E09_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,385,372,0,126976,2
+2026-08-16T03:02:44.871399800Z,Mobile.Suit.Gundam.ZZ.S01E10_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,378,370,0,122819,3
+2026-08-16T03:04:36.019748600Z,Mobile.Suit.Gundam.ZZ.S01E11_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,373,366,0,111134,7
+2026-08-16T03:06:35.013542Z,Mobile.Suit.Gundam.ZZ.S01E12_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,374,362,0,118983,2
+2026-08-16T03:08:34.754951900Z,Mobile.Suit.Gundam.ZZ.S01E13_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,399,376,0,119730,6
+2026-08-16T03:10:40.977620400Z,Mobile.Suit.Gundam.ZZ.S01E14_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,408,396,0,126210,3
+2026-08-16T03:12:50.194083300Z,Mobile.Suit.Gundam.ZZ.S01E15_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,381,366,0,129204,4
+2026-08-16T03:14:46.256269500Z,Mobile.Suit.Gundam.ZZ.S01E16_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,403,382,0,116049,2
+2026-08-16T03:16:38.895069500Z,Mobile.Suit.Gundam.ZZ.S01E17_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,371,359,0,112628,3
+2026-08-16T03:18:31.772310100Z,Mobile.Suit.Gundam.ZZ.S01E18_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,356,341,0,112863,4
+2026-08-16T03:20:26.000563800Z,Mobile.Suit.Gundam.ZZ.S01E19_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,369,353,0,114203,3
+2026-08-16T03:22:59.577225700Z,Mobile.Suit.Gundam.ZZ.S01E20_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,480,457,0,153564,6
+2026-08-16T03:24:53.535117400Z,Mobile.Suit.Gundam.ZZ.S01E21_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,391,370,0,113940,5
+2026-08-16T03:26:47.351312800Z,Mobile.Suit.Gundam.ZZ.S01E22_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,385,364,0,113802,4
+2026-08-16T03:28:50.133678800Z,Mobile.Suit.Gundam.ZZ.S01E23_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,361,348,0,122757,2
+2026-08-16T03:30:49.525524700Z,Mobile.Suit.Gundam.ZZ.S01E24_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,381,362,0,119381,4
+2026-08-16T03:32:26.527207100Z,Mobile.Suit.Gundam.ZZ.S01E25_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,311,285,0,96972,2
+2026-08-16T03:34:15.297152900Z,Mobile.Suit.Gundam.ZZ.S01E26_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,374,349,0,108757,6
+2026-08-16T03:36:03.379230200Z,Mobile.Suit.Gundam.ZZ.S01E27_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,300,281,0,108065,2
+2026-08-16T03:37:39.923046200Z,Mobile.Suit.Gundam.ZZ.S01E28_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,333,306,0,96525,6
+2026-08-16T03:39:31.635714800Z,Mobile.Suit.Gundam.ZZ.S01E29_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,348,336,0,111699,6
+2026-08-16T03:41:34.483925100Z,Mobile.Suit.Gundam.ZZ.S01E30_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,387,368,0,122833,6
+2026-08-16T03:43:28.202940600Z,Mobile.Suit.Gundam.ZZ.S01E31_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,323,316,0,113705,7
+2026-08-16T03:45:14.241292400Z,Mobile.Suit.Gundam.ZZ.S01E32_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,316,303,0,106026,3
+2026-08-16T03:47:21.495225Z,Mobile.Suit.Gundam.ZZ.S01E33_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,413,393,0,127240,4
+2026-08-16T03:49:12.260509700Z,Mobile.Suit.Gundam.ZZ.S01E34_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,378,363,0,110751,3
+2026-08-16T03:50:58.575152Z,Mobile.Suit.Gundam.ZZ.S01E35_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,307,293,0,106303,8
+2026-08-16T03:52:25.411014400Z,Mobile.Suit.Gundam.ZZ.S01E36_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,290,283,0,86821,3
+2026-08-16T03:54:25.079058900Z,Mobile.Suit.Gundam.ZZ.S01E37_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,381,368,0,119649,5
+2026-08-16T03:56:44.688520600Z,Mobile.Suit.Gundam.ZZ.S01E38_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,389,373,0,139597,6
+2026-08-16T03:58:35.097133200Z,Mobile.Suit.Gundam.ZZ.S01E39_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,331,323,0,110392,5
+2026-08-16T04:00:38.671927500Z,Mobile.Suit.Gundam.ZZ.S01E40_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,411,393,0,123562,2
+2026-08-16T04:02:07.922241900Z,Mobile.Suit.Gundam.ZZ.S01E41_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,306,287,0,89227,3
+2026-08-16T04:04:09.936564300Z,Mobile.Suit.Gundam.ZZ.S01E42_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,414,386,0,121994,3
+2026-08-16T04:05:59.531022500Z,Mobile.Suit.Gundam.ZZ.S01E43_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,378,362,0,109583,4
+2026-08-16T04:07:44.401297200Z,Mobile.Suit.Gundam.ZZ.S01E44_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,PARCIAL,329,319,0,104846,3
+2026-08-16T04:09:26.956460800Z,Mobile.Suit.Gundam.ZZ.S01E45_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,293,284,0,102541,1
+2026-08-16T04:11:07.174842300Z,Mobile.Suit.Gundam.ZZ.S01E46_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,331,320,0,100206,1
+2026-08-16T04:12:13.510390800Z,Mobile.Suit.Gundam.ZZ.S01E47_Track2.ass,Mobile Suit Gundam ZZ,Temporada Única,Mobile Suit Gundam ZZ,aya-expanse-8b,CONCLUIDO,249,233,0,66321,1
+2026-08-16T10:01:50.876230800Z,Mobile.Suit.Gundam.The.08th.MS.Team.S00E02_Track2.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,CONCLUIDO,73,70,0,35614,0
+2026-08-16T10:04:05.753223500Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E01_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,CONCLUIDO,286,282,0,134850,0
+2026-08-16T10:06:10.369440500Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E02_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,CONCLUIDO,267,264,0,124601,1
+2026-08-16T10:08:39.623181400Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E03_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,PARCIAL,342,335,0,149237,4
+2026-08-16T10:11:12.450165500Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E04_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,CONCLUIDO,334,328,0,152811,1
+2026-08-16T10:13:36.298328200Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E05_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,PARCIAL,378,362,0,143829,4
+2026-08-16T10:15:27.435457800Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E06_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,CONCLUIDO,304,296,0,111126,4
+2026-08-16T10:16:44.660360600Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E07_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,CONCLUIDO,208,203,0,77210,0
+2026-08-16T10:18:47.696333Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E08_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,CONCLUIDO,301,301,0,123024,0
+2026-08-16T10:21:03.301401400Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E09_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,PARCIAL,321,316,0,135593,5
+2026-08-16T10:22:52.427201500Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E10_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,PARCIAL,262,261,0,109101,9
+2026-08-16T10:24:23.321249Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E11_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,CONCLUIDO,245,242,0,90876,2
+2026-08-16T10:26:07.599925300Z,Mobile.Suit.Gundam.The.08th.MS.Team.S01E12_Track3.ass,[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam: The 08th MS Team,aya-expanse-8b,PARCIAL,287,280,0,104265,7
+2026-08-16T10:29:21.508541500Z,Mobile.Suit.Gundam.0080.War.in.the.Pocket.S01E01_Track2.ass,[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0080: War in the Pocket,aya-expanse-8b,PARCIAL,236,220,0,97015,6
+2026-08-16T10:30:57.066351Z,Mobile.Suit.Gundam.0080.War.in.the.Pocket.S01E02_Track2.ass,[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0080: War in the Pocket,aya-expanse-8b,PARCIAL,240,233,0,95539,5
+2026-08-16T10:32:55.045502Z,Mobile.Suit.Gundam.0080.War.in.the.Pocket.S01E03_Track2.ass,[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0080: War in the Pocket,aya-expanse-8b,CONCLUIDO,305,305,0,117960,2
+2026-08-16T10:34:55.514323200Z,Mobile.Suit.Gundam.0080.War.in.the.Pocket.S01E04_Track2.ass,[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0080: War in the Pocket,aya-expanse-8b,PARCIAL,278,274,0,120451,6
+2026-08-16T10:36:48.717347700Z,Mobile.Suit.Gundam.0080.War.in.the.Pocket.S01E05_Track2.ass,[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0080: War in the Pocket,aya-expanse-8b,CONCLUIDO,328,317,0,113191,4
+2026-08-16T10:38:13.177476300Z,Mobile.Suit.Gundam.0080.War.in.the.Pocket.S01E06_Track2.ass,[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0080: War in the Pocket,aya-expanse-8b,CONCLUIDO,237,232,0,84446,2
+2026-08-16T10:41:46.843253Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E01_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,341,330,0,144218,2
+2026-08-16T10:41:58.172618600Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E02_5_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,PARCIAL,23,19,0,11312,2
+2026-08-16T10:44:06.840429900Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E02_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,340,329,0,128654,2
+2026-08-16T10:44:50.934963500Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E03-5_Track2.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,78,78,0,44062,0
+2026-08-16T10:46:48.010006100Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E03_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,311,301,0,117058,1
+2026-08-16T10:49:11.890613800Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E04_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,352,340,0,143862,0
+2026-08-16T10:51:40.072479Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E05_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,372,365,0,148165,1
+2026-08-16T10:53:29.534583200Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E06_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,PARCIAL,285,281,0,109449,1
+2026-08-16T10:55:27.791007500Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E07_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,PARCIAL,323,313,0,118238,6
+2026-08-16T10:57:46.601297600Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E08_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,367,359,0,138795,1
+2026-08-16T10:59:43.345451500Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E09_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,280,276,0,116725,0
+2026-08-16T11:01:16.657614200Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E10_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,242,238,0,93299,0
+2026-08-16T11:03:16.734599200Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E11_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,301,297,0,120056,0
+2026-08-16T11:04:43.080175800Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E12_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,229,227,0,86334,0
+2026-08-16T11:05:59.064618700Z,Mobile Suit Gundam 0083 - Stardust Memory - S01E13_Track3.ass,[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng],Temporada Única,Mobile Suit Gundam 0083: Stardust Memory,aya-expanse-8b,CONCLUIDO,217,209,0,75969,2
+2026-08-16T11:09:09.716285500Z,[DB]86_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,313,308,0,128681,1
+2026-08-16T11:11:19.696244600Z,[DB]86_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,320,309,0,129969,0
+2026-08-16T11:13:41.394571Z,[DB]86_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,420,403,0,141686,0
+2026-08-16T11:15:45.214668400Z,[DB]86_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,360,354,0,123792,3
+2026-08-16T11:17:33.768655600Z,[DB]86_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,335,315,0,108541,1
+2026-08-16T11:19:31.365159200Z,[DB]86_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,360,350,0,117585,1
+2026-08-16T11:21:22.079926800Z,[DB]86_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,291,0,110700,0
+2026-08-16T11:23:14.552618600Z,[DB]86_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,326,315,0,112459,1
+2026-08-16T11:24:37.542234800Z,[DB]86_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,288,275,0,82976,5
+2026-08-16T11:26:04.955373400Z,[DB]86_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,283,276,0,87387,0
+2026-08-16T11:27:30.698089Z,[DB]86_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 1,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,272,257,0,85731,10
+2026-08-16T11:29:48.832335400Z,[DB]86 Part 2_-_01_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,299,293,0,115350,1
+2026-08-16T11:31:45.272651Z,[DB]86 Part 2_-_02_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,337,332,0,116429,0
+2026-08-16T11:33:30.203175Z,[DB]86 Part 2_-_03_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,PARCIAL,338,322,0,104908,2
+2026-08-16T11:35:47.826218300Z,[DB]86 Part 2_-_04_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,343,339,0,137612,0
+2026-08-16T11:37:14.911574Z,[DB]86 Part 2_-_05_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,247,242,0,87071,0
+2026-08-16T11:39:11.704439100Z,[DB]86 Part 2_-_06_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,308,301,0,116775,0
+2026-08-16T11:41:07.251149200Z,[DB]86 Part 2_-_07_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,341,329,0,115530,0
+2026-08-16T11:42:50.470478100Z,[DB]86 Part 2_-_08_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,279,0,103201,3
+2026-08-16T11:44:49.449793100Z,[DB]86 Part 2_-_09_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,322,320,0,118958,0
+2026-08-16T11:45:51.970964600Z,[DB]86 Part 2_-_10_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,243,215,0,62505,0
+2026-08-16T11:47:10.331413900Z,[DB]86 Part 2_-_11_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,309,280,0,78349,1
+2026-08-16T11:48:40.226993500Z,[DB]86 Part 2_-_12_(Dual Audio_10bit_BD1080p_x265)_Track6.ass,86 Part 2,Temporada Única,86 (Eighty-Six),aya-expanse-8b,CONCLUIDO,297,278,0,89881,4
+2026-08-16T11:52:07.116877600Z,Guilty Crown - 01_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,188,185,0,64697,1
+2026-08-16T11:53:47.183485500Z,Guilty Crown - 02_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,PARCIAL,251,250,0,100047,6
+2026-08-16T11:56:00.054947800Z,Guilty Crown - 03_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,PARCIAL,330,318,0,132854,12
+2026-08-16T11:57:33.523169200Z,Guilty Crown - 04_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,253,250,0,93445,2
+2026-08-16T11:59:02.440561500Z,Guilty Crown - 05_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,252,246,0,88891,9
+2026-08-16T12:00:28.009778Z,Guilty Crown - 06_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,245,241,0,85543,3
+2026-08-16T12:02:17.481179Z,Guilty Crown - 07_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,293,285,0,109457,5
+2026-08-16T12:03:43.504497800Z,Guilty Crown - 08_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,PARCIAL,260,258,0,86010,8
+2026-08-16T12:04:58.924034800Z,Guilty Crown - 09_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,236,228,0,75405,2
+2026-08-16T12:06:16.592837Z,Guilty Crown - 10_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,PARCIAL,254,240,0,77646,5
+2026-08-16T12:07:40.769676600Z,Guilty Crown - 11_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,255,248,0,84162,5
+2026-08-16T12:08:54.850821300Z,Guilty Crown - 12_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,PARCIAL,239,231,0,74069,6
+2026-08-16T12:10:56.326341200Z,Guilty Crown - 13_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,PARCIAL,326,319,0,121460,19
+2026-08-16T12:13:00.078784900Z,Guilty Crown - 14_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,PARCIAL,327,318,0,123731,10
+2026-08-16T12:14:28.966303400Z,Guilty Crown - 15_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,274,265,0,88861,6
+2026-08-16T12:16:22.750189700Z,Guilty Crown - 16_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,PARCIAL,296,291,0,113773,15
+2026-08-16T12:17:41.314328100Z,Guilty Crown - 17_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,PARCIAL,230,224,0,78545,5
+2026-08-16T12:18:36.752784300Z,Guilty Crown - 18_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,204,193,0,55424,0
+2026-08-16T12:19:56.535070900Z,Guilty Crown - 19_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,264,256,0,79767,6
+2026-08-16T12:21:37.718968600Z,Guilty Crown - 20_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,PARCIAL,289,285,0,101168,7
+2026-08-16T12:22:52.874722400Z,Guilty Crown - 21_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,218,217,0,75137,3
+2026-08-16T12:23:52.827582500Z,Guilty Crown - 22_Track4.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,236,226,0,59939,1
+2026-08-16T12:24:26.911431200Z,Guilty Crown OVA - 01_Track2.ass,[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub],Temporada Única,Guilty Crown,aya-expanse-8b,CONCLUIDO,98,97,0,34071,2
