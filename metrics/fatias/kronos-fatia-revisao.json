@@ -882,6 +882,102 @@
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-17T16:36:35.582979500Z"
   }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr | promptRevisaoLore=86 (Eighty-Six) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=253 | semResposta=58 | descartadas=195 | encaminhadasOpcao6=62 | erros=0",
+    "tempoTotalMs" : 112776,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 253,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T21:09:44.840926500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr | promptRevisaoLore=86 (Eighty-Six) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=227 | semResposta=55 | descartadas=172 | encaminhadasOpcao6=62 | erros=0",
+    "tempoTotalMs" : 102049,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 226,
+    "itensCorrigidos" : 29,
+    "registradoEm" : "2026-08-17T21:31:55.500466900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr | promptRevisaoLore=86 (Eighty-Six) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=227 | semResposta=54 | descartadas=173 | encaminhadasOpcao6=63 | erros=0",
+    "tempoTotalMs" : 103511,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 226,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T21:59:22.511140700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr | promptRevisaoLore=86 (Eighty-Six) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=225 | semResposta=53 | descartadas=172 | encaminhadasOpcao6=63 | erros=0",
+    "tempoTotalMs" : 101608,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 225,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-17T22:20:28.972920800Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "86 Part 2/traducao_ptbr | promptRevisaoLore=86 (Eighty-Six) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=301 | semResposta=101 | descartadas=200 | encaminhadasOpcao6=82 | erros=0",
+    "tempoTotalMs" : 151075,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 299,
+    "itensCorrigidos" : 12,
+    "registradoEm" : "2026-08-17T22:24:28.818945Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr | promptRevisaoLore=86 (Eighty-Six) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=234 | semResposta=56 | descartadas=178 | encaminhadasOpcao6=63 | erros=0",
+    "tempoTotalMs" : 110273,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 234,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T22:45:15.513425200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "86 Part 2/traducao_ptbr | promptRevisaoLore=86 (Eighty-Six) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=309 | semResposta=102 | descartadas=207 | encaminhadasOpcao6=82 | erros=0",
+    "tempoTotalMs" : 152896,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 308,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T22:49:47.183647100Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "detalhe" : "86 Part 2/traducao_ptbr",
+    "tempoTotalMs" : 2548,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:10:34.434794900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "86 Part 2/traducao_ptbr | promptRevisaoLore=86 (Eighty-Six) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=309 | semResposta=102 | descartadas=207 | encaminhadasOpcao6=82 | erros=0",
+    "tempoTotalMs" : 152745,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 308,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:14:08.341245700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "86 Part 1/traducao_ptbr | promptRevisaoLore=86 (Eighty-Six) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=212 | semResposta=47 | descartadas=165 | encaminhadasOpcao6=63 | erros=0",
+    "tempoTotalMs" : 92292,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 212,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:25:51.553964Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "86 Part 2/traducao_ptbr | promptRevisaoLore=86 (Eighty-Six) - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=253 | semResposta=80 | descartadas=173 | encaminhadasOpcao6=82 | erros=0",
+    "tempoTotalMs" : 122907,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 252,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:30:39.963472400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=265 | semResposta=109 | descartadas=156 | encaminhadasOpcao6=94 | erros=0",
+    "tempoTotalMs" : 115009,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 265,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:36:18.352345200Z"
+  }, {
     "tipo" : "Revisão Concordância (.ass LLM)",
     "detalhe" : "Gundam Narrative NT/legendas pt",
     "tempoTotalMs" : 7969,

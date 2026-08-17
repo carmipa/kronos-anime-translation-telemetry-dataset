@@ -1,7 +1,7 @@
 {
   "dataset" : "kronos-anime-translation-telemetry-dataset",
   "versaoFormato" : 2,
-  "geradoEm" : "2026-08-17T16:38:32.943966400Z",
+  "geradoEm" : "2026-08-17T23:51:33.962597600Z",
   "descricao" : "Métricas operacionais de tradução de legendas de anime com LLM 100% local (LM Studio). Sem textos de legenda e sem caminhos de máquina — apenas métricas.",
   "ambienteExecucao" : {
     "fabricante" : "Avell",
@@ -24,7 +24,7 @@
     "falhasTraducaoRecuperadas" : 14440,
     "fallbacksTraducaoMantidos" : 5818,
     "arquivosRenomeados" : 63,
-    "totalOperacoesRegistradas" : 270
+    "totalOperacoesRegistradas" : 282
   },
   "traducoesLlm" : [ {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S00E02_Track2.ass",
@@ -6317,5 +6317,89 @@
     "itensDetectados" : 8,
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-17T16:36:35.582979500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 112776,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 253,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T21:09:44.840926500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 102049,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 226,
+    "itensCorrigidos" : 29,
+    "registradoEm" : "2026-08-17T21:31:55.500466900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 103511,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 226,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T21:59:22.511140700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 101608,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 225,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-17T22:20:28.972920800Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 151075,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 299,
+    "itensCorrigidos" : 12,
+    "registradoEm" : "2026-08-17T22:24:28.818945Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 110273,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 234,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T22:45:15.513425200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 152896,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 308,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T22:49:47.183647100Z"
+  }, {
+    "tipo" : "Revisão Concordância (.ass LLM)",
+    "tempoTotalMs" : 2548,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:10:34.434794900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 152745,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 308,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:14:08.341245700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 92292,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 212,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:25:51.553964Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 122907,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 252,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:30:39.963472400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 115009,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 265,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:36:18.352345200Z"
   } ]
 }
