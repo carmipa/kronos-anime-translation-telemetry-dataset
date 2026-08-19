@@ -978,6 +978,502 @@
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-17T23:36:18.352345200Z"
   }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=265 | semResposta=112 | descartadas=153 | encaminhadasOpcao6=94 | erros=0",
+    "tempoTotalMs" : 118383,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 265,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:54:06.338257Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr | promptRevisaoLore=Guilty Crown - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=397 | semResposta=31 | descartadas=366 | encaminhadasOpcao6=253 | erros=0",
+    "tempoTotalMs" : 139199,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 397,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:57:16.218534Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0080: War in the Pocket - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=85 | semResposta=17 | descartadas=68 | encaminhadasOpcao6=31 | erros=0",
+    "tempoTotalMs" : 39293,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 85,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:59:01.455735600Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0083: Stardust Memory - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=651 | semResposta=346 | descartadas=305 | encaminhadasOpcao6=117 | erros=0",
+    "tempoTotalMs" : 330836,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 651,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T00:05:15.735097400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0083: Stardust Memory - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=651 | semResposta=347 | descartadas=304 | encaminhadasOpcao6=117 | erros=0",
+    "tempoTotalMs" : 324696,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 651,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T00:33:27.384511700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam Unicorn - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=681 | semResposta=375 | descartadas=306 | encaminhadasOpcao6=136 | erros=0",
+    "tempoTotalMs" : 347180,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 681,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T00:39:55.480475700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr | promptRevisaoLore=Mobile Suit Zeta Gundam - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=1932 | semResposta=887 | descartadas=1045 | encaminhadasOpcao6=635 | erros=0",
+    "tempoTotalMs" : 821918,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 1932,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T01:09:41.873112700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam ZZ - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=1171 | semResposta=396 | descartadas=775 | encaminhadasOpcao6=531 | erros=0",
+    "tempoTotalMs" : 488095,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 1171,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T01:26:37.763619200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0083: Stardust Memory - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=470 | semResposta=263 | descartadas=207 | encaminhadasOpcao6=117 | erros=0",
+    "tempoTotalMs" : 261522,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 470,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T02:37:38.704661900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=173 | semResposta=79 | descartadas=94 | encaminhadasOpcao6=94 | erros=0",
+    "tempoTotalMs" : 91279,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 173,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T11:16:19.855363700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0083: Stardust Memory - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=413 | semResposta=242 | descartadas=171 | encaminhadasOpcao6=115 | erros=0",
+    "tempoTotalMs" : 217167,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 413,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T11:20:36.511606900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr | promptRevisaoLore=Mobile Suit Zeta Gundam - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=1169 | semResposta=628 | descartadas=541 | encaminhadasOpcao6=635 | erros=0",
+    "tempoTotalMs" : 556457,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 1169,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T11:29:56.161178100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam ZZ - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=868 | semResposta=321 | descartadas=547 | encaminhadasOpcao6=531 | erros=0",
+    "tempoTotalMs" : 365107,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 868,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T11:36:05.484320500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0080: War in the Pocket - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=85 | semResposta=16 | descartadas=69 | encaminhadasOpcao6=31 | erros=0",
+    "tempoTotalMs" : 34639,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 85,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T11:36:55.544433400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr | promptRevisaoLore=Guilty Crown - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=383 | semResposta=35 | descartadas=348 | encaminhadasOpcao6=253 | erros=0",
+    "tempoTotalMs" : 127014,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 383,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T12:31:19.906280800Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0080: War in the Pocket - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=85 | semResposta=16 | descartadas=69 | encaminhadasOpcao6=31 | erros=0",
+    "tempoTotalMs" : 39603,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 85,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T12:33:12.881974Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam Unicorn - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=570 | semResposta=338 | descartadas=232 | encaminhadasOpcao6=136 | erros=0",
+    "tempoTotalMs" : 289146,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 570,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T12:39:16.999288700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=173 | semResposta=80 | descartadas=93 | encaminhadasOpcao6=94 | erros=0",
+    "tempoTotalMs" : 95667,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 173,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T14:12:06.035658Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=114 | semResposta=46 | descartadas=68 | encaminhadasOpcao6=94 | erros=0",
+    "tempoTotalMs" : 58218,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 114,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T15:55:53.220111700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0080: War in the Pocket - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=51 | semResposta=10 | descartadas=41 | encaminhadasOpcao6=31 | erros=0",
+    "tempoTotalMs" : 22959,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 53,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-18T15:57:03.308644Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0083: Stardust Memory - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=329 | semResposta=189 | descartadas=140 | encaminhadasOpcao6=115 | erros=0",
+    "tempoTotalMs" : 186535,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 330,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T16:01:12.186686300Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr | promptRevisaoLore=Guilty Crown - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=221 | semResposta=19 | descartadas=202 | encaminhadasOpcao6=253 | erros=0",
+    "tempoTotalMs" : 86783,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 224,
+    "itensCorrigidos" : 18,
+    "registradoEm" : "2026-08-18T16:03:37.757337800Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam Unicorn - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=412 | semResposta=237 | descartadas=175 | encaminhadasOpcao6=136 | erros=0",
+    "tempoTotalMs" : 219071,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 414,
+    "itensCorrigidos" : 38,
+    "registradoEm" : "2026-08-18T16:08:15.378935500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=114 | semResposta=48 | descartadas=66 | encaminhadasOpcao6=94 | erros=0",
+    "tempoTotalMs" : 55009,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 114,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T16:21:52.750013500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0080: War in the Pocket - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=51 | semResposta=11 | descartadas=40 | encaminhadasOpcao6=32 | erros=0",
+    "tempoTotalMs" : 22042,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 51,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T16:23:05.099644Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0083: Stardust Memory - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=329 | semResposta=188 | descartadas=141 | encaminhadasOpcao6=115 | erros=0",
+    "tempoTotalMs" : 175815,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 329,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T16:27:04.183969500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr | promptRevisaoLore=Guilty Crown - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=221 | semResposta=17 | descartadas=204 | encaminhadasOpcao6=253 | erros=0",
+    "tempoTotalMs" : 78995,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 220,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T16:29:12.682921500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam Unicorn - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=413 | semResposta=241 | descartadas=172 | encaminhadasOpcao6=138 | erros=0",
+    "tempoTotalMs" : 215759,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 411,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T16:33:54.787382300Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr | promptRevisaoLore=Mobile Suit Zeta Gundam - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=827 | semResposta=427 | descartadas=400 | encaminhadasOpcao6=635 | erros=0",
+    "tempoTotalMs" : 406636,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 847,
+    "itensCorrigidos" : 20,
+    "registradoEm" : "2026-08-18T16:41:31.029928500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam ZZ - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=574 | semResposta=241 | descartadas=333 | encaminhadasOpcao6=531 | erros=0",
+    "tempoTotalMs" : 272719,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 581,
+    "itensCorrigidos" : 7,
+    "registradoEm" : "2026-08-18T16:47:02.717112500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=89 | semResposta=36 | descartadas=53 | encaminhadasOpcao6=94 | erros=0",
+    "tempoTotalMs" : 45936,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 89,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-08-18T19:09:11.984125200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0080: War in the Pocket - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=43 | semResposta=11 | descartadas=32 | encaminhadasOpcao6=32 | erros=0",
+    "tempoTotalMs" : 19892,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 43,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T19:10:31.270211300Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0083: Stardust Memory - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=218 | semResposta=118 | descartadas=100 | encaminhadasOpcao6=115 | erros=0",
+    "tempoTotalMs" : 109771,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 218,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T19:13:26.445447200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr | promptRevisaoLore=Guilty Crown - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=183 | semResposta=17 | descartadas=166 | encaminhadasOpcao6=253 | erros=0",
+    "tempoTotalMs" : 66310,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 182,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T19:15:28.314405900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam Unicorn - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=320 | semResposta=183 | descartadas=137 | encaminhadasOpcao6=138 | erros=0",
+    "tempoTotalMs" : 171194,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 320,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-18T19:19:18.519237900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr | promptRevisaoLore=Mobile Suit Zeta Gundam - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=826 | semResposta=427 | descartadas=399 | encaminhadasOpcao6=637 | erros=0",
+    "tempoTotalMs" : 426618,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 827,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T19:27:22.144930100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=84 | semResposta=36 | descartadas=48 | encaminhadasOpcao6=95 | erros=0",
+    "tempoTotalMs" : 39644,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 84,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T19:56:48.561887Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0080: War in the Pocket - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=43 | semResposta=10 | descartadas=33 | encaminhadasOpcao6=32 | erros=0",
+    "tempoTotalMs" : 18671,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 43,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T19:58:12.894582Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0083: Stardust Memory - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=197 | semResposta=112 | descartadas=85 | encaminhadasOpcao6=115 | erros=0",
+    "tempoTotalMs" : 99948,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 197,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T20:00:39.451617300Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr | promptRevisaoLore=Guilty Crown - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=181 | semResposta=17 | descartadas=164 | encaminhadasOpcao6=253 | erros=0",
+    "tempoTotalMs" : 63046,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 180,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T20:02:47.831799100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam Unicorn - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=290 | semResposta=181 | descartadas=109 | encaminhadasOpcao6=138 | erros=0",
+    "tempoTotalMs" : 154488,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 290,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T20:06:24.558407200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr | promptRevisaoLore=Mobile Suit Zeta Gundam - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=631 | semResposta=380 | descartadas=251 | encaminhadasOpcao6=638 | erros=0",
+    "tempoTotalMs" : 334413,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 632,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T20:12:49.823434400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam ZZ - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=511 | semResposta=209 | descartadas=302 | encaminhadasOpcao6=531 | erros=0",
+    "tempoTotalMs" : 227531,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 513,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-18T20:17:28.255656200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr | promptRevisaoLore=Guilty Crown - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=181 | semResposta=16 | descartadas=165 | encaminhadasOpcao6=253 | erros=0",
+    "tempoTotalMs" : 64671,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 180,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T20:37:15.536564900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=27 | semResposta=11 | descartadas=16 | encaminhadasOpcao6=95 | erros=0",
+    "tempoTotalMs" : 15265,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 28,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T21:49:32.941365Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0080: War in the Pocket - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=10 | semResposta=3 | descartadas=7 | encaminhadasOpcao6=32 | erros=0",
+    "tempoTotalMs" : 6331,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 10,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T21:50:29.282536900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=39 | semResposta=15 | descartadas=24 | encaminhadasOpcao6=96 | erros=0",
+    "tempoTotalMs" : 20291,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 39,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:07:32.676269700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0080: War in the Pocket - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=21 | semResposta=5 | descartadas=16 | encaminhadasOpcao6=32 | erros=0",
+    "tempoTotalMs" : 10408,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 21,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:08:48.106760Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0083: Stardust Memory - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=179 | semResposta=91 | descartadas=88 | encaminhadasOpcao6=115 | erros=0",
+    "tempoTotalMs" : 86770,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 180,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T22:11:09.747756400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr | promptRevisaoLore=Guilty Crown - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=84 | semResposta=12 | descartadas=72 | encaminhadasOpcao6=253 | erros=0",
+    "tempoTotalMs" : 32472,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 83,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:12:40.700693100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam Unicorn - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=199 | semResposta=121 | descartadas=78 | encaminhadasOpcao6=138 | erros=0",
+    "tempoTotalMs" : 107227,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 199,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:15:20.735406500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr | promptRevisaoLore=Mobile Suit Zeta Gundam - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=495 | semResposta=243 | descartadas=252 | encaminhadasOpcao6=638 | erros=0",
+    "tempoTotalMs" : 247045,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 496,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-18T22:20:25.849118900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam: The 08th MS Team - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=39 | semResposta=16 | descartadas=23 | encaminhadasOpcao6=96 | erros=0",
+    "tempoTotalMs" : 20159,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 39,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:28:39.512860700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0080: War in the Pocket - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=21 | semResposta=5 | descartadas=16 | encaminhadasOpcao6=32 | erros=0",
+    "tempoTotalMs" : 9655,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 21,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:29:54.269041700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam 0083: Stardust Memory - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=158 | semResposta=83 | descartadas=75 | encaminhadasOpcao6=115 | erros=0",
+    "tempoTotalMs" : 75351,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 158,
+    "itensCorrigidos" : 21,
+    "registradoEm" : "2026-08-18T22:32:05.207422Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr | promptRevisaoLore=Guilty Crown - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=84 | semResposta=12 | descartadas=72 | encaminhadasOpcao6=253 | erros=0",
+    "tempoTotalMs" : 28822,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 83,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:33:23.955773400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Gundam Unicorn Season 1/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam Unicorn - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=199 | semResposta=119 | descartadas=80 | encaminhadasOpcao6=138 | erros=0",
+    "tempoTotalMs" : 105874,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 199,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:36:06.283221800Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Zeta Gundam/traducao_ptbr | promptRevisaoLore=Mobile Suit Zeta Gundam - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=494 | semResposta=244 | descartadas=250 | encaminhadasOpcao6=638 | erros=0",
+    "tempoTotalMs" : 232807,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 496,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-18T22:40:58.513772700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "detalhe" : "Mobile Suit Gundam ZZ/traducao_ptbr | promptRevisaoLore=Mobile Suit Gundam ZZ - Revisao de Lore | status=CONCLUIDO_COM_PENDENCIAS | pendentes=246 | semResposta=92 | descartadas=154 | encaminhadasOpcao6=531 | erros=0",
+    "tempoTotalMs" : 112681,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 246,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:43:43.680502700Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: traducao_ptbr (simulado)",
+    "tempoTotalMs" : 280,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T23:53:09.784170100Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: traducao_ptbr (simulado)",
+    "tempoTotalMs" : 263,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-19T00:02:01.676702900Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "detalhe" : "Pasta: traducao_ptbr (simulado)",
+    "tempoTotalMs" : 309,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-19T00:39:37.674288400Z"
+  }, {
     "tipo" : "Revisão Concordância (.ass LLM)",
     "detalhe" : "Gundam Narrative NT/legendas pt",
     "tempoTotalMs" : 7969,

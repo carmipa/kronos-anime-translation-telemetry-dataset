@@ -1,7 +1,7 @@
 {
   "dataset" : "kronos-anime-translation-telemetry-dataset",
   "versaoFormato" : 2,
-  "geradoEm" : "2026-08-17T23:51:33.962597600Z",
+  "geradoEm" : "2026-08-19T01:16:14.238364600Z",
   "descricao" : "Métricas operacionais de tradução de legendas de anime com LLM 100% local (LM Studio). Sem textos de legenda e sem caminhos de máquina — apenas métricas.",
   "ambienteExecucao" : {
     "fabricante" : "Avell",
@@ -24,7 +24,7 @@
     "falhasTraducaoRecuperadas" : 14440,
     "fallbacksTraducaoMantidos" : 5818,
     "arquivosRenomeados" : 63,
-    "totalOperacoesRegistradas" : 282
+    "totalOperacoesRegistradas" : 344
   },
   "traducoesLlm" : [ {
     "episodio" : "Mobile.Suit.Gundam.The.08th.MS.Team.S00E02_Track2.ass",
@@ -6401,5 +6401,439 @@
     "itensDetectados" : 265,
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-17T23:36:18.352345200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 118383,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 265,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:54:06.338257Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 139199,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 397,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:57:16.218534Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 39293,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 85,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-17T23:59:01.455735600Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 330836,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 651,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T00:05:15.735097400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 324696,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 651,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T00:33:27.384511700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 347180,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 681,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T00:39:55.480475700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 821918,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 1932,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T01:09:41.873112700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 488095,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 1171,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T01:26:37.763619200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 261522,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 470,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T02:37:38.704661900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 91279,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 173,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T11:16:19.855363700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 217167,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 413,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T11:20:36.511606900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 556457,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 1169,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T11:29:56.161178100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 365107,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 868,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T11:36:05.484320500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 34639,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 85,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T11:36:55.544433400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 127014,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 383,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T12:31:19.906280800Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 39603,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 85,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T12:33:12.881974Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 289146,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 570,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T12:39:16.999288700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 95667,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 173,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T14:12:06.035658Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 58218,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 114,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T15:55:53.220111700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 22959,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 53,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-18T15:57:03.308644Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 186535,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 330,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T16:01:12.186686300Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 86783,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 224,
+    "itensCorrigidos" : 18,
+    "registradoEm" : "2026-08-18T16:03:37.757337800Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 219071,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 414,
+    "itensCorrigidos" : 38,
+    "registradoEm" : "2026-08-18T16:08:15.378935500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 55009,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 114,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T16:21:52.750013500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 22042,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 51,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T16:23:05.099644Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 175815,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 329,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T16:27:04.183969500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 78995,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 220,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T16:29:12.682921500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 215759,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 411,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T16:33:54.787382300Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 406636,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 847,
+    "itensCorrigidos" : 20,
+    "registradoEm" : "2026-08-18T16:41:31.029928500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 272719,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 581,
+    "itensCorrigidos" : 7,
+    "registradoEm" : "2026-08-18T16:47:02.717112500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 45936,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 89,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-08-18T19:09:11.984125200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 19892,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 43,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T19:10:31.270211300Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 109771,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 218,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T19:13:26.445447200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 66310,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 182,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T19:15:28.314405900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 171194,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 320,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-18T19:19:18.519237900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 426618,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 827,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T19:27:22.144930100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 39644,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 84,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T19:56:48.561887Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 18671,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 43,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T19:58:12.894582Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 99948,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 197,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T20:00:39.451617300Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 63046,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 180,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T20:02:47.831799100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 154488,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 290,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T20:06:24.558407200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 334413,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 632,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T20:12:49.823434400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 227531,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 513,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-18T20:17:28.255656200Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 64671,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 180,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T20:37:15.536564900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 15265,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 28,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T21:49:32.941365Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 6331,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 10,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T21:50:29.282536900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 20291,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 39,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:07:32.676269700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 10408,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 21,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:08:48.106760Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 86770,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 180,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T22:11:09.747756400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 32472,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 83,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:12:40.700693100Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 107227,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 199,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:15:20.735406500Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 247045,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 496,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-18T22:20:25.849118900Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 20159,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 39,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:28:39.512860700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 9655,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 21,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:29:54.269041700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 75351,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 158,
+    "itensCorrigidos" : 21,
+    "registradoEm" : "2026-08-18T22:32:05.207422Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 28822,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 83,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:33:23.955773400Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 105874,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 199,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:36:06.283221800Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 232807,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 496,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-08-18T22:40:58.513772700Z"
+  }, {
+    "tipo" : "Revisao de Lore (.ass LLM)",
+    "tempoTotalMs" : 112681,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 246,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-18T22:43:43.680502700Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "tempoTotalMs" : 280,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-18T23:53:09.784170100Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "tempoTotalMs" : 263,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-19T00:02:01.676702900Z"
+  }, {
+    "tipo" : "Revisão de Concordância",
+    "tempoTotalMs" : 309,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-08-19T00:39:37.674288400Z"
   } ]
 }
