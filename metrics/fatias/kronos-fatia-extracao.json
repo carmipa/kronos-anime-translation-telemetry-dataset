@@ -3,118 +3,6 @@
   "schemaVersion" : "1.0",
   "operacoes" : [ {
     "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "zeta- double zeta/Mobile Suit Zeta Gundam | ASS | faixas: 50, extraídas: 50, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 31622,
-    "arquivosProcessados" : 50,
-    "itensDetectados" : 50,
-    "itensCorrigidos" : 50,
-    "registradoEm" : "2026-07-26T12:22:11.661472500Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "Mobile Suit Gundam Unicorn Re0096 (2016) [Season 1] [BD 1080p HEVC OPUS] [Dual-Audio]/texte | ASS | faixas: 2, extraídas: 1, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 11033,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-29T12:29:52.814446100Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "Mobile Suit Gundam Unicorn Re0096 (2016) [Season 1] [BD 1080p HEVC OPUS] [Dual-Audio]/Season 1 | ASS | faixas: 44, extraídas: 22, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 10178,
-    "arquivosProcessados" : 22,
-    "itensDetectados" : 44,
-    "itensCorrigidos" : 22,
-    "registradoEm" : "2026-07-29T12:46:57.748717800Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "animes/[Joseki] Mobile Suit Gundam Char's Counterattack (1988)(BD AV1 Opus)[Eng Sub] | ASS | faixas: 1, extraídas: 1, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 2300,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-30T12:19:24.585227800Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "animes/[Joseki] Mobile Suit Gundam F91 (1991)(BD AV1 1080p Opus)[Eng Sub] | ASS | faixas: 1, extraídas: 1, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 1041,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 1,
-    "registradoEm" : "2026-07-30T14:54:11.811110800Z"
-  }, {
-    "tipo" : "Analise de Midia",
-    "detalhe" : "Analisados: 1 | Falhas: 0",
-    "tempoTotalMs" : 0,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-30T14:55:07.561476400Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "animes/Memories | ASS | faixas: 2, extraídas: 0, sem faixa: 1, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 3591,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-31T16:02:23.610166400Z"
-  }, {
-    "tipo" : "Analise de Midia",
-    "detalhe" : "Analisados: 1 | Falhas: 0",
-    "tempoTotalMs" : 0,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-31T16:24:22.317713100Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "animes/[P9] Mobile Police Patlabor - Early Days (BD 1080p HEVC FLAC) [Dual-Audio] | ASS | faixas: 14, extraídas: 7, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 13101,
-    "arquivosProcessados" : 7,
-    "itensDetectados" : 14,
-    "itensCorrigidos" : 7,
-    "registradoEm" : "2026-07-31T16:26:06.807378100Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "animes/Memories (1995) | ASS | faixas: 6, extraídas: 3, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 10556,
-    "arquivosProcessados" : 3,
-    "itensDetectados" : 6,
-    "itensCorrigidos" : 3,
-    "registradoEm" : "2026-08-03T00:21:13.888926300Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "86/86 Part 1 | ASS | faixas: 97, extraídas: 23, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 12918,
-    "arquivosProcessados" : 23,
-    "itensDetectados" : 97,
-    "itensCorrigidos" : 23,
-    "registradoEm" : "2026-08-05T04:30:29.010884100Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "animes/[Lulu] Break Blade Movies [BD 1080p Hi10 FLAC][Dual-Audio] | ASS | faixas: 12, extraídas: 6, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 12189,
-    "arquivosProcessados" : 6,
-    "itensDetectados" : 12,
-    "itensCorrigidos" : 6,
-    "registradoEm" : "2026-08-06T03:47:57.536925600Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "animes/[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng] | ASS | faixas: 6, extraídas: 6, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 6785,
-    "arquivosProcessados" : 6,
-    "itensDetectados" : 6,
-    "itensCorrigidos" : 6,
-    "registradoEm" : "2026-08-06T11:45:03.030622500Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
-    "detalhe" : "animes/[Lulu] Break Blade Movies [BD 1080p Hi10 FLAC][Dual-Audio] | ASS | faixas: 12, extraídas: 6, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
-    "tempoTotalMs" : 14953,
-    "arquivosProcessados" : 6,
-    "itensDetectados" : 12,
-    "itensCorrigidos" : 6,
-    "registradoEm" : "2026-08-06T17:34:43.002689600Z"
-  }, {
-    "tipo" : "Extracao de Legendas (ASS)",
     "detalhe" : "animes/[Sokudo] DanMachi | ASS | faixas: 217, extraídas: 127, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
     "tempoTotalMs" : 74433,
     "arquivosProcessados" : 127,
@@ -249,6 +137,110 @@
     "itensDetectados" : 45,
     "itensCorrigidos" : 23,
     "registradoEm" : "2026-08-16T11:49:57.115583200Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/Macross II (BDRip 1440x1080p x265 HEVC FLACx2 2.0x2)[sxales](v2) | ASS | faixas: 6, extraídas: 6, sem faixa: 7, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 13106,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 6,
+    "itensCorrigidos" : 6,
+    "registradoEm" : "2026-08-21T17:14:34.047313200Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "detalhe" : "status=CONCLUIDO; videos=animes/[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]; legendas=[Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr; syncMs=0; preservarOriginais=true; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=9489308508",
+    "tempoTotalMs" : 33111,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 22,
+    "registradoEm" : "2026-08-23T01:21:40.335067Z"
+  }, {
+    "tipo" : "Remux (mkvmerge)",
+    "detalhe" : "status=CONCLUIDO_COM_PENDENCIAS; videos=animes/Macross II (BDRip 1440x1080p x265 HEVC FLACx2 2.0x2)[sxales](v2); legendas=Macross II (BDRip 1440x1080p x265 HEVC FLACx2 2.0x2)[sxales](v2)/traducao_ptbr-karaoke-ptbr; syncMs=0; preservarOriginais=true; semLegenda=7; ambiguos=0; existentes=0; falhas=0; bytes=5040647495",
+    "tempoTotalMs" : 15418,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 6,
+    "itensCorrigidos" : 6,
+    "registradoEm" : "2026-08-23T01:22:52.901920100Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "zeta- double zeta/Mobile Suit Zeta Gundam | ASS | faixas: 50, extraídas: 50, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 31622,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-07-26T12:22:11.661472500Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "Mobile Suit Gundam Unicorn Re0096 (2016) [Season 1] [BD 1080p HEVC OPUS] [Dual-Audio]/texte | ASS | faixas: 2, extraídas: 1, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 11033,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-29T12:29:52.814446100Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "Mobile Suit Gundam Unicorn Re0096 (2016) [Season 1] [BD 1080p HEVC OPUS] [Dual-Audio]/Season 1 | ASS | faixas: 44, extraídas: 22, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 10178,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 44,
+    "itensCorrigidos" : 22,
+    "registradoEm" : "2026-07-29T12:46:57.748717800Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/[Joseki] Mobile Suit Gundam Char's Counterattack (1988)(BD AV1 Opus)[Eng Sub] | ASS | faixas: 1, extraídas: 1, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 2300,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-30T12:19:24.585227800Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/[Joseki] Mobile Suit Gundam F91 (1991)(BD AV1 1080p Opus)[Eng Sub] | ASS | faixas: 1, extraídas: 1, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 1041,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-07-30T14:54:11.811110800Z"
+  }, {
+    "tipo" : "Analise de Midia",
+    "detalhe" : "Analisados: 1 | Falhas: 0",
+    "tempoTotalMs" : 0,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-30T14:55:07.561476400Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/Memories | ASS | faixas: 2, extraídas: 0, sem faixa: 1, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 3591,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T16:02:23.610166400Z"
+  }, {
+    "tipo" : "Analise de Midia",
+    "detalhe" : "Analisados: 1 | Falhas: 0",
+    "tempoTotalMs" : 0,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-31T16:24:22.317713100Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/[P9] Mobile Police Patlabor - Early Days (BD 1080p HEVC FLAC) [Dual-Audio] | ASS | faixas: 14, extraídas: 7, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 13101,
+    "arquivosProcessados" : 7,
+    "itensDetectados" : 14,
+    "itensCorrigidos" : 7,
+    "registradoEm" : "2026-07-31T16:26:06.807378100Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/Memories (1995) | ASS | faixas: 6, extraídas: 3, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 10556,
+    "arquivosProcessados" : 3,
+    "itensDetectados" : 6,
+    "itensCorrigidos" : 3,
+    "registradoEm" : "2026-08-03T00:21:13.888926300Z"
   }, {
     "tipo" : "Remux (mkvmerge)",
     "detalhe" : "status=CONCLUIDO; videos=animes/Gundam Narrative NT; legendas=Gundam Narrative NT/legendas pt; syncMs=0; preservarOriginais=false; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=1419140747",
@@ -585,6 +577,38 @@
     "itensDetectados" : 2,
     "itensCorrigidos" : 1,
     "registradoEm" : "2026-07-13T19:00:26.791759800Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "86/86 Part 1 | ASS | faixas: 97, extraídas: 23, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 12918,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 97,
+    "itensCorrigidos" : 23,
+    "registradoEm" : "2026-08-05T04:30:29.010884100Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/[Lulu] Break Blade Movies [BD 1080p Hi10 FLAC][Dual-Audio] | ASS | faixas: 12, extraídas: 6, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 12189,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 12,
+    "itensCorrigidos" : 6,
+    "registradoEm" : "2026-08-06T03:47:57.536925600Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/[Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng] | ASS | faixas: 6, extraídas: 6, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 6785,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 6,
+    "itensCorrigidos" : 6,
+    "registradoEm" : "2026-08-06T11:45:03.030622500Z"
+  }, {
+    "tipo" : "Extracao de Legendas (ASS)",
+    "detalhe" : "animes/[Lulu] Break Blade Movies [BD 1080p Hi10 FLAC][Dual-Audio] | ASS | faixas: 12, extraídas: 6, sem faixa: 0, já existiam: 0, falhas: 0, timeouts: 0",
+    "tempoTotalMs" : 14953,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 12,
+    "itensCorrigidos" : 6,
+    "registradoEm" : "2026-08-06T17:34:43.002689600Z"
   }, {
     "tipo" : "Remux (mkvmerge)",
     "detalhe" : "status=CONCLUIDO; videos=animes/Gundam Narrative NT; legendas=Gundam Narrative NT/simples-karaoke-ptbr; syncMs=0; preservarOriginais=false; semLegenda=0; ambiguos=0; existentes=0; falhas=0; bytes=1419140747",

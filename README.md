@@ -20,6 +20,7 @@ This repository is meant to expose reproducible performance and pipeline metrics
 └── metrics/
     ├── kronos-telemetria-dataset.json     # snapshot (latest state per episode)
     ├── kronos-telemetria-execucoes.jsonl  # append-only archive, one line per run
+    ├── kronos-karaoke-execucoes.jsonl     # append-only, one line per karaoke subtitle file
     ├── fatias/                            # per-module consolidated metrics
     └── csv/                               # same data, tabular
         ├── kronos-resumo.csv
@@ -27,7 +28,9 @@ This repository is meant to expose reproducible performance and pipeline metrics
         ├── kronos-traducoes-llm.csv
         ├── kronos-operacoes.csv
         ├── kronos-execucoes.csv
-        └── kronos-avisos.csv
+        ├── kronos-avisos.csv
+        ├── kronos-karaoke.csv
+        └── kronos-karaoke-avisos.csv
 ```
 
 ### CSV Files
@@ -42,6 +45,25 @@ in-memory node** — the two formats cannot drift apart.
   physical line is always one record.
 - `kronos-avisos.csv` is tidy data: **one row per warning**, joinable back to a run by
   `registradoEm` + `nomeEpisodio`.
+- `kronos-karaoke.csv` is the **song-lyric pipeline**, one row per subtitle FILE — a
+  different unit from the dialogue tables, because one karaoke run sweeps a whole folder.
+  `desfechoArquivo` has three values on purpose: `TRADUZIDO`, `FALHOU` and `NAO_ALCANCADO`
+  (the run died before reaching any file). Its own counters — `preservadasOriginalJapones`,
+  `efeitosKfxPreservados`, `acentosRepostos`, `entradasCacheDescartadas` — do not exist in
+  the dialogue schema. `kronos-karaoke-avisos.csv` is its tidy warning table, joinable by
+  `registradoEm` + `arquivo`.
+- `origemDoRegistro` diz **quais campos de uma linha de karaokê significam alguma coisa**.
+  Linha `EXECUCAO` foi medida por uma execução ao vivo e tem todos os campos preenchidos.
+  Linha `MANIFESTO_HISTORICO` foi reconstruída de manifestos de auditoria escritos antes
+  desses campos existirem, então `statusExecucao`, `estadoDicionario`, `acentosRepostos` e
+  `entradasCacheDescartadas` voltam vazios **porque nada os mediu** — não porque o valor
+  era zero. Filtre por esta coluna em vez de adivinhar.
+- `origemDoRegistro` tells you **which fields of a karaoke row mean anything**.
+  `EXECUCAO` rows were measured by a live run and every field is populated.
+  `MANIFESTO_HISTORICO` rows were rebuilt from audit manifests written before those
+  fields existed, so `statusExecucao`, `estadoDicionario`, `acentosRepostos` and
+  `entradasCacheDescartadas` come back empty **because nothing measured them** — not
+  because the value was zero. Filter on this column instead of guessing.
 
 Opening in Excel: import as UTF-8 / comma-separated instead of double-clicking, otherwise
 accented characters and comma-bearing titles are misread.
@@ -92,6 +114,8 @@ Per-episode LLM translation metrics.
 | `modeloLlm` | Local model id reported by LM Studio |
 | `totalLinhas` / `falasTraduzidas` / `falasDoCache` | Workload and translation source |
 | `tempoTotalMs` | Total episode translation duration |
+| `falasItalicoRemovido` | Lines whose italic was stripped by the italic rule (null = not measured) |
+| `falasItalicoPreservado` | Lines the rule ABSTAINED from: italic inherited from the `Style:` header |
 | `quantidadeAvisos` | Count of quality warnings, without warning text |
 | `registradoEm` | UTC ISO-8601 timestamp |
 
@@ -105,7 +129,7 @@ This covers remuxing, subtitle extraction, lore/review steps, karaoke processing
 
 This dataset does not publish local machine paths, usernames, hostnames, IP addresses, MAC addresses, serial numbers, device identifiers, credentials, tokens or API keys.
 
-**Subtitle excerpts are published, deliberately and in one place only.** Pipeline warnings in `kronos-telemetria-execucoes.jsonl` and `metrics/csv/kronos-avisos.csv` quote the subtitle line that triggered the failure — for example a line kept untranslated because the model corrupted its ASS tags. Without the line itself, the failure cannot be studied or reproduced, which is the point of publishing translation telemetry at all.
+**Subtitle excerpts are published, deliberately and only in the warning tables.** Pipeline warnings in `kronos-telemetria-execucoes.jsonl` / `metrics/csv/kronos-avisos.csv` (dialogue) and `kronos-karaoke-execucoes.jsonl` / `metrics/csv/kronos-karaoke-avisos.csv` (song lyrics) quote the subtitle line that triggered the failure — for example a line kept untranslated because the model corrupted its ASS tags. Without the line itself, the failure cannot be studied or reproduced, which is the point of publishing translation telemetry at all. The karaoke tables quote **song lyric lines** for the same reason and under the same rule: only the line that failed, never the full lyric.
 
 These are short diagnostic excerpts from fansub subtitle files, published for research into machine-translation failure modes. They are not a translated corpus and no complete subtitle file is redistributed. If you hold rights over a quoted line and want it removed, open an issue.
 
@@ -139,6 +163,7 @@ Este repositório existe para expor métricas reprodutíveis de performance e pi
 └── metrics/
     ├── kronos-telemetria-dataset.json     # foto (último estado por episódio)
     ├── kronos-telemetria-execucoes.jsonl  # acervo append-only, uma linha por execução
+    ├── kronos-karaoke-execucoes.jsonl     # append-only, uma linha por arquivo de karaokê
     ├── fatias/                            # consolidado por módulo
     └── csv/                               # os mesmos dados, em tabela
         ├── kronos-resumo.csv
@@ -146,7 +171,9 @@ Este repositório existe para expor métricas reprodutíveis de performance e pi
         ├── kronos-traducoes-llm.csv
         ├── kronos-operacoes.csv
         ├── kronos-execucoes.csv
-        └── kronos-avisos.csv
+        ├── kronos-avisos.csv
+        ├── kronos-karaoke.csv
+        └── kronos-karaoke-avisos.csv
 ```
 
 ### Arquivos CSV
@@ -161,6 +188,14 @@ memória** — os dois formatos não têm como divergir.
   uma linha física ser sempre um registro.
 - `kronos-avisos.csv` é tidy data: **uma linha por aviso**, ligada à execução por
   `registradoEm` + `nomeEpisodio`.
+- `kronos-karaoke.csv` é o pipeline de **letra de música**, uma linha por ARQUIVO de
+  legenda — unidade diferente das tabelas de diálogo, porque uma execução de karaokê varre
+  a pasta inteira. `desfechoArquivo` tem três valores de propósito: `TRADUZIDO`, `FALHOU` e
+  `NAO_ALCANCADO` (a execução morreu antes de alcançar arquivo nenhum). Os contadores
+  próprios dela — `preservadasOriginalJapones`, `efeitosKfxPreservados`, `acentosRepostos`,
+  `entradasCacheDescartadas` — não existem no schema do diálogo.
+  `kronos-karaoke-avisos.csv` é a tabela tidy de avisos dela, ligada por
+  `registradoEm` + `arquivo`.
 
 Abrindo no Excel: importe como UTF-8 / separado por vírgula em vez de dar duplo clique,
 senão acento e título com vírgula saem errados.
@@ -211,6 +246,8 @@ Métricas de tradução LLM por episódio.
 | `modeloLlm` | Modelo local usado, conforme id reportado pelo LM Studio |
 | `totalLinhas` / `falasTraduzidas` / `falasDoCache` | Volume e origem das traduções |
 | `tempoTotalMs` | Duração total da tradução do episódio |
+| `falasItalicoRemovido` | Falas de que a regra do itálico tirou a tag (null = não medido) |
+| `falasItalicoPreservado` | Falas de que a regra SE ABSTEVE: o itálico vem do `Style:` do cabeçalho |
 | `quantidadeAvisos` | Contagem de avisos de qualidade, sem texto dos avisos |
 | `registradoEm` | Timestamp UTC em ISO-8601 |
 
@@ -224,7 +261,7 @@ Cobre remux, extração de legendas, revisões de lore/concordância, karaokê, 
 
 Este dataset não publica caminhos locais da máquina, nomes de usuário, hostnames, endereços IP, endereços MAC, números de série, identificadores de dispositivo, credenciais, tokens ou chaves de API.
 
-**Trechos de legenda SÃO publicados, deliberadamente e num lugar só.** Os avisos do pipeline, em `kronos-telemetria-execucoes.jsonl` e em `metrics/csv/kronos-avisos.csv`, citam a fala que provocou a falha — por exemplo uma linha mantida sem tradução porque o modelo corrompeu as tags ASS. Sem a fala, a falha não pode ser estudada nem reproduzida, que é a razão de publicar telemetria de tradução.
+**Trechos de legenda SÃO publicados, deliberadamente e só nas tabelas de aviso.** Os avisos do pipeline, em `kronos-telemetria-execucoes.jsonl` / `metrics/csv/kronos-avisos.csv` (diálogo) e em `kronos-karaoke-execucoes.jsonl` / `metrics/csv/kronos-karaoke-avisos.csv` (letra de música), citam a fala que provocou a falha — por exemplo uma linha mantida sem tradução porque o modelo corrompeu as tags ASS. Sem a fala, a falha não pode ser estudada nem reproduzida, que é a razão de publicar telemetria de tradução. As tabelas de karaokê citam **linha de letra de música** pelo mesmo motivo e sob a mesma regra: só a linha que falhou, nunca a letra inteira.
 
 São trechos curtos de diagnóstico, vindos de legendas de fansub, publicados para pesquisa de modos de falha em tradução automática. Não constituem corpus traduzido e nenhum arquivo de legenda completo é redistribuído. Se você detém direitos sobre uma fala citada e quer removê-la, abra uma issue.
 

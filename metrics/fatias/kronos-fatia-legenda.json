@@ -3,54 +3,6 @@
   "schemaVersion" : "1.0",
   "operacoes" : [ {
     "tipo" : "Achatar Estilos Decorativos",
-    "detalhe" : "Diretório: achatar-teste; alterados=1; falas=174",
-    "tempoTotalMs" : 49,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 174,
-    "registradoEm" : "2026-07-29T15:21:44.493766900Z"
-  }, {
-    "tipo" : "Achatar Estilos Decorativos",
-    "detalhe" : "Diretório: achatar-teste2; alterados=1; falas=174",
-    "tempoTotalMs" : 30,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 174,
-    "registradoEm" : "2026-07-29T16:00:53.127550900Z"
-  }, {
-    "tipo" : "Achatar Estilos Decorativos",
-    "detalhe" : "Diretório: achatar-teste3; alterados=1; falas=36",
-    "tempoTotalMs" : 31,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 1,
-    "itensCorrigidos" : 36,
-    "registradoEm" : "2026-07-29T16:04:20.001983700Z"
-  }, {
-    "tipo" : "Achatar Estilos Decorativos",
-    "detalhe" : "Diretório: legendas_ptbr; alterados=22; falas=6517",
-    "tempoTotalMs" : 892,
-    "arquivosProcessados" : 22,
-    "itensDetectados" : 22,
-    "itensCorrigidos" : 6517,
-    "registradoEm" : "2026-08-06T18:13:01.143873400Z"
-  }, {
-    "tipo" : "Achatar Estilos Decorativos",
-    "detalhe" : "Diretório: traducao_ptbr; alterados=23; falas=13232",
-    "tempoTotalMs" : 1408,
-    "arquivosProcessados" : 23,
-    "itensDetectados" : 23,
-    "itensCorrigidos" : 13232,
-    "registradoEm" : "2026-08-06T20:00:36.345979900Z"
-  }, {
-    "tipo" : "Achatar Estilos Decorativos",
-    "detalhe" : "Diretório: legendas_ptbr_corrigidas; alterados=0; falas=0",
-    "tempoTotalMs" : 29,
-    "arquivosProcessados" : 6,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-08-06T20:00:36.448763600Z"
-  }, {
-    "tipo" : "Achatar Estilos Decorativos",
     "detalhe" : "Diretório: traducao_ptbr_sem_lore; alterados=0; falas=0",
     "tempoTotalMs" : 37,
     "arquivosProcessados" : 3,
@@ -234,6 +186,30 @@
     "itensCorrigidos" : 12,
     "registradoEm" : "2026-08-16T10:01:08.905831600Z"
   }, {
+    "tipo" : "Achatar Estilos Decorativos",
+    "detalhe" : "Diretório: achatar-teste; alterados=1; falas=174",
+    "tempoTotalMs" : 49,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 174,
+    "registradoEm" : "2026-07-29T15:21:44.493766900Z"
+  }, {
+    "tipo" : "Achatar Estilos Decorativos",
+    "detalhe" : "Diretório: achatar-teste2; alterados=1; falas=174",
+    "tempoTotalMs" : 30,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 174,
+    "registradoEm" : "2026-07-29T16:00:53.127550900Z"
+  }, {
+    "tipo" : "Achatar Estilos Decorativos",
+    "detalhe" : "Diretório: achatar-teste3; alterados=1; falas=36",
+    "tempoTotalMs" : 31,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 36,
+    "registradoEm" : "2026-07-29T16:04:20.001983700Z"
+  }, {
     "tipo" : "Troca de Fontes ASS",
     "detalhe" : "Diretório: legendas pt",
     "tempoTotalMs" : 32,
@@ -345,6 +321,30 @@
     "itensDetectados" : 12,
     "itensCorrigidos" : 12,
     "registradoEm" : "2026-07-21T01:40:18.893874200Z"
+  }, {
+    "tipo" : "Achatar Estilos Decorativos",
+    "detalhe" : "Diretório: legendas_ptbr; alterados=22; falas=6517",
+    "tempoTotalMs" : 892,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 6517,
+    "registradoEm" : "2026-08-06T18:13:01.143873400Z"
+  }, {
+    "tipo" : "Achatar Estilos Decorativos",
+    "detalhe" : "Diretório: traducao_ptbr; alterados=23; falas=13232",
+    "tempoTotalMs" : 1408,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 23,
+    "itensCorrigidos" : 13232,
+    "registradoEm" : "2026-08-06T20:00:36.345979900Z"
+  }, {
+    "tipo" : "Achatar Estilos Decorativos",
+    "detalhe" : "Diretório: legendas_ptbr_corrigidas; alterados=0; falas=0",
+    "tempoTotalMs" : 29,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-06T20:00:36.448763600Z"
   }, {
     "tipo" : "Troca de Fontes ASS",
     "detalhe" : "Diretório: legendas pt",

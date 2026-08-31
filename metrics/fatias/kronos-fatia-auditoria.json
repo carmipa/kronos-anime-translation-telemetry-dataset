@@ -3,6 +3,30 @@
   "schemaVersion" : "1.0",
   "operacoes" : [ {
     "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
+    "tempoTotalMs" : 111,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-11T19:58:23.415017262Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
+    "tempoTotalMs" : 88,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-11T19:58:31.376647470Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
+    "tempoTotalMs" : 70,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-11T19:58:40.749150223Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
     "detalhe" : "traducao_ptbr/Mobile Suit Gundam Unicorn Re0096 (2016) - S01E01 - Departure 0096_Track4_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=9 | criticas=0",
     "tempoTotalMs" : 30,
     "arquivosProcessados" : 1,
@@ -194,6 +218,14 @@
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-07-30T14:54:46.423790600Z"
   }, {
+    "tipo" : "Auditoria de Conteudo (.ass)",
+    "detalhe" : "legednas -en/[2ndfire]Mobile_Suit_Gundam_Narrative[BD][1080p][AV1][10bit][981A36A1]_Track3.ass | anomalias=0 | criticas=0",
+    "tempoTotalMs" : 75,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-07-13T19:01:22.327031Z"
+  }, {
     "tipo" : "Auditoria de Conteudo de Legendas",
     "detalhe" : "traducao_ptbr/Mobile.Suit.Gundam.0080.War.in.the.Pocket.S01E01_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=25 | criticas=0",
     "tempoTotalMs" : 28,
@@ -233,37 +265,5 @@
     "itensDetectados" : 25,
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-06T13:26:41.346663600Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo de Legendas",
-    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
-    "tempoTotalMs" : 111,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-08-11T19:58:23.415017262Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo de Legendas",
-    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
-    "tempoTotalMs" : 88,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-08-11T19:58:31.376647470Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo de Legendas",
-    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
-    "tempoTotalMs" : 70,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-08-11T19:58:40.749150223Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo (.ass)",
-    "detalhe" : "legednas -en/[2ndfire]Mobile_Suit_Gundam_Narrative[BD][1080p][AV1][10bit][981A36A1]_Track3.ass | anomalias=0 | criticas=0",
-    "tempoTotalMs" : 75,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-07-13T19:01:22.327031Z"
   } ]
 }
