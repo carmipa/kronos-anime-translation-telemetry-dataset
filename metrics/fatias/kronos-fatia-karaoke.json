@@ -3,158 +3,6 @@
   "schemaVersion" : "1.0",
   "operacoes" : [ {
     "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Legendas: 86 Part 1/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 2669438,
-    "arquivosProcessados" : 25,
-    "itensDetectados" : 3283,
-    "itensCorrigidos" : 2156,
-    "registradoEm" : "2026-08-07T21:13:57.356229400Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 27516,
-    "arquivosProcessados" : 23,
-    "itensDetectados" : 22,
-    "itensCorrigidos" : 15,
-    "registradoEm" : "2026-08-07T21:16:28.782832800Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 1031,
-    "arquivosProcessados" : 23,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-08-07T23:13:38.983669200Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 1349,
-    "arquivosProcessados" : 23,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-08-07T23:14:01.191317800Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 751,
-    "arquivosProcessados" : 23,
-    "itensDetectados" : 0,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-08-07T23:16:50.512599900Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 91544,
-    "arquivosProcessados" : 3,
-    "itensDetectados" : 61,
-    "itensCorrigidos" : 23,
-    "registradoEm" : "2026-08-07T23:40:50.813078700Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 658848,
-    "arquivosProcessados" : 23,
-    "itensDetectados" : 633,
-    "itensCorrigidos" : 364,
-    "registradoEm" : "2026-08-08T00:13:08.223229400Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 1617077,
-    "arquivosProcessados" : 26,
-    "itensDetectados" : 1636,
-    "itensCorrigidos" : 344,
-    "registradoEm" : "2026-08-08T18:34:55.876256500Z"
-  }, {
-    "tipo" : "NOVO_KARAOKE",
-    "detalhe" : "KFX → legenda simples: traducao_ptbr-karaoke-ptbr → [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legenda-simplificada",
-    "tempoTotalMs" : 993,
-    "arquivosProcessados" : 26,
-    "itensDetectados" : 3400,
-    "itensCorrigidos" : 818,
-    "registradoEm" : "2026-08-08T20:30:36.758751200Z"
-  }, {
-    "tipo" : "Karaokê Simples",
-    "detalhe" : "origem=[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr; destino=[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legenda-simplificada; arquivosSemMudanca=0; estilosNaoReconhecidos=50; camadasInvertidas=0",
-    "tempoTotalMs" : 993,
-    "arquivosProcessados" : 26,
-    "itensDetectados" : 50,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-08-08T20:30:36.825534Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 1634119,
-    "arquivosProcessados" : 26,
-    "itensDetectados" : 1636,
-    "itensCorrigidos" : 378,
-    "registradoEm" : "2026-08-08T21:07:07.575479800Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Contexto: Mobile Suit Gundam: The 08th MS Team (gundam_08ms) | hash=f32106d0c6642417a20523e857f1b484f3a3eaa511c43fa550a63e523cd4dd72 | Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 398412,
-    "arquivosProcessados" : 13,
-    "itensDetectados" : 818,
-    "itensCorrigidos" : 818,
-    "registradoEm" : "2026-08-09T22:33:48.455382900Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Contexto: Mobile Suit Zeta Gundam (gundam_zeta) | hash=cc81b4ba215df0095772e9f086d9d2286acef347100cc47a13712fb762842cad | Legendas: Mobile Suit Zeta Gundam/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 23397,
-    "arquivosProcessados" : 50,
-    "itensDetectados" : 54,
-    "itensCorrigidos" : 54,
-    "registradoEm" : "2026-08-10T13:04:58.161036600Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Contexto: Mobile Suit Gundam Unicorn (gundam_unicorn) | hash=4c29e781a502990495166b66b32d7de7ab73bec0da9819871dc799138d91313c | Legendas: Gundam Unicorn Season 1/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 121577,
-    "arquivosProcessados" : 22,
-    "itensDetectados" : 396,
-    "itensCorrigidos" : 396,
-    "registradoEm" : "2026-08-13T20:33:43.735000900Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Contexto: Mobile Suit Gundam Unicorn (gundam_unicorn) | hash=4c29e781a502990495166b66b32d7de7ab73bec0da9819871dc799138d91313c | Legendas: Gundam Unicorn Season 1/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 19756,
-    "arquivosProcessados" : 22,
-    "itensDetectados" : 396,
-    "itensCorrigidos" : 396,
-    "registradoEm" : "2026-08-13T20:53:55.181656600Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Contexto: Mobile Suit Gundam Unicorn (gundam_unicorn) | hash=4c29e781a502990495166b66b32d7de7ab73bec0da9819871dc799138d91313c | Legendas: Gundam Unicorn Season 1/_teste_e01_e22_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 8179,
-    "arquivosProcessados" : 2,
-    "itensDetectados" : 30,
-    "itensCorrigidos" : 30,
-    "registradoEm" : "2026-08-13T21:55:23.265675100Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Contexto: Mobile Suit Gundam Unicorn (gundam_unicorn) | hash=4c29e781a502990495166b66b32d7de7ab73bec0da9819871dc799138d91313c | Legendas: Gundam Unicorn Season 1/_teste_e13_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 7321,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 28,
-    "itensCorrigidos" : 28,
-    "registradoEm" : "2026-08-13T22:27:41.663029100Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Contexto: 86 (Eighty-Six) (eight_six) | hash=475723eb9e180fc07a5b0fccb6cebe8473de73ab9cb6e67478438371ef1bae7e | Legendas: 86 Part 1/nova-karaoke-ptbr",
-    "tempoTotalMs" : 1628711,
-    "arquivosProcessados" : 25,
-    "itensDetectados" : 7907,
-    "itensCorrigidos" : 4918,
-    "registradoEm" : "2026-08-14T22:29:20.194298500Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
-    "detalhe" : "Contexto: 86 (Eighty-Six) (eight_six) | hash=475723eb9e180fc07a5b0fccb6cebe8473de73ab9cb6e67478438371ef1bae7e | Legendas: 86 Part 1/traducao_ptbr-karaoke-ptbr",
-    "tempoTotalMs" : 87021,
-    "arquivosProcessados" : 23,
-    "itensDetectados" : 6731,
-    "itensCorrigidos" : 6725,
-    "registradoEm" : "2026-08-15T00:34:21.591663700Z"
-  }, {
-    "tipo" : "Tradução de Karaokê (LLM)",
     "detalhe" : "[COMPLETA] Contexto: 86 (Eighty-Six) (eight_six) | hash=475723eb9e180fc07a5b0fccb6cebe8473de73ab9cb6e67478438371ef1bae7e | Legendas: 86 Part 1/traducao_ptbr-karaoke-ptbr",
     "tempoTotalMs" : 21805,
     "arquivosProcessados" : 11,
@@ -370,6 +218,1142 @@
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-23T01:25:28.524404400Z"
   }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 22863,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 34,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-09-21T13:19:23.248653500Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 9045,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 550,
+    "itensCorrigidos" : 550,
+    "registradoEm" : "2026-09-21T13:21:36.507841300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 182,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1260,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-09-21T15:55:50.515046700Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 182,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-21T15:55:51.707267200Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 129,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 30,
+    "itensCorrigidos" : 15,
+    "registradoEm" : "2026-09-21T17:00:27.413146300Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 129,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-21T17:00:27.782000200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 19158,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 34,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-09-21T21:21:01.560620200Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 44,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 185,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-09-21T21:21:05.224227100Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 44,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-21T21:21:05.293520400Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 11276,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 34,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-09-21T22:17:06.937414100Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 128,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 185,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-09-21T22:17:13.251933Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 128,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-21T22:17:13.451027700Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 11421,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 34,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-09-21T22:44:58.551325700Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 132,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 185,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-09-21T22:45:04.721550900Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 132,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-21T22:45:04.910828400Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 11143,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 34,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-09-21T23:01:27.074941300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 107,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 185,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-09-21T23:01:33.499009500Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 107,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-21T23:01:33.677072200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 11171,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 34,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-09-21T23:13:12.295044300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 149,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 185,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-09-21T23:13:18.718519700Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 149,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-21T23:13:18.930921300Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 11998,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 34,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-09-22T00:01:41.981073500Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 8435,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 185,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-09-22T00:01:55.752562100Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 8435,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-22T00:01:56.810165600Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 27876,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 72,
+    "itensCorrigidos" : 72,
+    "registradoEm" : "2026-09-24T15:41:55.530313300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 17944,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 363,
+    "itensCorrigidos" : 70,
+    "registradoEm" : "2026-09-24T15:42:45.237534100Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 17944,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 9,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T15:42:46.288055100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 10058,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 34,
+    "itensCorrigidos" : 34,
+    "registradoEm" : "2026-09-24T15:44:22.055861600Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 3482,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 550,
+    "itensCorrigidos" : 550,
+    "registradoEm" : "2026-09-24T15:46:06.060116800Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1070,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1260,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-09-24T15:46:09.585783Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1070,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T15:46:09.631752400Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 25107,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 55,
+    "itensCorrigidos" : 55,
+    "registradoEm" : "2026-09-24T15:46:46.636075600Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1320,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 103,
+    "itensCorrigidos" : 53,
+    "registradoEm" : "2026-09-24T15:46:51.924874200Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1320,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 3,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T15:46:51.975390900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 12085,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 36,
+    "itensCorrigidos" : 36,
+    "registradoEm" : "2026-09-24T15:47:08.331604900Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 20,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 86,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-09-24T15:47:12.190612900Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 20,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T15:47:12.249596400Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2685,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 363,
+    "itensCorrigidos" : 70,
+    "registradoEm" : "2026-09-24T15:51:54.471299Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2685,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T15:51:55.531279800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 17117,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 72,
+    "itensCorrigidos" : 72,
+    "registradoEm" : "2026-09-24T16:46:13.854513300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 17878,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 363,
+    "itensCorrigidos" : 70,
+    "registradoEm" : "2026-09-24T16:47:05.174303800Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 17878,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T16:47:06.224047400Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2753,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 550,
+    "itensCorrigidos" : 550,
+    "registradoEm" : "2026-09-24T16:47:22.134165100Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 50,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1260,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-09-24T16:47:25.488872500Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 50,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T16:47:25.543137800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 9031,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 55,
+    "itensCorrigidos" : 55,
+    "registradoEm" : "2026-09-24T16:47:37.324699Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1242,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 105,
+    "itensCorrigidos" : 53,
+    "registradoEm" : "2026-09-24T16:47:42.132375200Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1242,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T16:47:42.178927100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 5076,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 36,
+    "itensCorrigidos" : 36,
+    "registradoEm" : "2026-09-24T16:47:48.813166900Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 21,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 86,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-09-24T16:47:49.712898500Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 21,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T16:47:49.771817Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 14904,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 72,
+    "itensCorrigidos" : 72,
+    "registradoEm" : "2026-09-24T17:05:59.765748200Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 19065,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 363,
+    "itensCorrigidos" : 70,
+    "registradoEm" : "2026-09-24T17:06:23.161496100Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 19065,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T17:06:24.221945200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2800,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 550,
+    "itensCorrigidos" : 550,
+    "registradoEm" : "2026-09-24T17:06:30.485616400Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 58,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1260,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-09-24T17:06:33.672459800Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 58,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T17:06:33.718608500Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 9299,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 55,
+    "itensCorrigidos" : 55,
+    "registradoEm" : "2026-09-24T17:06:45.701733800Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1270,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 105,
+    "itensCorrigidos" : 53,
+    "registradoEm" : "2026-09-24T17:06:50.212124500Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1270,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T17:06:50.258346800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 5158,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 36,
+    "itensCorrigidos" : 36,
+    "registradoEm" : "2026-09-24T17:06:56.911248900Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 20,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 86,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-09-24T17:06:57.711313200Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 20,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T17:06:57.763185Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2603,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 363,
+    "itensCorrigidos" : 70,
+    "registradoEm" : "2026-09-24T17:07:48.874533900Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2603,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T17:07:49.919734900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 35710,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 72,
+    "itensCorrigidos" : 71,
+    "registradoEm" : "2026-09-24T17:30:49.295569200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 5974,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 550,
+    "itensCorrigidos" : 550,
+    "registradoEm" : "2026-09-24T17:30:58.588528300Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 23821,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 55,
+    "itensCorrigidos" : 55,
+    "registradoEm" : "2026-09-24T17:31:25.742672300Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 11460,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 36,
+    "itensCorrigidos" : 36,
+    "registradoEm" : "2026-09-24T17:31:39.197085900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1750,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 216,
+    "itensCorrigidos" : 216,
+    "registradoEm" : "2026-09-24T17:31:45.405755100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 23865,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-09-24T18:04:25.882414900Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1944,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 86,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-09-24T18:04:29.807823200Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1944,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:04:29.871627Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 44764,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 104,
+    "itensCorrigidos" : 104,
+    "registradoEm" : "2026-09-24T18:05:15.446272300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 806,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 206,
+    "itensCorrigidos" : 51,
+    "registradoEm" : "2026-09-24T18:05:20.409840500Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 806,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:05:20.451373300Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 20828,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 48,
+    "itensCorrigidos" : 48,
+    "registradoEm" : "2026-09-24T18:05:43.227737800Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1631,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 96,
+    "itensCorrigidos" : 24,
+    "registradoEm" : "2026-09-24T18:05:46.538718600Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1631,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:05:46.580339600Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 24767,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-09-24T18:20:56.780041900Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2231,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 86,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-09-24T18:21:03.387934100Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2231,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:21:03.499857Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 32728,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 104,
+    "itensCorrigidos" : 104,
+    "registradoEm" : "2026-09-24T18:21:39.016592500Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1504,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 206,
+    "itensCorrigidos" : 51,
+    "registradoEm" : "2026-09-24T18:21:43.615901200Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1504,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:21:43.674533Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 14513,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 48,
+    "itensCorrigidos" : 48,
+    "registradoEm" : "2026-09-24T18:21:59.423011300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2253,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 98,
+    "itensCorrigidos" : 27,
+    "registradoEm" : "2026-09-24T18:22:06.357023700Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2253,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:22:06.410839900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 17454,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-09-24T18:34:15.729763900Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2069,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 86,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-09-24T18:34:19.581353Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2069,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:34:19.654900100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 31945,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 104,
+    "itensCorrigidos" : 104,
+    "registradoEm" : "2026-09-24T18:34:52.270068300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 810,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 206,
+    "itensCorrigidos" : 51,
+    "registradoEm" : "2026-09-24T18:34:56.795555700Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 810,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:34:56.840034200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 16275,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 54,
+    "itensCorrigidos" : 54,
+    "registradoEm" : "2026-09-24T18:35:15.110519300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2135,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 98,
+    "itensCorrigidos" : 27,
+    "registradoEm" : "2026-09-24T18:35:20.101976200Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2135,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:35:20.166979800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 22374,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 73,
+    "itensCorrigidos" : 73,
+    "registradoEm" : "2026-09-24T18:35:43.482334900Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 18214,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 363,
+    "itensCorrigidos" : 70,
+    "registradoEm" : "2026-09-24T18:36:05.101907500Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 18214,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:36:06.161830700Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 7430,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 550,
+    "itensCorrigidos" : 550,
+    "registradoEm" : "2026-09-24T18:36:15.581073600Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1166,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1260,
+    "itensCorrigidos" : 11,
+    "registradoEm" : "2026-09-24T18:36:18.586458500Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1166,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:36:19.642510200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 23493,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 55,
+    "itensCorrigidos" : 55,
+    "registradoEm" : "2026-09-24T18:36:46.076294600Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1577,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 105,
+    "itensCorrigidos" : 53,
+    "registradoEm" : "2026-09-24T18:36:49.873978100Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1577,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:36:49.925938900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2267,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-09-24T18:36:53.392388300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 36,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 86,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-09-24T18:36:57.115325200Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 36,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T18:36:57.169573100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 17630,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 50,
+    "registradoEm" : "2026-09-24T21:14:37.147058600Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 355,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 86,
+    "itensCorrigidos" : 25,
+    "registradoEm" : "2026-09-24T21:14:39.332284300Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 355,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T21:14:40.002084200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 15992,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 54,
+    "itensCorrigidos" : 54,
+    "registradoEm" : "2026-09-24T21:14:57.893742300Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 320,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 98,
+    "itensCorrigidos" : 27,
+    "registradoEm" : "2026-09-24T21:15:01.427268600Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 320,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T21:15:01.478324800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 31082,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 104,
+    "itensCorrigidos" : 104,
+    "registradoEm" : "2026-09-24T21:15:35.046607100Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 344,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 206,
+    "itensCorrigidos" : 51,
+    "registradoEm" : "2026-09-24T21:15:40.025623900Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 344,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-09-24T21:15:40.074417600Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Mobile Suit Gundam 0080: War in the Pocket (gundam_0080) | hash=5419d66ac8b8f2d5b65115f410a4f7554267389bfba38feda9db9135b1998a96 | Legendas: [Joseki] Mobile Suit Gundam 0080 War in the Pocket COMPLETE (1989)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 39342,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 103,
+    "itensCorrigidos" : 103,
+    "registradoEm" : "2026-10-09T15:23:42.912953800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: 86 (Eighty-Six) (eight_six) | hash=43320dab189d762d56c2b28a8787069041565190a93c75a21ef872c1676d1f68 | Legendas: 86 Part 1/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 64915,
+    "arquivosProcessados" : 11,
+    "itensDetectados" : 6266,
+    "itensCorrigidos" : 6266,
+    "registradoEm" : "2026-10-09T15:25:36.237860Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: 86 (Eighty-Six) (eight_six) | hash=43320dab189d762d56c2b28a8787069041565190a93c75a21ef872c1676d1f68 | Legendas: 86 Part 2/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 22381,
+    "arquivosProcessados" : 12,
+    "itensDetectados" : 231,
+    "itensCorrigidos" : 231,
+    "registradoEm" : "2026-10-09T15:26:02.057115700Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Macross II: Lovers Again (macross_2) | hash=b73c19be6ea5b93dfb7d8cadbe122a287d6a051f48ca1bb7c9f29bbec6835187 | Legendas: Macross II (BDRip 1440x1080p x265 HEVC FLACx2 2.0x2)[sxales](v2)/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 85,
+    "arquivosProcessados" : 6,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-09T15:26:15.293978500Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Mobile Suit Gundam Unicorn (gundam_unicorn) | hash=ec75111ab5f150f9069f6e260b39707cdc89f834c7476e89f8cfa0acd8c495fb | Legendas: Mobile Suit Gundam Unicorn Re0096 (2016) [Season 1] [BD 1080p HEVC OPUS] [Dual-Audio]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 228993,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 741,
+    "itensCorrigidos" : 741,
+    "registradoEm" : "2026-10-09T15:30:07.191474900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Mobile Suit Gundam ZZ (gundam_zz) | hash=d113db92a0d2898f93d0ee2c4e354e0a451fb6032b48baf8d37e79fadd2fef06 | Legendas: Mobile Suit Gundam ZZ/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 331687,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 2124,
+    "itensCorrigidos" : 2124,
+    "registradoEm" : "2026-10-09T15:35:52.165701700Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Mobile Suit Zeta Gundam (gundam_zeta) | hash=df77ecee9f6ab53347ac7458afb96128ba73b3315a1cb3aef7a8c5d242813d93 | Legendas: Mobile Suit Zeta Gundam/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 331661,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 2234,
+    "itensCorrigidos" : 2234,
+    "registradoEm" : "2026-10-09T15:41:33.148481100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Guilty Crown (guilty_crown) | hash=a35e01c560334fd9510b35b67e1ff0e9ce45a7959878adadff486a45c48324cb | Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 234495,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 683,
+    "itensCorrigidos" : 613,
+    "registradoEm" : "2026-10-09T15:45:37.628273300Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Mobile Suit Gundam 0083: Stardust Memory (gundam_0083) | hash=1591ce0165d2e6b15c63ae68781fb931068db797f8e8c4b1a132532ac5c414c8 | Legendas: [Joseki] Mobile Suit Gundam 0083 Stardust Memory COMPLETE (1991)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 162871,
+    "arquivosProcessados" : 15,
+    "itensDetectados" : 823,
+    "itensCorrigidos" : 823,
+    "registradoEm" : "2026-10-09T15:48:29.275901400Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Mobile Suit Gundam: Char's Counterattack (gundam_cca) | hash=6df1a5a3139a37b756d0c63ff02efb0f3650a7126bc9e33d553cfe662312185a | Legendas: [Joseki] Mobile Suit Gundam Char's Counterattack (1988)(BD AV1 Opus)[Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 33062,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 58,
+    "itensCorrigidos" : 58,
+    "registradoEm" : "2026-10-09T15:49:05.827643900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Mobile Suit Gundam F91 (gundam_f91) | hash=fbdff5647a8075c6534d491fb1c2a042460350c527a105f237e1786aa11b5584 | Legendas: [Joseki] Mobile Suit Gundam F91 (1991)(BD AV1 1080p Opus)[Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 22766,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 53,
+    "itensCorrigidos" : 53,
+    "registradoEm" : "2026-10-09T15:49:42.139231400Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Mobile Suit Gundam: The 08th MS Team (gundam_08ms) | hash=d90e8b65d26e691cc351aa776da6fcb1f4cd7cfcc9b60dc447a8c651e0ec4cb8 | Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 155216,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 851,
+    "itensCorrigidos" : 850,
+    "registradoEm" : "2026-10-09T15:52:30.129731Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Guilty Crown (guilty_crown) | hash=a35e01c560334fd9510b35b67e1ff0e9ce45a7959878adadff486a45c48324cb | Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 81106,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 683,
+    "itensCorrigidos" : 683,
+    "registradoEm" : "2026-10-09T16:50:12.103441300Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Break Blade - Filme 1 - O Tempo do Despertar (break_blade_1) | hash=18c9b5b453929a2f5b2d4c93718891846f3d3ff16f35d5497c35076c5d7eed44 | Legendas: Break Blade 1/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 28038,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 31,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-10-10T12:58:43.264476Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Break Blade - Filme 2 - O Caminho da Separação (break_blade_2) | hash=857e12a1ba45027506bd6638c07e631cc4fc37533f0eb36bb2dadfa0c952b0fc | Legendas: Break Blade 2/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 8261,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 31,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-10-10T12:58:53.580921700Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Break Blade - Filme 3 - Cicatrizes da Lâmina do Assassino (break_blade_3) | hash=3910ecdb882ef0efe039892c196663086d6828eae684aca5e6d277ccd04eafbb | Legendas: Break Blade 3/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 8649,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 31,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-10-10T12:59:04.046462800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Break Blade - Filme 4 - A Terra da Calamidade (break_blade_4) | hash=76786e828c1f3b553253351866ccec8a358e5fe137887aa94ec1753bf46c3eba | Legendas: Break Blade 4/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 14091,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 43,
+    "itensCorrigidos" : 43,
+    "registradoEm" : "2026-10-10T12:59:19.564437100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Break Blade - Filme 5 - A Fronteira entre a Vida e a Morte (break_blade_5) | hash=8bd2f2364f988ab58125c0fabd7ebd2193a80ecc7d50df9c30b167e85b1fa515 | Legendas: Break Blade 5/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 8305,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 31,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-10-10T12:59:35.142076400Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Break Blade - Filme 6 - Fortaleza do Lamentar (break_blade_6) | hash=f2396ea3243810143f1a33b64bcc8de68ad82140f8a6f35b97a424d4ae5ab599 | Legendas: Break Blade 6/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 9613,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 28,
+    "itensCorrigidos" : 28,
+    "registradoEm" : "2026-10-10T12:59:46.519115100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Break Blade - Filme 2 - O Caminho da Separação (break_blade_2) | hash=857e12a1ba45027506bd6638c07e631cc4fc37533f0eb36bb2dadfa0c952b0fc | Legendas: Break Blade 2/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 20925,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 31,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-10-10T13:14:29.945350100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Break Blade - Filme 3 - Cicatrizes da Lâmina do Assassino (break_blade_3) | hash=3910ecdb882ef0efe039892c196663086d6828eae684aca5e6d277ccd04eafbb | Legendas: Break Blade 3/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 1753,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 31,
+    "itensCorrigidos" : 31,
+    "registradoEm" : "2026-10-10T13:14:40.887976100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Mobile Suit Gundam: The 08th MS Team (gundam_08ms) | hash=d90e8b65d26e691cc351aa776da6fcb1f4cd7cfcc9b60dc447a8c651e0ec4cb8 | Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 40092,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 89,
+    "itensCorrigidos" : 88,
+    "registradoEm" : "2026-10-14T12:15:52.038469200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Gundam: Reconguista in G IV - Love That Cries Out in Battle (gundam_greco_4) | hash=7c37acae6cd476c9c04899128f332a555fc562b6c753d5078bca4a597f6781ef | Legendas: reconsquista-4/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 39612,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 68,
+    "itensCorrigidos" : 66,
+    "registradoEm" : "2026-10-14T16:58:53.330497800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "[COMPLETA] Contexto: Gundam: Reconguista in G V - Crossing the Line (gundam_greco_5) | hash=9ed7cdde2e087eb9e3f1da02babf41eb7cee0b6ce85fab679a58e52e98ad5575 | Legendas: reconsquista-5/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 22956,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 32,
+    "itensCorrigidos" : 32,
+    "registradoEm" : "2026-10-14T17:16:16.025017100Z"
+  }, {
     "tipo" : "NOVO_KARAOKE",
     "detalhe" : "KFX → legenda simples: traducao_ptbr → [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/simplificadas",
     "tempoTotalMs" : 349,
@@ -569,6 +1553,158 @@
     "itensDetectados" : 44,
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-05T12:38:37.358936700Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: 86 Part 1/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 2669438,
+    "arquivosProcessados" : 25,
+    "itensDetectados" : 3283,
+    "itensCorrigidos" : 2156,
+    "registradoEm" : "2026-08-07T21:13:57.356229400Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 27516,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 15,
+    "registradoEm" : "2026-08-07T21:16:28.782832800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 1031,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-07T23:13:38.983669200Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 1349,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-07T23:14:01.191317800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 751,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-07T23:16:50.512599900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 91544,
+    "arquivosProcessados" : 3,
+    "itensDetectados" : 61,
+    "itensCorrigidos" : 23,
+    "registradoEm" : "2026-08-07T23:40:50.813078700Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Anime Time] Guilty Crown + OVA [BD][Dual Audio][1080p][HEVC 10bit x265][Opus][Eng Sub]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 658848,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 633,
+    "itensCorrigidos" : 364,
+    "registradoEm" : "2026-08-08T00:13:08.223229400Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 1617077,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 1636,
+    "itensCorrigidos" : 344,
+    "registradoEm" : "2026-08-08T18:34:55.876256500Z"
+  }, {
+    "tipo" : "NOVO_KARAOKE",
+    "detalhe" : "KFX → legenda simples: traducao_ptbr-karaoke-ptbr → [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legenda-simplificada",
+    "tempoTotalMs" : 993,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 3400,
+    "itensCorrigidos" : 818,
+    "registradoEm" : "2026-08-08T20:30:36.758751200Z"
+  }, {
+    "tipo" : "Karaokê Simples",
+    "detalhe" : "origem=[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr; destino=[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legenda-simplificada; arquivosSemMudanca=0; estilosNaoReconhecidos=50; camadasInvertidas=0",
+    "tempoTotalMs" : 993,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 50,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-08T20:30:36.825534Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 1634119,
+    "arquivosProcessados" : 26,
+    "itensDetectados" : 1636,
+    "itensCorrigidos" : 378,
+    "registradoEm" : "2026-08-08T21:07:07.575479800Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Contexto: Mobile Suit Gundam: The 08th MS Team (gundam_08ms) | hash=f32106d0c6642417a20523e857f1b484f3a3eaa511c43fa550a63e523cd4dd72 | Legendas: [Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 398412,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 818,
+    "itensCorrigidos" : 818,
+    "registradoEm" : "2026-08-09T22:33:48.455382900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Contexto: Mobile Suit Zeta Gundam (gundam_zeta) | hash=cc81b4ba215df0095772e9f086d9d2286acef347100cc47a13712fb762842cad | Legendas: Mobile Suit Zeta Gundam/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 23397,
+    "arquivosProcessados" : 50,
+    "itensDetectados" : 54,
+    "itensCorrigidos" : 54,
+    "registradoEm" : "2026-08-10T13:04:58.161036600Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Contexto: Mobile Suit Gundam Unicorn (gundam_unicorn) | hash=4c29e781a502990495166b66b32d7de7ab73bec0da9819871dc799138d91313c | Legendas: Gundam Unicorn Season 1/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 121577,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 396,
+    "itensCorrigidos" : 396,
+    "registradoEm" : "2026-08-13T20:33:43.735000900Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Contexto: Mobile Suit Gundam Unicorn (gundam_unicorn) | hash=4c29e781a502990495166b66b32d7de7ab73bec0da9819871dc799138d91313c | Legendas: Gundam Unicorn Season 1/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 19756,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 396,
+    "itensCorrigidos" : 396,
+    "registradoEm" : "2026-08-13T20:53:55.181656600Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Contexto: Mobile Suit Gundam Unicorn (gundam_unicorn) | hash=4c29e781a502990495166b66b32d7de7ab73bec0da9819871dc799138d91313c | Legendas: Gundam Unicorn Season 1/_teste_e01_e22_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 8179,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 30,
+    "itensCorrigidos" : 30,
+    "registradoEm" : "2026-08-13T21:55:23.265675100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Contexto: Mobile Suit Gundam Unicorn (gundam_unicorn) | hash=4c29e781a502990495166b66b32d7de7ab73bec0da9819871dc799138d91313c | Legendas: Gundam Unicorn Season 1/_teste_e13_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 7321,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 28,
+    "itensCorrigidos" : 28,
+    "registradoEm" : "2026-08-13T22:27:41.663029100Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Contexto: 86 (Eighty-Six) (eight_six) | hash=475723eb9e180fc07a5b0fccb6cebe8473de73ab9cb6e67478438371ef1bae7e | Legendas: 86 Part 1/nova-karaoke-ptbr",
+    "tempoTotalMs" : 1628711,
+    "arquivosProcessados" : 25,
+    "itensDetectados" : 7907,
+    "itensCorrigidos" : 4918,
+    "registradoEm" : "2026-08-14T22:29:20.194298500Z"
+  }, {
+    "tipo" : "Tradução de Karaokê (LLM)",
+    "detalhe" : "Contexto: 86 (Eighty-Six) (eight_six) | hash=475723eb9e180fc07a5b0fccb6cebe8473de73ab9cb6e67478438371ef1bae7e | Legendas: 86 Part 1/traducao_ptbr-karaoke-ptbr",
+    "tempoTotalMs" : 87021,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 6731,
+    "itensCorrigidos" : 6725,
+    "registradoEm" : "2026-08-15T00:34:21.591663700Z"
   }, {
     "tipo" : "NOVO_KARAOKE",
     "detalhe" : "KFX → legenda simples: legendas pt → Gundam Narrative NT/simples",

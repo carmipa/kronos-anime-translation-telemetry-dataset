@@ -2,6 +2,30 @@
   "fatia" : "outros",
   "schemaVersion" : "1.0",
   "operacoes" : [ {
+    "tipo" : "Reverter Renomeação",
+    "detalhe" : "status=CONCLUIDO; conflitos=0; ignorados=0; pendentes=0",
+    "tempoTotalMs" : 56,
+    "arquivosProcessados" : 47,
+    "itensDetectados" : 47,
+    "itensCorrigidos" : 47,
+    "registradoEm" : "2026-10-08T20:17:45.236618100Z"
+  }, {
+    "tipo" : "Reverter Renomeação",
+    "detalhe" : "status=CONCLUIDO; conflitos=0; ignorados=0; pendentes=0",
+    "tempoTotalMs" : 21,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 13,
+    "registradoEm" : "2026-10-08T20:17:47.456837600Z"
+  }, {
+    "tipo" : "Reverter Renomeação",
+    "detalhe" : "status=CONCLUIDO; conflitos=0; ignorados=0; pendentes=0",
+    "tempoTotalMs" : 9,
+    "arquivosProcessados" : 13,
+    "itensDetectados" : 13,
+    "itensCorrigidos" : 13,
+    "registradoEm" : "2026-10-08T20:17:48.142404800Z"
+  }, {
     "tipo" : "Karaokê Simples (simulação)",
     "detalhe" : "origem=[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/traducao_ptbr-karaoke-ptbr; destino=[Joseki] Mobile Suit Gundam The 08th MS Team COMPLETE (1996)(BD AV1 1080p Opus)[Sub Eng]/legenda-simplificada; arquivosSemMudanca=0; estilosNaoReconhecidos=50; camadasInvertidas=0",
     "tempoTotalMs" : 1804,
@@ -9,5 +33,125 @@
     "itensDetectados" : 50,
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-08T20:30:32.208283100Z"
+  }, {
+    "tipo" : "Extracao de Legendas (SRT)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1572,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-10-08T15:44:21.331684600Z"
+  }, {
+    "tipo" : "Extracao de Legendas (SRT)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 189,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:44:43.969983400Z"
+  }, {
+    "tipo" : "Reverter Renomeação",
+    "detalhe" : "status=CONCLUIDO; conflitos=0; ignorados=0; pendentes=0",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 2,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 2,
+    "registradoEm" : "2026-10-08T15:50:34.582556700Z"
+  }, {
+    "tipo" : "Reverter Renomeação",
+    "detalhe" : "status=CONCLUIDO; conflitos=0; ignorados=0; pendentes=0",
+    "tempoTotalMs" : 4,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-10-08T17:54:37.746573600Z"
+  }, {
+    "tipo" : "Reverter Renomeação",
+    "detalhe" : "status=CONCLUIDO; conflitos=0; ignorados=0; pendentes=0",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-10-08T17:54:37.755502Z"
+  }, {
+    "tipo" : "Extracao de Legendas (SRT)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 230,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-10-08T17:54:38.588102400Z"
+  }, {
+    "tipo" : "Extracao de Legendas (SRT)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 170,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T17:54:46.143804300Z"
+  }, {
+    "tipo" : "Extracao de Legendas (SRT)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 130,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T17:54:52.198178700Z"
+  }, {
+    "tipo" : "Extracao de Legendas (SRT)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2533,
+    "arquivosProcessados" : 22,
+    "itensDetectados" : 42,
+    "itensCorrigidos" : 21,
+    "registradoEm" : "2026-10-08T17:54:57.212203900Z"
+  }, {
+    "tipo" : "Reverter Renomeação",
+    "detalhe" : "status=CONCLUIDO; conflitos=0; ignorados=0; pendentes=0",
+    "tempoTotalMs" : 5,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-10-08T18:07:23.510075Z"
+  }, {
+    "tipo" : "Reverter Renomeação",
+    "detalhe" : "status=CONCLUIDO; conflitos=0; ignorados=0; pendentes=0",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-10-08T18:07:23.536905300Z"
+  }, {
+    "tipo" : "Extracao de Legendas (SRT)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 195,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 1,
+    "registradoEm" : "2026-10-08T18:07:24.319279500Z"
+  }, {
+    "tipo" : "Extracao de Legendas (SRT)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 175,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T18:07:31.932463500Z"
+  }, {
+    "tipo" : "Extracao de Legendas (SRT)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 121,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T18:07:38.011801800Z"
+  }, {
+    "tipo" : "Extracao de Legendas (SRT)",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2541,
+    "arquivosProcessados" : 23,
+    "itensDetectados" : 44,
+    "itensCorrigidos" : 22,
+    "registradoEm" : "2026-10-08T18:07:43.069236500Z"
   } ]
 }

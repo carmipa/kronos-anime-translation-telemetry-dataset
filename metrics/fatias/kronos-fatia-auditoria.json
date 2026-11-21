@@ -3,30 +3,6 @@
   "schemaVersion" : "1.0",
   "operacoes" : [ {
     "tipo" : "Auditoria de Conteudo de Legendas",
-    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
-    "tempoTotalMs" : 111,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-08-11T19:58:23.415017262Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo de Legendas",
-    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
-    "tempoTotalMs" : 88,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-08-11T19:58:31.376647470Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo de Legendas",
-    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
-    "tempoTotalMs" : 70,
-    "arquivosProcessados" : 1,
-    "itensDetectados" : 2,
-    "itensCorrigidos" : 0,
-    "registradoEm" : "2026-08-11T19:58:40.749150223Z"
-  }, {
-    "tipo" : "Auditoria de Conteudo de Legendas",
     "detalhe" : "traducao_ptbr/Mobile Suit Gundam Unicorn Re0096 (2016) - S01E01 - Departure 0096_Track4_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=9 | criticas=0",
     "tempoTotalMs" : 30,
     "arquivosProcessados" : 1,
@@ -265,5 +241,213 @@
     "itensDetectados" : 25,
     "itensCorrigidos" : 0,
     "registradoEm" : "2026-08-06T13:26:41.346663600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
+    "tempoTotalMs" : 111,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-11T19:58:23.415017262Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
+    "tempoTotalMs" : 88,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-11T19:58:31.376647470Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "traducao_ptbr/Mobile Suit Zeta Gundam - S01E18_Track2_PT-BR.ass | modo=AMBAS | formatoOriginal=ASS | formatoTraduzido=ASS | anomalias=2 | criticas=0",
+    "tempoTotalMs" : 70,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 2,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-08-11T19:58:40.749150223Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 65,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 27,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:46:40.946276700Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 25,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:46:42.008264900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 24,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 404,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:46:43.048849600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:46:43.717917400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:46:43.750260Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:46:43.778551900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 15,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 12,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:46:43.824308200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 7,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 11,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:46:43.841277Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 15,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 27,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:47:12.040641800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 13,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 22,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:47:13.079332800Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 16,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 404,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:47:14.108463500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 8,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 12,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:47:14.827686100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 15,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 404,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T15:47:31.222521700Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 48,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T17:54:34.753126600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 38,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T17:54:35.941631500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 1,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T17:54:36.988391400Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 18,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T17:54:37.583022100Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 3,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T17:54:37.596248600Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 48,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 4,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T18:07:20.501216500Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 32,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 7,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T18:07:21.674112200Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T18:07:22.707837300Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 17,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 1,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T18:07:23.315379900Z"
+  }, {
+    "tipo" : "Auditoria de Conteudo de Legendas",
+    "detalhe" : "[redigido]",
+    "tempoTotalMs" : 2,
+    "arquivosProcessados" : 1,
+    "itensDetectados" : 0,
+    "itensCorrigidos" : 0,
+    "registradoEm" : "2026-10-08T18:07:23.347947300Z"
   } ]
 }
